@@ -45,31 +45,16 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Large files
-# Exclude all downloaded hospital price files
-backend/downloads/*.csv
-backend/downloads/*.txt
-backend/downloads/*.xlsx
-backend/downloads/*.json
-backend/downloads/*.pdf
-backend/downloads/*.dat
-backend/downloads/*.aspx
-
-# Exclude Python virtual environment binaries
-.venv/
-.venv/lib/
-.venv/bin/
-
-# Logs and sensitive data
+# Exclude ALL downloaded files and logs
+backend/downloads/
 backend/logs/
+price-finder/data/
+price-finder/*.log
 *.log
-.env
-.env.local
-.env.development
-.env.production
-price-finder/crawler_test.log
-price-finder/hospital_tests.log
-price-finder/search_crawler.log
+*.dat
+*.xlsx
+*.csv
+*.json
 
 # Python
 __pycache__/
@@ -92,8 +77,21 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+.env
+.venv
+venv/
+ENV/
+.python-version
 
-# OS files
+# Node
+node_modules/
+.npm
+.next/
+out/
+.cache/
+dist/
+
+# OS specific
 .DS_Store
 .DS_Store?
 ._*
