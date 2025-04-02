@@ -45,16 +45,25 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Exclude ALL downloaded files and logs
-backend/downloads/
-backend/logs/
-price-finder/data/
+# Exclude downloaded files and logs
+backend/downloads/*
+!backend/downloads/README.md
+backend/logs/*
+!backend/logs/README.md
+price-finder/data/*
+!price-finder/data/README.md
 price-finder/*.log
 *.log
 *.dat
 *.xlsx
 *.csv
 *.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!next.config.ts
+!postcss.config.mjs
+!tailwind.config.mjs
 
 # Python
 __pycache__/
