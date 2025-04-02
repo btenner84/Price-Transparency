@@ -1,0 +1,211 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 220, 240, 255;
+  --background-start-rgb: 2, 5, 15;
+  --background-end-rgb: 5, 10, 25;
+  --primary-rgb: 0, 255, 170;  /* Neon green */
+  --secondary-rgb: 0, 175, 255; /* Neon blue */
+  --accent-rgb: 180, 0, 255; /* Neon purple accent for occasional use */
+  --grid-rgb: 0, 210, 255;
+  --highlight-rgb: 200, 255, 240;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(135deg, rgba(var(--background-start-rgb), 1), rgba(var(--background-end-rgb), 1));
+  min-height: 100vh;
+  background-size: 400% 400%;
+  position: relative;
+}
+
+/* Fix for SVG elements to prevent them from rendering too large */
+svg {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+}
+
+/* Progress bar styles */
+.progress-bar-container {
+  background-color: rgba(10, 20, 30, 0.7);
+  border: 2px solid #1e40af;
+  border-radius: 8px;
+  height: 32px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  margin: 12px 0;
+  box-shadow: 0 0 15px rgba(0, 140, 255, 0.2), inset 0 0 10px rgba(0, 0, 0, 0.8);
+}
+
+.progress-bar-found {
+  background: linear-gradient(180deg, #1e40af 0%, #1e3a8a 100%);
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transition: width 1s ease-out;
+  box-shadow: 0 0 10px rgba(30, 64, 175, 0.5);
+  border-right: 1px solid rgba(59, 130, 246, 0.5);
+}
+
+.progress-bar-validated {
+  background: linear-gradient(180deg, #3b82f6 0%, #2563eb 100%);
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transition: width 1s ease-out;
+  box-shadow: 0 0 15px rgba(59, 130, 246, 0.6);
+  border-right: 2px solid rgba(147, 197, 253, 0.8);
+}
+
+/* Cyberpunk dashboard animations */
+@keyframes scan {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.animate-scan {
+  animation: scan 2s linear infinite;
+}
+
+.bg-grid {
+  background-image: 
+    linear-gradient(rgba(0, 140, 255, 0.3) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 140, 255, 0.3) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+
+/* Removed grid background */
+
+.neon-text-green {
+  color: rgb(var(--primary-rgb));
+  text-shadow: 0 0 10px rgba(var(--primary-rgb), 0.7);
+}
+
+.neon-text-blue {
+  color: rgb(var(--secondary-rgb));
+  text-shadow: 0 0 10px rgba(var(--secondary-rgb), 0.7);
+}
+
+.neon-text {
+  color: rgb(var(--secondary-rgb));
+  text-shadow: 0 0 10px rgba(var(--secondary-rgb), 0.7);
+}
+
+.tron-border {
+  position: relative;
+  border: 1px solid rgba(var(--primary-rgb), 0.5);
+  box-shadow: 0 0 5px rgba(var(--primary-rgb), 0.3);
+  overflow: hidden;
+}
+
+.tron-border::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 50%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgb(var(--primary-rgb)), transparent);
+  animation: tron-scan 3s infinite linear;
+}
+
+@keyframes tron-scan {
+  0% { left: -100%; }
+  100% { left: 200%; }
+}
+
+.tron-box {
+  background: rgba(var(--background-start-rgb), 0.6);
+  border: 1px solid rgba(var(--secondary-rgb), 0.5);
+  box-shadow: 0 0 10px rgba(var(--secondary-rgb), 0.2), inset 0 0 10px rgba(var(--secondary-rgb), 0.1);
+  border-radius: 5px;
+}
+
+.tron-card {
+  background: rgba(10, 20, 40, 0.7);
+  border: 1px solid rgba(var(--secondary-rgb), 0.6);
+  box-shadow: 0 0 15px rgba(var(--secondary-rgb), 0.15);
+  transition: all 0.3s ease;
+}
+
+.tron-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0 20px rgba(var(--primary-rgb), 0.3);
+  border-color: rgba(var(--primary-rgb), 0.8);
+}
+
+.tron-button {
+  background: rgba(var(--background-start-rgb), 0.8);
+  color: rgb(var(--primary-rgb));
+  border: 1px solid rgba(var(--primary-rgb), 0.7);
+  box-shadow: 0 0 10px rgba(var(--primary-rgb), 0.2), inset 0 0 5px rgba(var(--primary-rgb), 0.1);
+  transition: all 0.2s ease;
+}
+
+.tron-button:hover {
+  background: rgba(var(--primary-rgb), 0.2);
+  box-shadow: 0 0 15px rgba(var(--primary-rgb), 0.4), inset 0 0 10px rgba(var(--primary-rgb), 0.2);
+}
+
+.tron-button-blue {
+  background: rgba(var(--background-start-rgb), 0.8);
+  color: rgb(var(--secondary-rgb));
+  border: 1px solid rgba(var(--secondary-rgb), 0.7);
+  box-shadow: 0 0 10px rgba(var(--secondary-rgb), 0.2), inset 0 0 5px rgba(var(--secondary-rgb), 0.1);
+  transition: all 0.2s ease;
+}
+
+.tron-button-blue:hover {
+  background: rgba(var(--secondary-rgb), 0.2);
+  box-shadow: 0 0 15px rgba(var(--secondary-rgb), 0.4), inset 0 0 10px rgba(var(--secondary-rgb), 0.2);
+}
+
+.map-state {
+  fill: rgba(var(--foreground-rgb), 0.07);
+  stroke: rgba(var(--secondary-rgb), 0.4);
+  stroke-width: 0.75;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+.map-state:hover {
+  fill: rgba(var(--primary-rgb), 0.25);
+  stroke: rgb(var(--primary-rgb));
+  stroke-width: 1.5;
+  filter: drop-shadow(0 0 3px rgba(var(--primary-rgb), 0.5));
+}
+
+.map-state.active {
+  fill: rgba(var(--primary-rgb), 0.4);
+  stroke: rgb(var(--primary-rgb));
+  stroke-width: 1.5;
+  filter: drop-shadow(0 0 5px rgba(var(--primary-rgb), 0.7));
+}
+
+.scrollbar-thin::-webkit-scrollbar {
+  width: 4px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: rgba(var(--background-start-rgb), 0.5);
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: rgba(var(--primary-rgb), 0.5);
+  border-radius: 4px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: rgb(var(--primary-rgb));
+}

@@ -1,0 +1,2011 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+<head>
+<!--
+       ___            _ _           _
+      |_ _|_ __   ___| (_)_ __   __| |
+       | || '_ \ / __| | | '_ \ / _` |
+       | || | | | (__| | | | | | (_| |
+      |___|_| |_|\___|_|_|_| |_|\__,_|
+========================================================================
+Our website, powered by the open-source flexibility of Drupal,
+is expertly maintained by Inclind - https://www.inclind.com/
+========================================================================
+Drupal, and all contributed files that are derivative works of
+Drupal hosted on Drupal.org (https://www.drupal.org/), are licensed
+under the GNU General Public License, version 2 or later. The
+copyright of both the Drupal software and the "Druplicon" logo belongs
+to all the original authors, though both are licensed under the GPL.
+========================================================================
+-->
+  <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><style id="gutenberg-palette">:root .has-black-color{color:#000000}:root .has-black-background-color{background-color:#000000}:root .has-white-color{color:#ffffff}:root .has-white-background-color{background-color:#ffffff}:root .has-warning-color{color:#fbd64a}:root .has-warning-background-color{background-color:#fbd64a}:root .has-info-color{color:#414ac2}:root .has-info-background-color{background-color:#414ac2}:root .has-success-color{color:#869a3b}:root .has-success-background-color{background-color:#869a3b}:root .has-primary-color{color:#2e358f}:root .has-primary-background-color{background-color:#2e358f}:root .has-secondary-color{color:#ffc222}:root .has-secondary-background-color{background-color:#ffc222}</style>
+<meta name="description" content="Understanding Medical Costs. Make Informed Healthcare Decisions Here at Beebe Healthcare, we understand that medical costs can be very confusing. We believe it’s important to make..." />
+<meta name="abstract" content="Serving the medical needs of the Sussex County Delaware community since 1916. Locations in Lewes, Rehoboth, Milton, Georgetown, Long Neck, Millsboro and Millville." />
+<meta http-equiv="content-language" content="en-US" />
+<link rel="canonical" href="https://www.beebehealthcare.org/patients-visitors/understanding-medical-costs" />
+<meta property="og:site_name" content="Beebe Healthcare" />
+<meta property="og:url" content="https://www.beebehealthcare.org/patients-visitors/understanding-medical-costs" />
+<meta property="og:title" content="Understanding Medical Costs" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:locale:alternate" content="es_ES" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" hreflang="x-default" href="https://www.beebehealthcare.org/patients-visitors/understanding-medical-costs" />
+<link rel="icon" href="/sites/default/files/beebe-favicons.png" type="image/png" />
+<link rel="alternate" hreflang="en" href="https://www.beebehealthcare.org/patients-visitors/understanding-medical-costs" />
+
+    <title>Understanding Medical Costs | Beebe Healthcare</title>
+    <style id="critical-css">.visually-hidden{position:absolute !important;overflow:hidden;clip:rect(1px,1px,1px,1px);width:1px;height:1px;word-wrap:normal;}@font-face{font-family:'Outbound';src:local('Outbound'),local('Outbound'),url("/themes/custom/particle/apps/drupal/../../apps/drupal/fonts/../fonts/outbound-Regular.woff") format('woff');font-display:swap;;}@font-face{font-family:'Montserrat';font-style:normal;font-weight:400;font-display:swap;src:url(/themes/custom/particle/apps/drupal/../../apps/drupal/fonts/../fonts/montserrat-v14-latin-regular.eot);src:local('Montserrat Regular'),local('Montserrat-Regular'),url(/themes/custom/particle/apps/drupal/../../apps/drupal/fonts/../fonts/montserrat-v14-latin-regular.woff2) format('woff2'),url(/themes/custom/particle/apps/drupal/../../apps/drupal/fonts/../fonts/montserrat-v14-latin-regular.woff) format('woff');;}@font-face{font-family:'Montserrat';font-style:italic;font-weight:400;font-display:swap;src:url(/themes/custom/particle/apps/drupal/../../apps/drupal/fonts/../fonts/montserrat-v14-latin-italic.eot);src:local('Montserrat Italic'),local('Montserrat-Italic'),url(/themes/custom/particle/apps/drupal/../../apps/drupal/fonts/../fonts/montserrat-v14-latin-italic.woff2) format('woff2'),url(/themes/custom/particle/apps/drupal/../../apps/drupal/fonts/../fonts/montserrat-v14-latin-italic.woff) format('woff');;}@font-face{font-family:'Montserrat';font-style:normal;font-weight:600;font-display:swap;src:local('Montserrat SemiBold'),local('Montserrat-SemiBold'),url(/themes/custom/particle/apps/drupal/../../apps/drupal/fonts/../fonts/montserrat-v14-latin-600.woff2) format('woff2'),url(/themes/custom/particle/apps/drupal/../../apps/drupal/fonts/../fonts/montserrat-v14-latin-600.woff) format('woff');;}@font-face{font-family:'Montserrat';font-style:italic;font-weight:600;font-display:swap;src:local('Montserrat SemiBold Italic'),local('Montserrat-SemiBoldItalic'),url(/themes/custom/particle/apps/drupal/../../apps/drupal/fonts/../fonts/montserrat-v14-latin-600italic.woff2) format('woff2'),url(/themes/custom/particle/apps/drupal/../../apps/drupal/fonts/../fonts/montserrat-v14-latin-600italic.woff) format('woff');;}@font-face{font-family:'Montserrat';font-style:normal;font-weight:800;font-display:swap;src:local('Montserrat ExtraBold'),local('Montserrat-ExtraBold'),url(/themes/custom/particle/apps/drupal/../../apps/drupal/fonts/../fonts/montserrat-v14-latin-800.woff2) format('woff2'),url(/themes/custom/particle/apps/drupal/../../apps/drupal/fonts/../fonts/montserrat-v14-latin-800.woff) format('woff');;}.visually-hidden{position:absolute !important;overflow:hidden;clip:rect(1px,1px,1px,1px);width:1px;height:1px;word-wrap:normal;}.branding__site-logo .svg--icon svg{width:160px;height:55px;}.branding__site-logo{display:block !important;}.branding__site-logo.ie11{display:none !important;}.mdc-text-field *,form *{font-family:Montserrat,sans !important;}.mdc-notched-outline{display:flex;position:absolute;right:0;left:0;box-sizing:border-box;width:100%;max-width:100%;height:100%;text-align:left;}.mdc-notched-outline__leading,.mdc-notched-outline__notch,.mdc-notched-outline__trailing{box-sizing:border-box;height:100%;border-top:1px solid;border-bottom:1px solid;}.mdc-notched-outline__leading{border-left:1px solid;border-right:none;width:12px;}.mdc-notched-outline__trailing{border-left:none;border-right:1px solid;}.mdc-notched-outline__trailing{flex-grow:1;}.mdc-notched-outline__notch{flex:0 0 auto;width:auto;max-width:calc(100% - 24px);}.mdc-notched-outline .mdc-floating-label{display:inline-block;position:relative;top:17px;bottom:auto;max-width:100%;}.mdc-floating-label{font-family:Roboto,sans-serif;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;font-size:1rem;line-height:1.75rem;font-weight:400;letter-spacing:.00937em;text-decoration:inherit;text-transform:inherit;position:absolute;left:0;transform-origin:left top;line-height:1.15rem;text-align:left;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;will-change:transform;}.mdc-floating-label{font-family:Roboto,sans-serif;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;font-size:1rem;line-height:1.75rem;font-weight:400;letter-spacing:.00937em;text-decoration:inherit;text-transform:inherit;position:absolute;left:0;transform-origin:left top;line-height:1.15rem;text-align:left;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;will-change:transform;}.mdc-notched-outline{display:flex;position:absolute;right:0;left:0;box-sizing:border-box;width:100%;max-width:100%;height:100%;text-align:left;}.mdc-notched-outline__leading,.mdc-notched-outline__notch,.mdc-notched-outline__trailing{box-sizing:border-box;height:100%;border-top:1px solid;border-bottom:1px solid;}.mdc-notched-outline__leading{border-left:1px solid;border-right:none;width:12px;}.mdc-notched-outline__trailing{border-left:none;border-right:1px solid;}.mdc-notched-outline__trailing{flex-grow:1;}.mdc-notched-outline__notch{flex:0 0 auto;width:auto;max-width:calc(100% - 24px);}.mdc-notched-outline .mdc-floating-label{display:inline-block;position:relative;top:17px;bottom:auto;max-width:100%;}.mdc-text-field{--mdc-ripple-fg-size:0;--mdc-ripple-left:0;--mdc-ripple-top:0;--mdc-ripple-fg-scale:1;--mdc-ripple-fg-translate-end:0;--mdc-ripple-fg-translate-start:0;border-radius:4px 4px 0 0;display:inline-flex;position:relative;box-sizing:border-box;height:56px;overflow:hidden;will-change:opacity,transform,color;}.mdc-text-field:after,.mdc-text-field:before{position:absolute;border-radius:50%;opacity:0;content:'';}.mdc-text-field:before{z-index:1;}.mdc-text-field:after,.mdc-text-field:before{background-color:rgba(0,0,0,.87);}.mdc-text-field:after,.mdc-text-field:before{top:-50%;left:-50%;width:200%;height:200%;}.mdc-text-field:not(.mdc-text-field--disabled) .mdc-floating-label{color:rgba(0,0,0,.6);}.mdc-text-field:not(.mdc-text-field--disabled) .mdc-text-field__input{color:rgba(0,0,0,.87);}.mdc-text-field .mdc-text-field__input{caret-color:#2e358f;caret-color:var(--mdc-theme-primary,#2e358f);}.mdc-text-field:not(.mdc-text-field--disabled):not(.mdc-text-field--textarea){border-bottom-color:rgba(0,0,0,.12);}.mdc-text-field:not(.mdc-text-field--disabled){background-color:#f5f5f5;}.mdc-text-field .mdc-floating-label{left:16px;right:auto;top:18px;}.mdc-text-field--outlined .mdc-floating-label{left:4px;right:auto;top:17px;}.mdc-text-field__input{font-family:Roboto,sans-serif;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;font-size:1rem;line-height:1.75rem;font-weight:400;letter-spacing:.00937em;text-decoration:inherit;text-transform:inherit;align-self:flex-end;box-sizing:border-box;width:100%;height:100%;padding:20px 16px 6px;border:none;border-bottom:1px solid;border-radius:0;background:none;appearance:none;}.mdc-text-field--outlined{border:none;overflow:visible;}.mdc-text-field--outlined:not(.mdc-text-field--disabled) .mdc-notched-outline__leading,.mdc-text-field--outlined:not(.mdc-text-field--disabled) .mdc-notched-outline__notch,.mdc-text-field--outlined:not(.mdc-text-field--disabled) .mdc-notched-outline__trailing{border-color:rgba(0,0,0,.38);}.mdc-text-field--outlined .mdc-notched-outline .mdc-notched-outline__leading{border-radius:4px 0 0 4px;}.mdc-text-field--outlined .mdc-notched-outline .mdc-notched-outline__trailing{border-radius:0 4px 4px 0;}.mdc-text-field--outlined:after,.mdc-text-field--outlined:before{content:none;}.mdc-text-field--outlined:not(.mdc-text-field--disabled){background-color:transparent;}.mdc-text-field--outlined .mdc-text-field__input{display:flex;padding:12px 16px 14px;border:none !important;background-color:transparent;z-index:1;}.mdc-text-field-helper-line{display:flex;justify-content:space-between;box-sizing:border-box;}.mdc-text-field+.mdc-text-field-helper-line{padding-right:16px;padding-left:16px;}.mdc-text-field .mdc-notched-outline .mdc-notched-outline__leading{border-radius:10px 0 0 10px;}.mdc-text-field .mdc-notched-outline .mdc-notched-outline__trailing{border-radius:0 10px 10px 0;}.form-item{margin-bottom:21px !important;}.mdc-text-field{width:100%;height:3.5rem;}.mdc-text-field--outlined .mdc-text-field__input{padding:.5rem 1rem;}.mdc-text-field--outlined .mdc-floating-label{top:11px;}.mdc-text-field .mdc-notched-outline .mdc-notched-outline__leading{border-radius:4px 0 0 4px;}.mdc-text-field .mdc-notched-outline .mdc-notched-outline__trailing{border-radius:0 4px 4px 0;}.mdc-notched-outline__notch{padding:.5rem 0 0;}.mdc-text-field--outlined .mdc-notched-outline{background-color:#fff;}body.toolbar-fixed{padding-top:4.9rem !important;}:root{--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#fbd64a;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--gray:#6c757d;--gray-dark:#343a40;--primary:#2e358f;--secondary:#ffc222;--success:#869a3b;--info:#414ac2;--warning:#fbd64a;--danger:#dc3545;--light:#f8f9fa;--dark:#343a40;--primary-light:#313a9f;--tertiary:#414ac2;--alert:#cd202d;--dark-gray:#4a4a4a;--medium-gray:#909090;--light-gray:#efefef;--lighter-gray:#fafafa;--white:#fff;--black:#000;--ada-light-gray:#707070;--hr:#d7d7d7;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--font-family-sans-serif:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--font-family-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;}*,:after,:before{box-sizing:border-box;}html{font-family:sans-serif;line-height:1.15;}aside,header,nav{display:block;}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff;}h2{margin-top:0;margin-bottom:.5rem;}ul{margin-bottom:1rem;}ul{margin-top:0;}ul ul{margin-bottom:0;}a{color:#2e358f;text-decoration:none;background-color:transparent;}img{border-style:none;}img,svg{vertical-align:middle;}svg{overflow:hidden;}label{display:inline-block;margin-bottom:.5rem;}button{border-radius:0;}button,input{margin:0;font-family:inherit;font-size:inherit;line-height:inherit;}button,input{overflow:visible;}button{text-transform:none;}[type='button'],[type='submit'],button{appearance:button;}[type='button']::-moz-focus-inner,[type='submit']::-moz-focus-inner,button::-moz-focus-inner{padding:0;border-style:none;}::-webkit-file-upload-button{font:inherit;appearance:button;}.h5,h2{margin-bottom:.5rem;font-family:Montserrat,sans-serif;font-weight:600;line-height:1.2;}h2{font-size:2rem;}.h5{font-size:1.25rem;}.container{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto;}@media (min-width:576px){.container{max-width:540px;};}.container-fluid{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto;}.row{display:flex;flex-wrap:wrap;margin-right:-15px;margin-left:-15px;}.col,.col-12{position:relative;width:100%;padding-right:15px;padding-left:15px;}.col{flex-basis:0;flex-grow:1;max-width:100%;}.col-12{flex:0 0 100%;max-width:100%;}.form-text{display:block;margin-top:.25rem;}.dropdown{position:relative;}.dropdown-toggle{white-space:nowrap;}.dropdown-toggle:after{display:inline-block;margin-left:.255em;vertical-align:.255em;content:"";border-top:.3em solid;border-right:.3em solid transparent;border-bottom:0;border-left:.3em solid transparent;}.dropdown-menu{position:absolute;top:100%;left:0;z-index:1000;display:none;float:left;min-width:10rem;padding:.5rem 0;margin:.125rem 0 0;font-size:1rem;color:#212529;text-align:left;list-style:none;background-color:#fff;background-clip:padding-box;border:1px solid rgba(0,0,0,.15);border-radius:.25rem;}.dropdown-item{display:block;width:100%;padding:.25rem 1.5rem;clear:both;font-weight:400;color:#212529;text-align:inherit;white-space:nowrap;background-color:transparent;border:0;}.nav{display:flex;flex-wrap:wrap;padding-left:0;margin-bottom:0;list-style:none;}.nav-link{display:block;padding:.5rem 1rem;}.nav-fill .nav-item{flex:1 1 auto;text-align:center;}.navbar-collapse{flex-basis:100%;flex-grow:1;align-items:center;}.navbar-toggler{padding:.25rem .75rem;font-size:1.25rem;line-height:1;background-color:transparent;border:1px solid transparent;border-radius:.25rem;}.bg-primary,.bg-tertiary{background-color:white !important;color:#4a4a4a !important;}.mega-menu .dropdown-title{border-bottom:thin solid #d7d7d7;display:block;padding-top:1rem;padding-bottom:.5rem;}.mega-menu .mega-wrapper{display:flex;flex-wrap:wrap;flex-direction:row;justify-content:space-between;left:0;right:0;background-color:#fafafa;top:auto;width:100vw;position:fixed;padding:1rem 0;}.mega-menu .mega-wrapper .dropdown-item{width:auto;}.mega-menu ul:not(.nav)>li:before{content:none;}.dropdown-menu{border-radius:0;padding:25px;border:none;background-color:#fafafa;left:0;right:0;top:auto;width:100%;min-width:16.25rem;margin-top:0;}.dropdown-menu a{color:#414ac2;display:inline-block;padding:.55rem 0 .75rem;}ul.dropdown-menu-sub-item{margin-left:0;}.dropdown-item{padding:.25rem 0;white-space:normal;}.dropdown-toggle:after{content:none;}header .dropdown-menu{display:block;opacity:0;visibility:hidden;}.searchbar{background-color:rgba(46,53,143,.95);padding:2rem;z-index:2000;position:fixed;width:100%;top:-100%;}.searchbar .container{position:relative;}.searchbar form{width:calc(100% - 4rem);}.searchbar input:not([type='submit']){height:55px;color:hsla(0,0%,56.5%,.99);border:none;outline:none;padding:0 4rem 0 2rem;font-size:.8rem;}.searchbar button,.searchbar input[type='submit']{background:transparent;outline:none;border:none;}.searchbar .search-submit{position:absolute;top:-1.5rem;right:5rem;width:2.5rem;}.searchbar .search-toggle{position:absolute;top:1rem;right:0;width:4rem;}.searchbar .search-toggle svg{height:4rem;}.searchbar .views-exposed-form-content-search-index-search-index .mdc-text-field--outlined .mdc-floating-label{top:17px;opacity:1;visibility:visible;}.searchbar .views-exposed-form-content-search-index-search-index .mdc-text-field--outlined:not(.mdc-text-field--disabled) .mdc-notched-outline__leading,.searchbar .views-exposed-form-content-search-index-search-index .mdc-text-field--outlined:not(.mdc-text-field--disabled) .mdc-notched-outline__notch,.searchbar .views-exposed-form-content-search-index-search-index .mdc-text-field--outlined:not(.mdc-text-field--disabled) .mdc-notched-outline__trailing{padding:0;margin:0 0 0 .8rem;border:none;}.searchbar .search-toggle{top:-5px;}.searchbar .search-submit{top:0;right:1rem;width:3.5rem;height:3.5rem;visibility:hidden;}.nav-link{padding:.25rem 1rem .25rem 0;}header.global-header{background:hsla(0,0%,100%,.75);position:fixed;z-index:500;width:100%;top:auto;}header.global-header .branding{padding:.25rem 0 0 1.5rem;max-width:10rem;}@media (min-width:576px){header.global-header .branding{padding:.7rem 0 0 1.5rem;};}.primary-menu nav{height:100%;justify-content:flex-end;max-width:1060px;margin:0 auto;}.primary-menu .nav-item{position:relative;height:100%;}.primary-menu .nav-item>.nav-link{font-weight:600;line-height:5.6;text-transform:uppercase;padding:0;color:#2e358f;font-size:.9rem;overflow:hidden;height:100%;}.stacked-buttons{max-width:10rem;}.stacked-buttons .nav-item{background:#414ac2;font-weight:600;}.stacked-buttons .nav-item:first-child{background:#2e358f;}.stacked-buttons .nav-link{color:#fff;padding:.6rem 1rem;font-size:.875rem;}.utility-nav li{border-right:thin solid hsla(0,0%,100%,.2);}.utility-nav li:last-child{border-right:none;}.utility-nav a{color:#fff;font-size:.875rem;padding:.375rem 1rem;}.search-button{margin-left:auto;background:transparent;}.menu-icon,.search-button{max-width:80px;padding:.5rem 1.5rem 0;border:none;}@media (min-width:576px){.menu-icon,.search-button{padding:0 1.5rem;};}.menu-icon .svg--icon svg,.search-button .svg--icon svg{max-height:3.125rem;}.search-button{border-left:1px solid #efefef;border-right:1px solid #efefef;}.menu-icon .hamburger{display:block;pointer-events:none;}.menu-icon .times{display:none;}.navbar-toggler{border-radius:0;}.offcanvas-collapse{display:block;position:fixed;bottom:0;top:0;right:-330px;height:100vh;width:calc(100vw - 5.75rem);padding:0 1.5rem 1.5rem;overflow-y:auto;visibility:hidden;}@media (min-width:576px){.offcanvas-collapse{width:330px;};}.navbar-collapse,.navbar-collapse a{color:#fff;}.offcanvas-collapse .mega-column{flex-basis:auto;}.offcanvas-collapse .mega-menu .mega-wrapper{position:relative;background:transparent;width:100%;display:block;padding:0;}.offcanvas-collapse .nav-item.dropdown{width:100%;padding:0 3.75rem 0 0;background-position:top 1.5rem right 1rem;background-size:1rem;}.offcanvas-collapse .nav-link{color:#fff;font-weight:600;padding:1.125rem 0 1.125rem .25rem;text-transform:none;}.offcanvas-collapse .nav-item{border-bottom:1px solid #414ac2;}.offcanvas-collapse .col,.offcanvas-collapse .dropdown-menu{position:relative;background:transparent;padding:0;}.offcanvas-collapse .dropdown .dropdown-menu{margin-top:.25rem;}.offcanvas-collapse .dropdown-item,.offcanvas-collapse .dropdown-sub-item a{padding:0 0 1.125rem .375rem;font-size:.875rem;}.offcanvas-collapse .mega-wrapper .dropdown-item{padding:.75rem 0 0;}.offcanvas-collapse .mega-column>.dropdown-item{padding:0;}
+</style>
+<link rel="preload" href="/sites/default/files/css/css_kGzahoVYt5hd-Q4jf3gSFR7sySIXfm98h9T7n6lQxsw.css?delta=0&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_kGzahoVYt5hd-Q4jf3gSFR7sySIXfm98h9T7n6lQxsw.css?delta=0&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_kGzahoVYt5hd-Q4jf3gSFR7sySIXfm98h9T7n6lQxsw.css?delta=0&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_Jc0_EtSXZPBv5eVgj53xNxuTmPGJRwwhHgk7io0rD88.css?delta=1&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_Jc0_EtSXZPBv5eVgj53xNxuTmPGJRwwhHgk7io0rD88.css?delta=1&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_Jc0_EtSXZPBv5eVgj53xNxuTmPGJRwwhHgk7io0rD88.css?delta=1&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_IL0tzDbWcgDym_YLfgnmfObqkgccnyKB1bJh7Lkr8Ow.css?delta=2&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_IL0tzDbWcgDym_YLfgnmfObqkgccnyKB1bJh7Lkr8Ow.css?delta=2&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_IL0tzDbWcgDym_YLfgnmfObqkgccnyKB1bJh7Lkr8Ow.css?delta=2&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_LAFxPB8Fx2AF6rpKyFNRPGFszqQnwb-mE2CPRZWMmw8.css?delta=3&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_LAFxPB8Fx2AF6rpKyFNRPGFszqQnwb-mE2CPRZWMmw8.css?delta=3&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_LAFxPB8Fx2AF6rpKyFNRPGFszqQnwb-mE2CPRZWMmw8.css?delta=3&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_vRRvpvbBagUknLqswiT8_lEyA5pxViDT9H8l7vK9PlI.css?delta=4&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_vRRvpvbBagUknLqswiT8_lEyA5pxViDT9H8l7vK9PlI.css?delta=4&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_vRRvpvbBagUknLqswiT8_lEyA5pxViDT9H8l7vK9PlI.css?delta=4&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_IumjOETTSKCOzUZAwi05YFukA4sh7mZddADkw3xXI6A.css?delta=5&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_IumjOETTSKCOzUZAwi05YFukA4sh7mZddADkw3xXI6A.css?delta=5&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_IumjOETTSKCOzUZAwi05YFukA4sh7mZddADkw3xXI6A.css?delta=5&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_WUt7RtcaIN-kbSL2RS9ic-z-EDkO4ngchuxG8DU99DM.css?delta=6&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_WUt7RtcaIN-kbSL2RS9ic-z-EDkO4ngchuxG8DU99DM.css?delta=6&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_WUt7RtcaIN-kbSL2RS9ic-z-EDkO4ngchuxG8DU99DM.css?delta=6&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_EwgxkTNwuoE3yVPCdMsv4qR_10UBLfSLF76AedeSZyw.css?delta=7&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_EwgxkTNwuoE3yVPCdMsv4qR_10UBLfSLF76AedeSZyw.css?delta=7&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_EwgxkTNwuoE3yVPCdMsv4qR_10UBLfSLF76AedeSZyw.css?delta=7&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_8kbU2X_OOpytZOriJtDW2IusoGKzgyDjz5sbOZf7VgU.css?delta=8&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_8kbU2X_OOpytZOriJtDW2IusoGKzgyDjz5sbOZf7VgU.css?delta=8&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_8kbU2X_OOpytZOriJtDW2IusoGKzgyDjz5sbOZf7VgU.css?delta=8&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_GrY1TJjSkuckBMopzwU3kk_trvLHgslhJcg4nWqyPUI.css?delta=9&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_GrY1TJjSkuckBMopzwU3kk_trvLHgslhJcg4nWqyPUI.css?delta=9&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_GrY1TJjSkuckBMopzwU3kk_trvLHgslhJcg4nWqyPUI.css?delta=9&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_U9Yf7sLzbbH9tTsmAGavTDfHQOhbSDahlIqzp8ZyRRY.css?delta=10&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_U9Yf7sLzbbH9tTsmAGavTDfHQOhbSDahlIqzp8ZyRRY.css?delta=10&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_U9Yf7sLzbbH9tTsmAGavTDfHQOhbSDahlIqzp8ZyRRY.css?delta=10&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_lubKMkowqfyhCibMsveYuLMer15HZZJzbqjCUQkMKZ8.css?delta=11&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_lubKMkowqfyhCibMsveYuLMer15HZZJzbqjCUQkMKZ8.css?delta=11&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_lubKMkowqfyhCibMsveYuLMer15HZZJzbqjCUQkMKZ8.css?delta=11&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_pFzOV-7ITycoRkH9ynRC9VNEonT4Zie1zxKyYYXjejs.css?delta=12&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_pFzOV-7ITycoRkH9ynRC9VNEonT4Zie1zxKyYYXjejs.css?delta=12&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_pFzOV-7ITycoRkH9ynRC9VNEonT4Zie1zxKyYYXjejs.css?delta=12&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_Vkyr-9QTbDgo2XSnztwZ_nu2yNuGgK-X2LwlBI_uF7k.css?delta=13&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_Vkyr-9QTbDgo2XSnztwZ_nu2yNuGgK-X2LwlBI_uF7k.css?delta=13&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_Vkyr-9QTbDgo2XSnztwZ_nu2yNuGgK-X2LwlBI_uF7k.css?delta=13&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_7mejfETp0qzqtWkOIWXxBFyPPL6cAN4xqmqO1ieFAdw.css?delta=14&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_7mejfETp0qzqtWkOIWXxBFyPPL6cAN4xqmqO1ieFAdw.css?delta=14&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_7mejfETp0qzqtWkOIWXxBFyPPL6cAN4xqmqO1ieFAdw.css?delta=14&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_rt1gjkoh3Vfa7u9cGCmGTQIIwQOf_1tVwZIcEpAO9SA.css?delta=15&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_rt1gjkoh3Vfa7u9cGCmGTQIIwQOf_1tVwZIcEpAO9SA.css?delta=15&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_rt1gjkoh3Vfa7u9cGCmGTQIIwQOf_1tVwZIcEpAO9SA.css?delta=15&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_6e97tsj3l-n3hVmOvmZ_3iott2GUZSVc5hOiOx9GiMA.css?delta=16&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_6e97tsj3l-n3hVmOvmZ_3iott2GUZSVc5hOiOx9GiMA.css?delta=16&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_6e97tsj3l-n3hVmOvmZ_3iott2GUZSVc5hOiOx9GiMA.css?delta=16&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_1JR3FpzNfXwJMNcWPDq5gF9tm_NUzjUUTDjQvx9y6cM.css?delta=17&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_1JR3FpzNfXwJMNcWPDq5gF9tm_NUzjUUTDjQvx9y6cM.css?delta=17&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_1JR3FpzNfXwJMNcWPDq5gF9tm_NUzjUUTDjQvx9y6cM.css?delta=17&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_TR2_EMupaSk_3oiEocNbzm76gzz_YOsUykKKg6bY2Uk.css?delta=18&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_TR2_EMupaSk_3oiEocNbzm76gzz_YOsUykKKg6bY2Uk.css?delta=18&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_TR2_EMupaSk_3oiEocNbzm76gzz_YOsUykKKg6bY2Uk.css?delta=18&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_JW6w_RSn4841zPKajTK-jMPmiDsVheLQjiVPDJUXOow.css?delta=19&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_JW6w_RSn4841zPKajTK-jMPmiDsVheLQjiVPDJUXOow.css?delta=19&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_JW6w_RSn4841zPKajTK-jMPmiDsVheLQjiVPDJUXOow.css?delta=19&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_uGAaA8-B4AXJ_P_brwp1S_g3aNbfSRBPTM3dvVo-1uE.css?delta=20&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_uGAaA8-B4AXJ_P_brwp1S_g3aNbfSRBPTM3dvVo-1uE.css?delta=20&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_uGAaA8-B4AXJ_P_brwp1S_g3aNbfSRBPTM3dvVo-1uE.css?delta=20&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_rI-3pWnxnY99DLAzmVmJPV4z9pt5YSeltMx7YYG4BVI.css?delta=21&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_rI-3pWnxnY99DLAzmVmJPV4z9pt5YSeltMx7YYG4BVI.css?delta=21&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_rI-3pWnxnY99DLAzmVmJPV4z9pt5YSeltMx7YYG4BVI.css?delta=21&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_4BwOyWyw4EQF-pFHgdbU_2RIR5u4qqipLIUe2FZmFj4.css?delta=22&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_4BwOyWyw4EQF-pFHgdbU_2RIR5u4qqipLIUe2FZmFj4.css?delta=22&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_4BwOyWyw4EQF-pFHgdbU_2RIR5u4qqipLIUe2FZmFj4.css?delta=22&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_4SXd5ZlS_kIfMGcXYE-UsWdRmnumcPsJdTkPqvdBjyg.css?delta=23&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_4SXd5ZlS_kIfMGcXYE-UsWdRmnumcPsJdTkPqvdBjyg.css?delta=23&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_4SXd5ZlS_kIfMGcXYE-UsWdRmnumcPsJdTkPqvdBjyg.css?delta=23&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_gq7bl9gO312Fiq2KKeBqsOPTV5OGoxlij0UQI1Yk6l4.css?delta=24&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_gq7bl9gO312Fiq2KKeBqsOPTV5OGoxlij0UQI1Yk6l4.css?delta=24&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_gq7bl9gO312Fiq2KKeBqsOPTV5OGoxlij0UQI1Yk6l4.css?delta=24&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css___F4G8Y4t2HfAM4iAAlh31JBhlfc7gWHKLrOd9LyaVU.css?delta=25&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" id="drupal-blocks" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css___F4G8Y4t2HfAM4iAAlh31JBhlfc7gWHKLrOd9LyaVU.css?delta=25&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" id="drupal-blocks" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css___F4G8Y4t2HfAM4iAAlh31JBhlfc7gWHKLrOd9LyaVU.css?delta=25&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" id="drupal-blocks" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_lW-5EAKumcA32itYFzoSJaXZaikwj_pn1iwP-sV5QHI.css?delta=26&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_lW-5EAKumcA32itYFzoSJaXZaikwj_pn1iwP-sV5QHI.css?delta=26&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_lW-5EAKumcA32itYFzoSJaXZaikwj_pn1iwP-sV5QHI.css?delta=26&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_hzmPSumkZ0EFNI0vMzf2ooj8syEihQGNwSz9fMSkoRM.css?delta=27&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_hzmPSumkZ0EFNI0vMzf2ooj8syEihQGNwSz9fMSkoRM.css?delta=27&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_hzmPSumkZ0EFNI0vMzf2ooj8syEihQGNwSz9fMSkoRM.css?delta=27&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="preload" href="/sites/default/files/css/css_a7Zeq6hykGLE74YhcD12WevLS7imBwWM7lz95eTUUG4.css?delta=28&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_a7Zeq6hykGLE74YhcD12WevLS7imBwWM7lz95eTUUG4.css?delta=28&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_a7Zeq6hykGLE74YhcD12WevLS7imBwWM7lz95eTUUG4.css?delta=28&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript><link rel="stylesheet" media="print" href="/sites/default/files/css/css_tlI88QUdDaTSuS3hyr2208W0wutfAkeXkRTvAeuC4zc.css?delta=29&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+<link rel="preload" href="/sites/default/files/css/css_wJdDI6yHXtbp2f2b6hVFUkSoCaZ62--jq6pNR-ndXlg.css?delta=30&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" as="style" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_wJdDI6yHXtbp2f2b6hVFUkSoCaZ62--jq6pNR-ndXlg.css?delta=30&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" data-onload-media="all" onload="this.onload=null;this.media=this.dataset.onloadMedia" />
+<noscript><link rel="stylesheet" media="all" href="/sites/default/files/css/css_wJdDI6yHXtbp2f2b6hVFUkSoCaZ62--jq6pNR-ndXlg.css?delta=30&amp;language=en&amp;theme=particle&amp;include=eJxVjVEKAjEMBS8UmyMtaRpqNU2XtFXX08vuiuDP8GAGHpOKJXLk7wjjKlWgb31IxUhdYCUfhVWQmwvswORzJQ10oxdEpfeG2igVy5DnEIviGaM2vvfLo8gTirEWS8vPLqc9o7PZ0fFgqC1N_Xu2QcXEP2MNRCA" />
+</noscript>
+      <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/407","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxdkOFuwjAMhF8oax6pcpIjNThJFRu67ulXaNmAP6f77izLchD6WX24q3uoj0KqwmoHS6N02LnJemKRJ_ZWWHFQp9PhFoTZRRLURN0_zWATClwiI6EV3QdMdOPW1eXWsmA0yj5v8skDnen7PSwuXw01oOft-BYv-nVjLI5rFK5p_GvHvd2H9pmZunEU-NiqEVf016jjn5QNC6eXxNYZNIHSeFanqxqKD7T94L5Z_UOH0tJV8AuOYIXy","theme":"particle","theme_token":null},"ajaxTrustedUrl":{"\/site-search":true},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"google\nnonGooglePixels\nnonGoogleScripts\nnonGoogleIframes","blocklist_classes":"customScripts\ncustomPixels","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-WSK5SX7"]},"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0},"es":{"id":"es","name":"Spanish","direction":"ltr","weight":1}}},"uid":0,"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50,"validateDelay":25,"loader":true,"unblazy":false},"blazyIo":{"disconnect":false,"rootMargin":"0px","threshold":[0.5]},"csp":{"nonce":"zgowsNMo9aTjrcSezouGpA"},"user":{"uid":0,"permissionsHash":"c32e80f4b6517259ade487a875970ff95726489b99a947651bf7bf7fa03e7203"}}</script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.3.13"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?stsiyp"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?stsiyp"></script>
+
+      <meta name="google-site-verification" content="TZdmC_FYRw-Nl0zExIm7x_LhvETw6ATCkGZDm37N7CE" />
+    <script>(function(d){var s = d.createElement("script");s.setAttribute("data-account", "vTEJuNJTH3");s.setAttribute("src", "https://cdn.userway.org/widget.js");(d.body || d.head).appendChild(s);})(document)</script><noscript>Please ensure Javascript is enabled for purposes of <a href="https://userway.org">website accessibility</a></noscript>
+
+  <div id="dcAkSfMcrRx3COxpyGR4EIVILFCHqxOlZBcMQAmuJn6Y"></div>
+  <script src="https://mktdplp102cdn.azureedge.net/public/latest/js/ws-tracking.js?v=1.70.1097.0"></script>
+  <div class="d365-mkt-config" style="display:none" data-website-id="cAkSfMcrRx3COxpyGR4EIVILFCHqxOlZBcMQAmuJn6Y" data-hostname="7cd903748bea4c98aaa3be12ec20dde9.svc.dynamics.com"></div>
+
+  <script src="https://mktdplp102cdn.azureedge.net/public/latest/js/form-loader.js?v=1.70.1097.0"></script>
+  <div class="d365-mkt-config" style="display:none" data-website-id="cAkSfMcrRx3COxpyGR4EIVILFCHqxOlZBcMQAmuJn6Y" data-hostname="7cd903748bea4c98aaa3be12ec20dde9.svc.dynamics.com"></div>
+</head>
+<body>
+
+<a href="#main-content" class="visually-hidden focusable">
+  Skip to main content
+</a>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WSK5SX7"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+
+
+        <div  class="pdm_alerts-region">
+    
+  </div>
+
+    <div class="layout-container">
+
+          
+<div class="searchbar">
+  <div class="container">
+    <div class="row">
+              <form class="views-exposed-form views-exposed-form-content-search-index-search-index" data-drupal-selector="views-exposed-form-content-search-index-search-index" action="/site-search" method="get" id="views-exposed-form-content-search-index-search-index" accept-charset="UTF-8" novalidate>
+  
+
+
+
+<div>
+  
+                                                                                                                                                                                                          
+
+  
+
+
+<div class=" form-item form-item-txt form-type-textfield js-form-item js-form-item-txt js-form-type-textfield">
+
+    
+        
+
+        
+                <div class="mdc-text-field mdc-text-field--outlined">
+            
+
+
+
+
+
+
+<div class="mdc-text-field w-100  mdc-text-field--outlined ">
+
+
+              <input type="text" class="col-12 form-text mdc-text-field__input" placeholder=""
+            data-drupal-selector="edit-txt" id="edit-txt" name="txt" value="" size="30" maxlength="128">
+
+    
+  <div class="mdc-notched-outline">
+    <div class="mdc-notched-outline__leading"></div>
+    <div class="mdc-notched-outline__notch">
+        <label for="edit-txt" class="mdc-floating-label">What are you looking for?</label>
+    </div>
+    <div class="mdc-notched-outline__trailing"></div>
+  </div>
+
+</div>
+
+        </div>
+                
+        
+        <div class="mdc-text-field-helper-line">
+                    </div>
+        
+
+        
+
+    </div>
+
+  
+
+<div data-drupal-selector="edit-actions" class="form-actions" id="edit-actions">
+  
+<input  class="search-submit button js-form-submit form-submit btn btn-secondary mb-6" data-drupal-selector="edit-submit-content-search-index" type="submit" id="edit-submit-content-search-index" value="Search" />
+</div>
+
+</div>
+
+
+
+
+</form>
+
+        <button class="search-toggle" aria-label="Close the search bar and resume browsing the site">
+          
+
+<div class="color-fill--white svg svg--icon">
+  <svg>
+    <use xlink:href="/themes/custom/particle/dist/app-drupal/assets/spritemap.svg#sprite-times"></use>
+  </svg>
+</div>
+        </button>
+          </div>
+  </div>
+</div>
+      <header role="banner" class="global-header">
+                
+  <h2 class="visually-hidden" id="block-utilitymenu-menu">Utility Menu</h2>
+  
+
+        <div class="utility-nav bg-tertiary caps d-block d-lg-none">
+
+
+
+<nav class="justify-content-center nav nav-fill"  >
+                    
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/locations"  >Locations</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/pay-bill-online"  >Pay Bill</a>
+  </li>
+            </nav>
+</div>
+    
+    <div class="container-fluid">
+        <div class="row">
+            <div class="p-0 branding col">
+                
+
+    
+  
+<aside class="branding">
+  <div class="branding__site-logo">
+    <a href="/" title="Beebe Healthcare" rel="homepage">
+          <span class="sr-only">Beebe Healthcare Logo - Return to Homepage</span>
+       
+
+<div class="svg svg--icon">
+  <svg>
+    <use xlink:href="/themes/custom/particle/dist/app-drupal/assets/spritemap.svg#sprite-beebe"></use>
+  </svg>
+</div>
+ 
+    </a>
+  </div>
+  <div class="branding__site-logo ie11">
+    <a href="/" title="Beebe Healthcare" rel="home">
+      <span class="sr-only">Beebe Healthcare Logo - Return to Homepage</span>
+      <img class="b-lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/themes/custom/particle/dist/app-drupal/assets/beebe-healthcare.png" alt="Beebe Healthcare"/>
+    </a>
+  </div>
+</aside>
+
+
+
+            </div>
+            <div class="primary-menu col d-none d-lg-block">
+                            
+  <h2 class="visually-hidden" id="block-headermenu-menu">Header Menu</h2>
+  
+
+            
+
+
+<nav class="justify-content-right nav nav-fill"  >
+                    
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/doctors"  >Doctors</a>
+  </li>
+                                            
+
+  
+
+
+<li class="dropdown mega-menu nav-item">
+      
+
+  
+
+
+<button type=&quot;button&quot; class="dropdown-toggle nav-link" data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;>
+
+      Services
+    </button>
+  
+  <ul class="dropdown-menu " >
+          <div class="mega-wrapper">
+        <a href="#" title="Close Menu" class="mega-close"><span class="sr-only">Close menu</span>x</a>
+        <div class="container">
+          <div class="row">
+
+                                          <div class="col-12 d-none d-lg-flex align-items-center dropdown-title-wrapper">
+                  <a class="dropdown-title h5 text-primary" href="/services" title="Go to Services">Services</a>
+                  
+
+<div class="color-fill--primary svg svg--icon">
+  <svg>
+    <use xlink:href="/themes/custom/particle/dist/app-drupal/assets/spritemap.svg#sprite-chevron-right"></use>
+  </svg>
+</div>
+                </div>
+                            <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/online-scheduling">Schedule Appointment</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/allergy-immunology">Allergy and Immunology</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/oncology/breast-health">Breast Health</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/cardiothoracic">Cardiothoracic Surgery</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/cardiovascular">Cardiovascular</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/dermatology">Dermatology</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/diabetes-medical-nutrition">Diabetes</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                                        <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/services/emergency-department">Emergency Departments</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/endocrinology">Endocrinology</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/gastroenterology">Gastroenterology</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/home-health-services">Home Health</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/hospital-medicine">Hospital Medicine</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                                        <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/services/infectious-disease-travel-medicine">Infectious Disease &amp; Travel Medicine</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/imaging">Imaging</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/lab">Lab Services</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/neurology-stroke">Neurology &amp; Stroke</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/oncology">Oncology</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/orthopaedics">Orthopaedics</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                                        <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/services/palliative-care">Palliative Care</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/pediatric-neurology">Pediatric Neurology</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/physical-rehabilitation">Physical Rehabilitation</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/primary-care">Primary Care</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/pulmonary-respiratory">Pulmonary &amp; Respiratory</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/surgery">Surgery</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                                        <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/services/urology-services-delaware">Urology</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/vascular-vein-center">Vascular</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/walk-care">Walk-In Care</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/surgery/bariatric-surgery">Weight Loss Surgery</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/womens-health">Women&#039;s Health</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/wound-healing">Wound Healing&amp; Hyperbaric Medicine</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                      </div>
+        </div>
+      </div>
+      </ul>
+</li>
+                                
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/locations"  >Locations</a>
+  </li>
+                                            
+
+  
+
+
+<li class="dropdown mega-menu nav-item">
+      
+
+  
+
+
+<button type=&quot;button&quot; class="dropdown-toggle nav-link" data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;>
+
+      Resources
+    </button>
+  
+  <ul class="dropdown-menu " >
+          <div class="mega-wrapper">
+        <a href="#" title="Close Menu" class="mega-close"><span class="sr-only">Close menu</span>x</a>
+        <div class="container">
+          <div class="row">
+
+                                          <div class="col-12 d-none d-lg-flex align-items-center dropdown-title-wrapper">
+                  <a class="dropdown-title h5 text-primary" href="/patients-visitors" title="Go to Resources">Resources</a>
+                  
+
+<div class="color-fill--primary svg svg--icon">
+  <svg>
+    <use xlink:href="/themes/custom/particle/dist/app-drupal/assets/spritemap.svg#sprite-chevron-right"></use>
+  </svg>
+</div>
+                </div>
+                            <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/patient-information">For Patients</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/visitor-information">For Visitors</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/welcome">Welcome to Sussex County</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/capepharmacy">Cape Pharmacy</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                                        <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/online-scheduling">Schedule Appointment</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/advance-healthcare-directives">Advance Directive</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/health-information-management">Health Information Management</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                                        <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/billing-collection-policy">Billing</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/financial-assistance">Financial Assistance</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/understanding-medical-costs">Understanding Medical Costs</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                                        <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/public-health-information">Public Health Information</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/volunteer">Volunteer</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/jefferson">Jefferson Health Affiliation</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/calendar">Calendar of Events</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                                        <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/support-groups">Support Groups</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/recognize-beebe-team-member">Recognize a Team Member</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/health-hub">Health Hub (articles)</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/community-outreach">Community Health</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="https://beebestore.aether-stores.io/">The Beebe Collection Store</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                      </div>
+        </div>
+      </div>
+      </ul>
+</li>
+                    </nav>
+
+    
+            </div>
+            <button class="search-toggle search-button col"
+                    type="button"
+                    aria-label="Open the search bar to begin searching the site">
+                
+
+<div class="color-fill--primary svg svg--icon">
+  <svg>
+    <use xlink:href="/themes/custom/particle/dist/app-drupal/assets/spritemap.svg#sprite-search"></use>
+  </svg>
+</div>
+            </button>
+            <div class="stacked-buttons col text-center p-0 d-none d-lg-block caps">
+                            
+  <h2 class="visually-hidden" id="block-patients-menu">Patients</h2>
+  
+
+        
+
+
+<nav class="flex-column justify-content-center nav"  >
+                    
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/patients-visitors/portals"  >Patient Portal</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/pay-bill-online"  >Pay Bill</a>
+  </li>
+            </nav>
+
+    
+            </div>
+
+            <button class="menu-icon col navbar-toggler" type="button"
+                    data-toggle="offcanvas"
+                    aria-label="Open additional menu links">
+                <div class="hamburger">
+                    
+
+<div class="color-fill--primary svg svg--icon">
+  <svg>
+    <use xlink:href="/themes/custom/particle/dist/app-drupal/assets/spritemap.svg#sprite-menu"></use>
+  </svg>
+</div>
+                </div>
+                <div class="times">
+                    
+
+<div class="color-fill--white svg svg--icon">
+  <svg>
+    <use xlink:href="/themes/custom/particle/dist/app-drupal/assets/spritemap.svg#sprite-times"></use>
+  </svg>
+</div>
+                </div>
+            </button>
+
+        </div>
+    </div>
+
+    <div class="mega bg-brand-blue">
+        
+        
+    </div>
+</header>
+<div class="navbar-collapse offcanvas-collapse bg-primary"
+     id="offCanvasMenu">
+    <div class="d-block d-lg-none">
+                    
+  <h2 class="visually-hidden" id="block-headermenu-2-menu">Header Menu</h2>
+  
+
+            
+
+
+<nav class="flex-column justify-content-left nav"  >
+                    
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/doctors"  >Doctors</a>
+  </li>
+                                            
+
+  
+
+
+<li class="dropdown mega-menu nav-item">
+      
+
+
+
+
+<a  class="dropdown-toggle nav-link" data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;>
+
+      Services
+    </a>
+  
+  <ul class="dropdown-menu " >
+          <div class="mega-wrapper">
+        <a href="#" title="Close Menu" class="mega-close"><span class="sr-only">Close menu</span>x</a>
+        <div class="container">
+          <div class="row">
+
+                                          <div class="col-12 d-none d-lg-flex align-items-center dropdown-title-wrapper">
+                  <a class="dropdown-title h5 text-primary" href="/services" title="Go to Services">Services</a>
+                  
+
+<div class="color-fill--primary svg svg--icon">
+  <svg>
+    <use xlink:href="/themes/custom/particle/dist/app-drupal/assets/spritemap.svg#sprite-chevron-right"></use>
+  </svg>
+</div>
+                </div>
+                            <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/online-scheduling">Schedule Appointment</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/allergy-immunology">Allergy and Immunology</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/oncology/breast-health">Breast Health</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/cardiothoracic">Cardiothoracic Surgery</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/cardiovascular">Cardiovascular</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/dermatology">Dermatology</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/diabetes-medical-nutrition">Diabetes</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                                        <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/services/emergency-department">Emergency Departments</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/endocrinology">Endocrinology</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/gastroenterology">Gastroenterology</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/home-health-services">Home Health</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/hospital-medicine">Hospital Medicine</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                                        <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/services/infectious-disease-travel-medicine">Infectious Disease &amp; Travel Medicine</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/imaging">Imaging</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/lab">Lab Services</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/neurology-stroke">Neurology &amp; Stroke</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/oncology">Oncology</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/orthopaedics">Orthopaedics</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                                        <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/services/palliative-care">Palliative Care</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/pediatric-neurology">Pediatric Neurology</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/physical-rehabilitation">Physical Rehabilitation</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/primary-care">Primary Care</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/pulmonary-respiratory">Pulmonary &amp; Respiratory</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/surgery">Surgery</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                                        <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/services/urology-services-delaware">Urology</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/vascular-vein-center">Vascular</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/walk-care">Walk-In Care</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/surgery/bariatric-surgery">Weight Loss Surgery</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/womens-health">Women&#039;s Health</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/services/wound-healing">Wound Healing&amp; Hyperbaric Medicine</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                      </div>
+        </div>
+      </div>
+      </ul>
+</li>
+                                
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/locations"  >Locations</a>
+  </li>
+                                            
+
+  
+
+
+<li class="dropdown mega-menu nav-item">
+      
+
+
+
+
+<a  class="dropdown-toggle nav-link" data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;>
+
+      Resources
+    </a>
+  
+  <ul class="dropdown-menu " >
+          <div class="mega-wrapper">
+        <a href="#" title="Close Menu" class="mega-close"><span class="sr-only">Close menu</span>x</a>
+        <div class="container">
+          <div class="row">
+
+                                          <div class="col-12 d-none d-lg-flex align-items-center dropdown-title-wrapper">
+                  <a class="dropdown-title h5 text-primary" href="/patients-visitors" title="Go to Resources">Resources</a>
+                  
+
+<div class="color-fill--primary svg svg--icon">
+  <svg>
+    <use xlink:href="/themes/custom/particle/dist/app-drupal/assets/spritemap.svg#sprite-chevron-right"></use>
+  </svg>
+</div>
+                </div>
+                            <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/patient-information">For Patients</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/visitor-information">For Visitors</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/welcome">Welcome to Sussex County</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/capepharmacy">Cape Pharmacy</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                                        <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/online-scheduling">Schedule Appointment</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/advance-healthcare-directives">Advance Directive</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/health-information-management">Health Information Management</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                                        <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/billing-collection-policy">Billing</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/financial-assistance">Financial Assistance</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/understanding-medical-costs">Understanding Medical Costs</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                                        <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/public-health-information">Public Health Information</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/volunteer">Volunteer</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/jefferson">Jefferson Health Affiliation</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/calendar">Calendar of Events</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                                        <div class="col mega-column">
+                                                    <li class="dropdown-item">
+                                                              <ul class="dropdown-menu-sub-item">
+                                                                              <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/support-groups">Support Groups</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/recognize-beebe-team-member">Recognize a Team Member</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/health-hub">Health Hub (articles)</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="/patients-visitors/community-outreach">Community Health</a>
+                            </li>
+                                                                                                        <li class="dropdown-sub-item">
+                              <a href="https://beebestore.aether-stores.io/">The Beebe Collection Store</a>
+                            </li>
+                                                                        </ul>
+                                      </li>
+                                              </div>
+                      </div>
+        </div>
+      </div>
+      </ul>
+</li>
+                    </nav>
+
+    
+    </div>
+
+                
+  <h2 class="visually-hidden" id="block-secondarymenu-menu">Secondary Menu</h2>
+  
+
+            
+
+
+<nav class="flex-column justify-content-center nav"  >
+                    
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/about-us"  >About</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/contact-us"  >Contact Us</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/medical-education"  >R. Randall Rollins Center for Medical Education</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/beebe-medical-foundation"  >Beebe Medical Foundation</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/beebe-medical-group"  >Beebe Medical Group</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/school-nursing"  >Margaret H. Rollins School of Nursing </a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="http://www.beebecareers.org/"  >Career Opportunities</a>
+  </li>
+            </nav>
+
+    
+
+    <div class="text-center pt-4 offcanvas-cta">
+        
+
+
+
+
+<a  class="btn btn-secondary" href=/donate>
+
+      MAKE A GIFT
+    </a>
+</p>
+    </div>
+
+      <div  class="secondary_menu-region">
+    <div id="block-makeanappointment">
+  
+    
+      
+            <div><div class="py-4 text-center offcanvas-cta"><span class="h5">MAKE AN APPOINTMENT</span>
+<p><a href="tel:302-645-3278"><span class="h3">302-645-FAST</span></a></p></div>
+</div>
+      
+  </div>
+
+  </div>
+
+
+    <div class="row social-media text-center p-4">
+        <div class="col">
+            <a href="https://www.facebook.com/BeebeHealthcare" target="_blank">
+                            <span class="sr-only">Follow Beebe Healthcare on Facebook</span>
+                
+
+<div class="color-fill--light svg svg--icon">
+  <svg>
+    <use xlink:href="/themes/custom/particle/dist/app-drupal/assets/spritemap.svg#sprite-facebook"></use>
+  </svg>
+</div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="https://www.linkedin.com/company/beebe-medical-center/" target="_blank">
+                            <span class="sr-only">Follow Beebe Healthcare on LinkedIn</span>
+                
+
+<div class="color-fill--light svg svg--icon">
+  <svg>
+    <use xlink:href="/themes/custom/particle/dist/app-drupal/assets/spritemap.svg#sprite-linkedin"></use>
+  </svg>
+</div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="https://twitter.com/BeebeHealthcare" target="_blank">
+              <span class="sr-only">Follow Beebe Healthcare on Twitter</span>
+                
+
+<div class="color-fill--light svg svg--icon">
+  <svg>
+    <use xlink:href="/themes/custom/particle/dist/app-drupal/assets/spritemap.svg#sprite-twitter"></use>
+  </svg>
+</div>
+            </a>
+        </div>
+    </div>
+</div>
+    
+        
+
+    
+    <main class="main-content" role="main">
+                <div  class="banner-region">
+    <div class="views-element-container" id="block-views-block-banners-banners">
+  
+    
+      
+
+<div>
+
+<div class="view view-banners view-id-banners view-display-id-banners js-view-dom-id-575c817f838ff29241ac1e97e77665463024b9b5d58a13923ade7a49c9951fc0">
+  
+    
+      
+      <div class="view-content d-inline-block w-100">
+          <div class="views-row">
+  
+  
+
+  
+     
+
+
+  <div class="banner banner-size-normal headline-overlay ">
+          
+
+
+    <div class="overlay-wrapper">
+  <div class="overlay bg-primary"></div>
+  <img src="/sites/default/files/styles/1200x400/public/2019-11/beebe-hospital.jpg" alt="" class="image image--banner_short image--overlay img-fluid"/>
+</div>
+    
+    <div class='container '>
+      <div class='row bg-primary banner-content'>
+                              <h1 class="banner-headline">Understanding Medical Costs</h1>
+                                                              </div>
+    </div>
+  </div>
+
+
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+      
+
+      <div class="container">
+        <a id="main-content" tabindex="-1"></a>
+                  <div  class="breadcrumb-region">
+    <div id="block-particle-breadcrumbs" class="container row d-none d-md-block">
+  
+    
+      
+  
+
+
+<nav class="nav nav-breadcrumbs"  >
+
+    <a href="/" title="Home">
+        
+
+<div class="color-fill--secondary svg svg--icon">
+  <svg>
+    <use xlink:href="/themes/custom/particle/dist/app-drupal/assets/spritemap.svg#sprite-home"></use>
+  </svg>
+</div>
+    </a>
+                    
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/patients-visitors"  >Patients &amp; Visitors</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="disabled nav-link" href="#"  >Understanding Medical Costs</a>
+  </li>
+            </nav>
+
+
+  </div>
+<div class="language-switcher-language-url" id="block-languageswitcher" role="navigation">
+  
+    
+      
+  </div>
+
+  </div>
+
+        <section class="row">
+
+          
+                          <div class="layout-content col-sm-12">
+                                  <div  class="content-region">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-particle-content">
+  
+    
+      
+<article class="node node--type-page node--view-mode-full">
+  
+    
+
+  
+  <div class="node__content">
+    
+            <div>
+<h2 class="has-text-align-center">Make Informed Healthcare Decisions</h2>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p class="has-medium-font-size">Here at Beebe Healthcare, we understand that medical costs can be very confusing. We believe it’s important to make information on hospital costs available to help patients make informed healthcare decisions. </p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-white-background-color has-white-color">
+</div>
+
+
+
+<div class="wp-block-column">
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe width="356" height="200" src="https://www.youtube.com/embed/kSSwfgE2b0w?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Understanding Medical Costs - Courtesy of HAP Online"></iframe>
+</div></figure>
+</div>
+</div>
+
+
+
+<p class="has-text-align-center has-black-color has-secondary-background-color has-text-color has-background"> Watch the one minute video, "<a href="https://youtu.be/kSSwfgE2b0w">Understanding Medical Costs</a>," which defines hospital charges and billing to payers. </p>
+
+
+
+<h4>Additional Resources</h4>
+
+
+
+<p>Select your insurance carrier from the links below to help you understand your coverage. In some cases, your insurance provider's website will offer a payment estimator which can give you a better understanding of your costs. If your insurance carrier is not listed, you may find it helpful to go to their site and search for a payment estimator to help you. After you click the link to your insurance provider's site, you may need to register for a personal account to lookup your coverage.</p>
+
+
+
+<p><a href="https://www.aetna.com/individuals-families/using-your-aetna-benefits/manage-health-care-costs.html">Aetna</a> </p>
+
+
+
+<p><a href="https://www.highmarkbcbs.com/home/">Blue Cross Blue Shield</a> </p>
+
+
+
+<p><a href="https://my.cigna.com/web/public/guest">Cigna</a>  </p>
+
+
+
+<p><a href="https://www.medicare.gov/procedure-price-lookup/">CMS/Medicare Procedure Price Look Up Tool</a> </p>
+
+
+
+<p><a href="https://www.uhc.com/understanding-health-insurance/understanding-health-insurance-costs/manage-your-health-care-costs">United Healthcare </a></p>
+
+
+
+<p><a href="/sites/default/files/2023-01/Understanding Healthcare Prices 2023.pdf" target="_blank" rel="noreferrer noopener">Understanding Healthcare Prices </a><br><a rel="noreferrer noopener" href="/sites/default/files/2023-01/Comprensión de los precios de la salud 2023.pdf" target="_blank">Comprensión de los precios de la salud</a><br></p>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="/sites/default/files/2023-10/10050-Medicare-and-You.pdf" target="_blank"><img src="/sites/default/files/styles/large/public/inline-images/medicare2024cover.jpg.webp" alt class="wp-image-494989" data-entity-type="file" data-entity-uuid="c67212b0-a2af-4839-9a43-5520946afbb2" data-image-style="original"></a><figcaption>Click to Download</figcaption></figure></div>
+</div>
+
+
+
+<div class="wp-block-column">
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="/sites/default/files/2023-10/10050-S-Medicare-and-You.pdf" target="_blank"><img src="/sites/default/files/styles/large/public/inline-images/medicareYusted2024.jpg.webp" alt class="wp-image-495000" data-entity-type="file" data-entity-uuid="995a4b57-988c-4c1c-9fff-6a28975c28ed" data-image-style="original"></a><figcaption>Haga clic para descargar</figcaption></figure></div>
+</div>
+</div>
+
+
+
+<p class="has-black-color has-warning-background-color has-text-color has-background has-medium-font-size">Maryland Hospital Rate Setting – Maryland is an all payer model state.  The rates Maryland hospitals charge all payers are based on costs and all payers pay a percentage of those costs.  Delaware and Maryland rates are not comparable, Delaware must negotiate rates with each private payer, Medicaid, and Medicare.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide">
+
+
+
+<h2>Learn About Medical Costs</h2>
+
+
+
+<p> The Centers for Medicare and Medicaid requires that all hospitals publish their chargemaster, which is the comprehensive list of charges for services and items. </p>
+
+
+
+<p>Click the ‘PRICE TRANSPARENCY’ link below to access a portal which lists our standard charges and shoppable services. A shoppable service is a service that can be scheduled by a healthcare consumer in advance. Such services are routinely provided in non-urgent situations that do not require immediate action or attention to the patient, thus allowing patients to price shop and schedule a service at a time that is convenient for them. Examples of common shoppable services, include imaging and laboratory services, medical and surgical procedures, and outpatient clinic visits. </p>
+
+
+
+<p>The Price Transparency tool utilizes a 12-month span of payor data from the prior fiscal year and may not reflect subsequent annual price changes. Pricing data may not be available if a service under a specific payor was not performed within that 12-month period. Additional pricing data is available in the chargemaster, which is included in the standard charges machine-readable file.</p>
+
+
+
+<p>The derived contracted rate is the average negotiated rate
+of all payers.</p>
+
+
+
+<p>Prices listed are line items and not the price you will be
+charged for a complete procedure.&nbsp; See
+below for information on how to request a price estimate.</p>
+
+
+
+<p>Surgical procedures may include additional procedures along with supplies, medications, lab tests, or other expenses. There may also be radiology, laboratory, pathology, anesthesiology, or other services that contain extra charges not included in our lists. Beebe Medical Group bills for Walk In Clinics.</p>
+
+
+
+<p>You may receive a bill from these related healthcare providers, in addition to Beebe Healthcare, in the event they were also involved in your care. </p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-inclind-blocks-inclind-advanced-btn kt-btn-align-left kt-btn-tablet-align-inherit kt-btn-mobile-align-inherit kt-btns-wrap kt-btns_357410-53"><div class="kt-btn-wrap kt-btn-wrap-0"><a class="btn kt-btn-0-action kt-btn-size-standard kt-btn-style-basic
+                  kt-btn-svg-show-always kt-btn-has-text-true 
+                  
+                   btn-secondary " href="https://www.cdmpricing.com/bdfcf79238cced1fa24bc49318040614" target="_blank" rel="noreferrer noopener"><span class="kt-btn-inner-text">PRICE transparency</span></a></div></div>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-inclind-blocks-inclind-advanced-btn kt-btn-align-left kt-btn-tablet-align-inherit kt-btn-mobile-align-inherit kt-btns-wrap kt-btns_deaea1-c1"><div class="kt-btn-wrap kt-btn-wrap-0"><a class="btn kt-btn-0-action kt-btn-size-standard kt-btn-style-basic
+                  kt-btn-svg-show-always kt-btn-has-text-true 
+                  
+                   btn-secondary " href="/sites/default/files/2024-04/Covid-19 Diagnostic Testing and Pricing for website Apr 2024.pdf" target="_blank" rel="noreferrer noopener"><span class="kt-btn-inner-text">covid-19 diagnostic test pricing</span></a></div></div>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator is-style-wide">
+
+
+
+<h2>Your Medical Cost Snapshot</h2>
+
+
+
+<p>The data provided on this site should be viewed as a <strong>snapshot only</strong>, and should by no means be considered the only source of information for calculating cost of care. This listing is not a helpful tool for patients to comparison shop between hospitals or to estimate what healthcare services are going to cost them out of their own pocket. If you have insurance, you need to consult with your insurance company regarding your coverage and out of pocket expenses as insurance plans vary.</p>
+
+
+
+<p><strong>To get a confidential price estimate for a medical service or procedure at Beebe Healthcare, please contact our Patient Financial Services team at <a href="tel:3026453546" target="_blank">(302) 645-3546</a>.</strong> The more information you are able to give the counselors, the more accurate your estimate will be.</p>
+
+
+
+<p><strong>Before you call, please have the following information: </strong></p>
+
+
+
+<ul><li>A description of the service or procedure you need - as described by your doctor with specifics.</li><li>The diagnosis code (DRG code) for inpatient services or procedures or the procedural code (CPT code) for outpatient services or procedures - available from your doctor.</li><li>Your doctor’s name - who is the physician ordering your service?</li><li>If you are having surgery, who is the surgeon?</li></ul>
+
+
+
+<p>The cost estimate of your service or procedure will be based on the information you give the Patient Financial Services representative. Please keep in mind, this is only an estimate and many factors can affect the final actual cost. For example, your medical provider may need to perform more, fewer, or different services or procedures at the time of service.</p>
+
+
+
+<p><strong>Thank you for choosing Beebe Healthcare. We look forward to helping make the process easier and more transparent for you.</strong></p>
+
+
+
+<hr class="wp-block-separator is-style-wide">
+
+
+
+<h2>Observation Services</h2>
+
+
+
+<p>Patients may be placed as an inpatient admission or under outpatient observation services. This decision is made by your admitting physician and is based on the time in the hospital that you may need to best treat your condition. There is no difference in the care you will receive for an inpatient admission or as an observation status patient, but Medicare or your insurance company use this decision to place you into the appropriate billing category. Inpatient admissions are considered to be inpatient services, and observation services are considered to be outpatient, even though you still are in the hospital. Observation services are generally provided to evaluate your condition and monitor the effects of short-term treatments and complete testing in order to help establish your diagnosis. Observation services rarely exceed 24 hours. </p>
+
+
+
+<p>In some situations, you may receive charges for a bed that is observation - you may be put in a room.  Extended Recovery is two midnights and is considered outpatient.</p>
+
+
+
+<p class="has-black-color has-text-color"><strong>When are observation services used?</strong></p>
+
+
+
+<ul><li>For selected conditions likely to respond quickly to treatment.</li><li>For care after ambulatory surgery if you experience a complication that requires monitoring beyond routine post- operative recovery period.</li></ul>
+
+
+
+<p class="has-black-color has-text-color"><strong>When are observation services NOT to be used?</strong></p>
+
+
+
+<ul><li>When a medically necessary inpatient admission would be more appropriate.</li><li>For the convenience of the patient, physician, or family.</li><li>For routine diagnostic tests or services that are generally provided on an outpatient basis.</li></ul>
+
+
+
+<p class="has-black-color has-text-color"><strong>Will Medicare or my insurance company cover observation services?</strong></p>
+
+
+
+<ul><li>Observation services are billed and paid as outpatient services. You will be responsible for any outpatient deductible and coinsurance payments.</li><li>Medicare Part B generally does not cover self-administered medications (those you routinely take at home). Medicare decides which medications are considered to be self-administered. Your hospital stay may be changed from an inpatient to outpatient if it is determined that your time in the hospital does not meet inpatient criteria. You will be notified in writing if this occurs. This form is called a Code 44.</li></ul>
+
+
+
+<p class="has-black-color has-text-color"><strong>What happens if I become an inpatient admission?</strong></p>
+
+
+
+<ul><li>When the hospital believes that Medicare will not pay for your admission or continued stay at the hospital, you will receive a letter called HINN or Hospital Issued Notices of Noncoverage.</li><li>If your physician decides that your condition should be treated as an inpatient admission instead of receiving observation services, your entire hospital stay will be considered inpatient even though you started your hospitalization under outpatient observation services. You will be responsible for any applicable inpatient deductible and coinsurance.</li></ul>
+
+
+
+<hr class="wp-block-separator is-style-wide">
+
+
+
+<h2>Your Rights and Protections Against Surprise Medical Bills </h2>
+
+
+
+<p class="has-warning-background-color has-background">When you get emergency care or are treated by an out-of-network provider at an in-network hospital or ambulatory surgical center, you are protected from balance billing. In these cases, you shouldn’t be charged more than your plan’s copayments, coinsurance and/or deductible.  </p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-white-background-color has-white-color">
+
+
+
+<p><strong>What is “balance billing” (sometimes called “surprise billing”)?</strong></p>
+
+
+
+<p>When you see a doctor or other health care provider, you may owe certain out-of-pocket costs, like a copayment, coinsurance, or deductible. You may have additional costs or have to pay the entire bill if you see a provider or visit a health care facility that isn’t in your health plan’s network. “Out-of-network” means providers and facilities that haven’t signed a contract with your health plan to provide services. </p>
+
+
+
+<p>Out-of-network providers may be allowed to bill you for the difference between what your plan pays and the full amount charged for a service. This is called “balance billing.” This amount is likely more than in-network costs for the same service and might not count toward your plan’s deductible or annual out-of-pocket limit.</p>
+
+
+
+<p>“Surprise billing” is an unexpected balance bill. This can happen when you can’t control who is involved in your care—like when you have an emergency or when you schedule a visit at an in-network facility but are unexpectedly treated by an out-of-network provider. Surprise medical bills could cost thousands of dollars depending on the procedure or service.</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-white-background-color has-white-color">
+
+
+
+<p><strong>What services are protected from balance billing?</strong></p>
+
+
+
+<p><strong>Emergency Services:</strong> If you have an emergency medical condition and get emergency services from an out-of-network provider or facility, the most they can bill you is your plan’s in-network cost-sharing amount (such as copayments, coinsurance, and deductibles). You can’t be balance billed for these emergency services. This includes services you may get after you’re in stable condition, unless you give written consent and give up your protections not to be balanced billed for these post-stabilization services</p>
+
+
+
+<p><strong>Certain services at an in-network hospital or ambulatory surgical center:</strong> When you get services from an in-network hospital or ambulatory surgical center, certain providers there may be out-of-network. In these cases, the most those providers can bill you is your plan’s in-network cost-sharing amount. This applies to emergency medicine, anesthesia, pathology, radiology, laboratory, neonatology, assistant surgeon, hospitalist, or intensivist services. These providers <strong>can’t</strong> balance bill you and may <strong>not</strong> ask you to give up your protections not to be balance billed.</p>
+
+
+
+<p>If you get other types of services at these in-network facilities, out-of-network providers <strong>can’t</strong> balance bill you, unless you give written consent and give up your protections. <strong>You’re never required to give up your protections from balance billing. You also aren’t required to get out-of-network care. You can choose a provider or facility in your plan’s network.</strong></p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-white-background-color has-white-color">
+
+
+
+<p><strong>When balance billing isn’t allowed, you also have these protections:</strong></p>
+
+
+
+<p>You’re only responsible for paying your share of the cost (like the copayments, coinsurance, and deductible that you would pay if the provider or facility was in-network). Your health plan will pay any additional costs to out-of-network providers and facilities directly. </p>
+
+
+
+<p>Generally, your health plan must:  </p>
+
+
+
+<ul><li>Cover emergency services without requiring you to get approval for services in advance (also known as “prior authorization”). </li><li>Cover emergency services by out-of-network providers. </li><li>Base what you owe the provider or facility (cost-sharing) on what it would pay an in-network provider or facility and show that amount in your explanation of benefits. </li><li>Count any amount you pay for emergency services or out-of-network services toward your in-network deductible and out-of-pocket limit.</li></ul>
+
+
+
+<p><strong>If you think you’ve been wrongly billed,</strong> the federal phone number for information and complaints is: 1-800-985-3059.    </p>
+
+
+
+<p>Visit <a href="http://www.cms.gov/nosurprises/consumers">www.cms.gov/nosurprises/consumers</a> for more information about your rights under federal law.    </p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+</div>
+      
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+              </div>
+
+              
+            </section>
+          </div>
+        </main>
+
+        <footer class="footer" role="contentinfo">
+    <div  class="footer_top-region">
+    
+
+
+
+<div class="bg-primary cta text-center text-white">
+  <div class="primary-image">
+          <div class="overlay-wrapper">
+        <div class="overlay bg-primary"></div>
+        
+            <div class="blazy blazy--field blazy--field-background-image blazy--field-background-image--full" data-blazy="">
+
+
+
+
+
+                  <div class="media media--blazy media--bundle--call-to-action media--image"><img alt="Beebe Hospital" title="beebe-hospital.jpg" class="media__image media__element b-lazy" decoding="async" loading="lazy" data-src="/sites/default/files/styles/1200x400/public/2020-02/beebe-hospital.jpg.webp?itok=o1SxsQC_" src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D&#039;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#039;%20viewBox%3D&#039;0%200%201%201&#039;%2F%3E" width="1200" height="400" />
+        </div>
+        
+  
+</div>
+      
+      </div>
+      </div>
+  <div class="cta-content">
+    <div class='container'>
+      
+          <div class='row'>
+            <div class="col">
+                              <p class="col-12">
+                                                  <span class="cursive text-secondary">Connect</span>
+                                                  <span class="h2 cta-headline caps">
+                    with Beebe Healthcare
+                  </span>
+                                    </p>
+                              
+                              <p class="col">
+                  Subscribe to get updated on health-related topics that interest you.
+                              </p>
+
+                              <p class="col">
+                  
+
+
+
+
+<a  class="btn btn-secondary" href=/health-hub/subscribe>
+
+      SUBSCRIBE
+    </a>
+</p>
+                          </div>
+          </div>
+        </div>
+
+                  <p class="col">
+            
+          </p>
+        
+      </div>
+      </div>
+
+  </div>
+
+
+      <div class="footer-top  bg-tertiary">
+                  
+  <h2 class="visually-hidden" id="block-footerinfo-menu">Footer Info</h2>
+  
+
+        
+
+
+<nav class="justify-content-center nav nav-arrows"  >
+                    
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/beebe-medical-foundation"  >Beebe Medical Foundation</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/beebe-medical-group"  >Beebe Medical Group</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/school-nursing"  >Margaret H. Rollins School of Nursing</a>
+  </li>
+            </nav>
+
+    
+    </div>
+  
+      <div class="bg-light">
+      <div class="container py-4">
+        <div class="row social-media text-center">
+          <div class="col">
+            <a href="https://www.facebook.com/BeebeHealthcare" target="_blank">
+              <span class="sr-only">Follow Beebe Healthcare on Facebook</span>
+              
+
+<div class="color-fill--primary svg svg--icon">
+  <svg>
+    <use xlink:href="/themes/custom/particle/dist/app-drupal/assets/spritemap.svg#sprite-facebook"></use>
+  </svg>
+</div>
+            </a>
+          </div>
+          <div class="col">
+            <a href="https://www.youtube.com/channel/UC76kuHEmUVKPODyY3CYe0rw" target="_blank">
+              <span class="sr-only">Follow Beebe Healthcare on YouTube</span>
+              <svg style="width: 2.3125rem; transform: translateY(3px);" width="48" height="48" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.555 37.11C28.8026 37.11 37.11 28.8027 37.11 18.555C37.11 8.30737 28.8026 0 18.555 0C8.30736 0 0 8.30737 0 18.555C0 28.8027 8.30736 37.11 18.555 37.11ZM19.14 13H19.051L18.858 13.001C17.9058 13.0044 16.9537 13.0214 16.002 13.052L15.831 13.059L15.573 13.068L15.403 13.075C14.293 13.125 13.236 13.205 12.749 13.335C12.4094 13.4269 12.0999 13.6064 11.8515 13.8557C11.6032 14.1049 11.4247 14.415 11.334 14.755C11.233 15.134 11.162 15.638 11.114 16.157L11.104 16.261L11.082 16.521L11.074 16.625L11.071 16.677L11.064 16.78C11.01 17.6 11.002 18.343 11 18.558V18.681C11.0053 19.3604 11.0326 20.0394 11.082 20.717L11.098 20.926C11.148 21.498 11.222 22.067 11.333 22.484C11.4238 22.8238 11.6024 23.1337 11.8507 23.3828C12.0991 23.6318 12.4085 23.8112 12.748 23.903C13.235 24.035 14.292 24.114 15.402 24.163L15.744 24.177L15.831 24.181L16.001 24.187C17.341 24.233 18.619 24.239 18.928 24.239H19.07C19.681 24.238 24.09 24.216 25.25 23.904C25.5896 23.8121 25.8991 23.6326 26.1475 23.3833C26.3958 23.1341 26.5743 22.824 26.665 22.484C26.776 22.066 26.85 21.498 26.9 20.926L26.909 20.822L26.917 20.717C26.989 19.765 26.998 18.851 26.999 18.657V18.582C26.998 18.395 26.99 17.539 26.925 16.625L26.917 16.521L26.895 16.261L26.885 16.157C26.837 15.638 26.766 15.135 26.665 14.755C26.574 14.4152 26.3955 14.1052 26.1472 13.856C25.8988 13.6068 25.5895 13.4272 25.25 13.335C24.127 13.033 19.962 13.003 19.14 13ZM17.4 21.028V16.21L21.557 18.62L17.4 21.028Z" fill="#2E358F"/>
+</svg>
+
+            </a>
+          </div>
+          <div class="col">
+            <a href="http://www.linkedin.com/company/2937369?trk=tyah" target="_blank">
+              <span class="sr-only">Connect with Beebe Healthcare on LinkedIn</span>
+              
+
+<div class="color-fill--primary svg svg--icon">
+  <svg>
+    <use xlink:href="/themes/custom/particle/dist/app-drupal/assets/spritemap.svg#sprite-linkedin"></use>
+  </svg>
+</div>
+            </a>
+          </div>
+          <div class="col">
+            <a href="https://www.instagram.com/beebehealthcare/?fbclid=IwAR1uqs5pojF2LEQgOLareEvKYunQ0c4qhPntrqTET7xPb3T59Oou9X2RQ2c" target="_blank">
+              <span class="sr-only">Follow Beebe Healthcare on Instagram</span>
+              
+
+<div class="color-fill--primary svg svg--icon">
+  <svg>
+    <use xlink:href="/themes/custom/particle/dist/app-drupal/assets/spritemap.svg#sprite-instagram"></use>
+  </svg>
+</div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  <div class="pt-sm-4 footer-menus">
+    <div class="container">
+      <div class="row">
+                    
+  <h2 class="visually-hidden" id="block-particle-footer-menu">Footer menu</h2>
+  
+
+            <div class="col-xs-12 col-sm-6 col-lg-3 mb-sm-5 menu-section">
+                    <h5 tabindex="0">Quick Links</h5>
+        
+        
+
+
+<nav class="flex-column nav"  >
+                    
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/online-scheduling"  >Scheduling</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/pay-bill-online"  >Pay Bill</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/contact-us"  >Contact Us</a>
+  </li>
+            </nav>
+
+    </div>
+    <div class="col-xs-12 col-sm-6 col-lg-3 mb-sm-5 menu-section">
+                    <h5 tabindex="0">Resources</h5>
+        
+        
+
+
+<nav class="flex-column nav"  >
+                    
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/doctors"  >Providers</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/locations"  >Locations</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.cdmpricing.com/bdfcf79238cced1fa24bc49318040614"  >Price Transparency</a>
+  </li>
+            </nav>
+
+    </div>
+    <div class="col-xs-12 col-sm-6 col-lg-3 mb-sm-5 menu-section">
+                    <h5 tabindex="0">Careers</h5>
+        
+        
+
+
+<nav class="flex-column nav"  >
+                    
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="http://www.beebecareers.org/"  >Join Our Team</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.beebecareers.org/benefits"  >Why Choose Beebe?</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.beebecareers.org/provider-opportunities"  >Provider Opportunities</a>
+  </li>
+            </nav>
+
+    </div>
+    <div class="col-xs-12 col-sm-6 col-lg-3 mb-sm-5 menu-section">
+                    <h5 tabindex="0">News &amp; Publications</h5>
+        
+        
+
+
+<nav class="flex-column nav"  >
+                    
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/press-room/press-releases"  >Latest News</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/health-hub"  >Health Hub Topics</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/press-room"  >Press Room (Media)</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/beebe-medical-foundation"  >Beebe Medical Foundation</a>
+  </li>
+            </nav>
+
+    </div>
+
+
+    
+      </div>
+    </div>
+  </div>
+
+      <div class="container footer-bottom pt-5">
+      <div class="row">
+        <div class="col-xs-12 col-xl-2 col-lg-12 mb-4">
+          <a href="https://www.beebehealthcare.org" title="Beebe Healthcare">
+            <span class="sr-only">Return to homepage</span>
+            <i class="icon--beebe"></i>
+          </a>
+        </div>
+        <div class="col-xs-12 col-lg-7 col-xl-6">
+          <p>
+            <span class="d-none d-sm-inline">©2025</span>
+            Main Campus: 424 Savannah Road, Lewes, DE 19958
+          </p>
+        </div>
+        <div class="col-xs-12 col-lg-5 col-xl-4">
+                      
+  <h2 class="visually-hidden" id="block-footerutility-menu">Footer Utility</h2>
+  
+
+        
+
+
+<nav class="justify-content-center nav"  >
+                    
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/form/website-feedback"  >Feedback</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/patients-visitors/notice-privacy-practices"  >Privacy</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/terms-and-conditions"  >Terms &amp; Conditions</a>
+  </li>
+                        
+
+
+
+
+  <li class="nav-item">
+    <a class="nav-link" href="/accessibility"  >Accessibility</a>
+  </li>
+            </nav>
+
+    
+        </div>
+      </div>
+    </div>
+  
+  
+</footer>
+
+      </div>
+      
+    
+<script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"US","siteName":"Beebe Healthcare","entityCreated":"1545209779","entityLangcode":"und","entityStatus":"1","entityUid":"21","entityUuid":"23b4a488-653d-4ce6-9eec-57dcf7461fca","entityVid":"18239","entityName":"rmavity@beebehealthcare.org","entityType":"node","entityBundle":"page","entityId":"407","entityTitle":"Understanding Medical Costs","userUid":0});</script>
+
+<script src="/modules/contrib/blazy/js/polyfill/blazy.polyfill.min.js?stsiyp"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/modules/contrib/blazy/js/polyfill/blazy.classlist.min.js?stsiyp"></script>
+<script src="/modules/contrib/blazy/js/polyfill/blazy.promise.min.js?stsiyp"></script>
+<script src="/modules/contrib/blazy/js/polyfill/blazy.raf.min.js?stsiyp"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/themes/custom/particle/apps/drupal/js/typeahead_search/libs/typeahead.jquery.js?stsiyp" defer></script>
+<script src="/core/misc/drupal.js?v=10.3.13"></script>
+<script src="/core/misc/drupal.init.js?v=10.3.13"></script>
+<script src="/core/misc/debounce.js?v=10.3.13"></script>
+<script src="/themes/custom/particle/apps/drupal/../../dist/app-drupal/assets/container.js?stsiyp"></script>
+<script src="/themes/custom/particle/apps/drupal/js/typeahead_search/libs/handlebars.js?stsiyp"></script>
+<script src="/themes/custom/particle/apps/drupal/js/typeahead_search/particle_typeahead.js?stsiyp"></script>
+<script src="/modules/contrib/blazy/js/dblazy.min.js?stsiyp"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.dataset.min.js?stsiyp"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.viewport.min.js?stsiyp"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.dom.min.js?stsiyp"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.xlazy.min.js?stsiyp"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.observer.min.js?stsiyp"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.loading.min.js?stsiyp"></script>
+<script src="/modules/contrib/blazy/js/polyfill/blazy.webp.min.js?stsiyp"></script>
+<script src="/modules/contrib/blazy/js/base/blazy.base.min.js?stsiyp"></script>
+<script src="/modules/contrib/blazy/js/base/blazy.min.js?stsiyp"></script>
+<script src="/modules/contrib/blazy/js/base/io/bio.min.js?stsiyp"></script>
+<script src="/modules/contrib/blazy/js/base/io/bio.media.min.js?stsiyp"></script>
+<script src="/modules/contrib/blazy/js/base/blazy.drupal.min.js?stsiyp"></script>
+<script src="/modules/contrib/blazy/js/blazy.load.min.js?stsiyp"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.2.0"></script>
+<script src="/modules/contrib/datalayer/js/datalayer.js?v=1.x"></script>
+<script src="/themes/custom/particle/apps/drupal/../../dist/app-drupal/assets/app.js?stsiyp"></script>
+<script src="/themes/custom/particle/apps/drupal/../../dist/app-drupal/assets/commons.js?stsiyp"></script>
+<script src="/core/misc/progress.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/announce.js?v=10.3.13"></script>
+<script src="/core/misc/message.js?v=10.3.13"></script>
+<script src="/core/misc/ajax.js?v=10.3.13"></script>
+<script src="/themes/contrib/stable/js/ajax.js?v=10.3.13"></script>
+<script src="/themes/custom/particle/apps/drupal/js/sitewide.js?stsiyp"></script>
+<script src="/modules/contrib/google_tag/js/gtag.ajax.js?stsiyp"></script>
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'929a7d08085c43fa',t:'MTc0MzUzNTY5NC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

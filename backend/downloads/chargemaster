@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="no-js">
+  <head>
+    <meta charset="utf-8" />
+<script async src="/sites/default/files/google_analytics/gtag.js?su14gg"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("config", "UA-1812553-13", {"groups":"default","anonymize_ip":true,"allow_ad_personalization_signals":false});</script>
+<meta name="geo.region" content="US" />
+<link rel="canonical" href="https://billing.christianacare.org/transparency/chargemaster" />
+<meta name="robots" content="index, follow" />
+<meta name="google-site-verification" content="9a39GxOjAbgPeoN7Y54B2TlPOJq8W1WQ2Xorl1V4Dh4" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Hospital",
+            "additionalType": "Organization",
+            "@id": "https://christianacare.org/#organization",
+            "name": "ChristianaCare",
+            "sameAs": "https://en.wikipedia.org/wiki/Christiana_Care_Health_System",
+            "url": "https://christianacare.org",
+            "telephone": "302-733-1000",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://christianacare.org/wp-content/themes/cchs/library/images/christiancare-logo.svg"
+            },
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://christianacare.org/wp-content/themes/cchs/library/images/christiancare-logo.svg"
+            },
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "PO Box 1668",
+                "addressLocality": "Wilmington",
+                "addressRegion": "DE",
+                "postalCode": "19899",
+                "addressCountry": "USA"
+            }
+        }
+    ]
+}</script>
+<meta http-equiv="ImageToolbar" content="false" />
+<link rel="icon" href="/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Chargemaster | ChristianaCare Price Transparency</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_-Gcm8DJO69_TsagFWkMGHj-HSx2sCSahglVn8BwRlBA.css" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_KCTyqEEevZCSSdGy5zgjtOO2g7NoAOs3-cLe0ygWMHU.css" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,600,700,800" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_wwVhTqn8oGiICrqMulVfvXQ-Ws30t5DTU2e_f3x1skE.css" />
+
+    
+  </head>
+  <body class="lang-en section-transparency views-page path-transparency">
+  <a href="#main-content" class="show-on-focus skip-link">
+    Skip to main content
+  </a>
+  
+    <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="off-canvas-wrapper">
+  <div class="inner-wrap off-canvas-wrapper-inner" id="inner-wrap" data-off-canvas-wrapper>
+    <aside id="left-off-canvas-menu" class="off-canvas left-off-canvas-menu position-left" role="complementary" data-off-canvas>
+      
+    </aside>
+
+    <aside id="right-off-canvas-menu" class="off-canvas right-off-canvas-menu position-right" role="complementary" data-off-canvas>
+      
+    </aside>
+
+    <div class="off-canvas-content" data-off-canvas-content>
+                        <div>
+    <nav role="navigation" aria-labelledby="block-cchstransparency-main-menu-menu" id="block-cchstransparency-main-menu" class="block-cchstransparency-main-menu">
+            
+  <h2 class="block-title visually-hidden" id="block-cchstransparency-main-menu-menu">Main navigation</h2>
+  
+
+        
+
+    <div id="top-bar-sticky-container" data-sticky-container>
+      <div  class="sticky" data-sticky data-top-anchor="top-bar-sticky-container" data-btm-anchor="main:bottom" data-margin-top="0" data-margin-bottom="0" data-options="stickyOn:small">
+      <div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="medium">
+        <div class="title-bar-title"><a href="/" title="Home"><img src="/themes/cchstransparency/cc-logo.svg"></a></div>
+        <button class="menu-icon" type="button" data-toggle></button>
+      </div>
+      <div class="">
+        <nav class="grid-x align-justify align-middle top-bar" id="main-menu" role="navigation">
+        <div class="top-bar-left">
+          <ul class="dropdown menu" data-dropdown-menu>
+            <li class="menu-text"><a href="/" title="Home"><img src="/themes/cchstransparency/cc-logo.svg"></a></li>
+          </ul>
+        </div>
+        <div class="top-bar-right">
+                                <ul class="menu vertical medium-horizontal text-right" data-disable-hover="true" data-responsive-menu="drilldown medium-dropdown">
+                                        <li class="menu-item--active-trail is-active">
+        <a href="/transparency/chargemaster" title="List of Charges" data-drupal-link-system-path="transparency/chargemaster" class="is-active">Chargemaster</a>
+              </li>
+                              <li>
+        <a href="/physician-practice-charges" data-drupal-link-system-path="node/101460">Physician Practice Charges</a>
+              </li>
+                              <li>
+        <a href="/transparency/shoppable-services" title="Shoppable Services" data-drupal-link-system-path="node/92939">Shoppable Services</a>
+              </li>
+                              <li>
+        <a href="/frequently-asked-questions">FAQs</a>
+              </li>
+        </ul>
+  
+                            </div>
+      </nav>
+    </div>
+    </div>
+    </div>
+  
+
+  </nav>
+
+  </div>
+
+              
+      <header class="row" role="banner" aria-label="Site header">
+                          <div class="large-12 columns">
+              <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-cchstransparency-page-title" class="block-cchstransparency-page-title block block-core block-page-title-block">
+  
+    
+
+  
+          
+  <h1>Chargemaster</h1>
+
+
+    
+    
+</div>
+
+  </div>
+
+          </div>
+              </header>
+
+      <div class="row">
+                              </div>
+
+      
+      
+      <div class="row">
+        <main id="main" class="cell large-12 columns" role="main">
+                    <a id="main-content"></a>
+                    <section>
+              <div>
+    <div id="block-cchstransparency-content" class="block-cchstransparency-content block block-system block-system-main-block">
+  
+    
+
+  
+          <div class="views-element-container"><div class="shoppable-services js-view-dom-id-ab6c9a38b7fdccaeaad1965ad35a8b4855380a6beabfcace500e844874e02476">
+  
+  
+  
+
+      <header>
+      <p>At ChristianaCare, we are committed to providing affordable, high-quality care that is valued by the neighbors we serve. We are pleased to make the pricing by insurance provider and self-pay of all our services available to the public. 
+</p>
+<p>The health insurance plans displayed might not match your card, to determine which product your card is referencing please contact your health insurance provider. All of our contracted rates are the same for each payer regardless of the health plan.</p>
+<p><b>If your insurance provider is not shown in the dropdown menu, we are not contracted with them and you will be billed for 100% of all charges. ﻿If you would like more information or have other questions, please call us at 302-623-7440. Thank you.</b></p>
+<p>Please enter a keyword or HCPC code to search. Search for and select an Insurance provider or Self-Pay in the Insurance Provider/Self-Pay box.</p>
+<p>&nbsp;</p>
+<div class="is-invalid-label">
+<p><strong>Chargemaster Search is under construction. We are working hard on bringing it back as soon as possible.</strong></p>
+</div>
+<p>&nbsp;</p>
+    </header>
+  
+  
+  
+
+    
+
+  
+  
+
+      <footer>
+      <p>
+Download full file: <a href="https://documents.christianacare.org/Finance/510103684_christianacare_standardcharges.csv" target="_blank">510103684_christianacare_standardcharges.csv</a><br />
+Download full file: <a href="https://documents.christianacare.org/Finance/510103684_christianacare_standardcharges.json" target="_blank">510103684_christianacare_standardcharges.json</a>
+</p>
+            <div class="body field field--block-content-body field--name-body field--type-text-with-summary field--label-hidden field__item"><p>&nbsp;</p>
+
+<h2>Understanding the ChargeMaster</h2>
+
+<p>The Centers for Medicare and Medicaid requires that all hospitals publish their chargemaster, which is the comprehensive list of charges for services and items. ChristianaCare provides additional information below to assist you in understanding the complexities of hospital&nbsp;billing and how to read our chargemaster. We believe&nbsp;it is important for our patients to receive the information necessary to make informed decisions regarding their care.</p>
+
+<p>Your bill will be specific to the services provided for your care. However, to provide some realistic examples of total charges, we provide below the average total charges for some common surgeries or illnesses.</p>
+
+<div class="widescreen"><iframe allowfullscreen="" frameborder="0" height="480" mozallowfullscreen="" src="https://player.vimeo.com/video/307558715" webkitallowfullscreen="" width="640"></iframe></div>
+
+<p>The published information is strictly related to the amount charged for a service. Hospitals are paid based on contracted rates for the services they provide. The charge amounts will not reflect the amount paid by your insurance or the amount due from you. Your coverage, co-payments and deductibles are specific to your insurance plan. Please contact your insurance company for assistance in understanding your actual out-of-pocket costs and coverage limitations.</p>
+
+<p>Our Customer Service Department is happy to provide additional information on a case-by-case basis. Our team is standing by to answer your questions and provide quotes; please call us at 302-623-7440.</p>
+
+<p>For more information, please refer to our <a href="/frequently-asked-questions">Frequently Asked Questions</a>.</p>
+</div>
+      
+
+    </footer>
+  
+  
+</div>
+</div>
+
+    
+    
+</div>
+
+  </div>
+
+          </section>
+        </main>
+                      </div>
+            <div class="footer">
+        <div class="row">
+          <div class="columns large-8 medium-12">
+            <div class="row column">
+              ChristianaCare is a private not-for-profit regional health care system (tax exempt under
+              Section 501 (c)(3) of the Internal Revenue Code - ID Number 51-0103684) and relies in part on the generosity of individuals, foundations and corporations to fulfill its mission. To learn more about how you can support our mission, please visit <a href="http://www.christianacare.org/donors">christianacare.org/donors</a>.
+            </div>
+            <div class="row column">
+              To view the pricing by insurance provider and self-pay of all our services, please visit <a href="/transparency/chargemaster">https://billing.christianacare.org/transparency/chargemaster</a>.
+            </div>            
+            <div class="row contact">
+              <div class="columns small-6 medium-8">
+                <span>ChristianaCare, PO Box 1668, Wilmington, DE 19899 <a href="tel:800-693-CARE" class="cchs-phone-no">800-693-CARE</a></span>
+              </div>
+              <div class="columns small-6 medium-4 align-right">
+                <a href="https://christianacare.org/for-the-love-of-health/" style="color:#fff; text-decoration:none;">FOR THE LOVE OF HEALTH™</a>
+              </div>
+            </div>
+          </div>
+          <div class="columns large-4 medium-12">
+            <div class="row">
+              <div class="columns small-3"><a
+                  href="https://news.christianacare.org/2020/07/fifth-year-in-a-row-christianacare-rated-a-best-hospital-by-u-s-news-world-report/"
+                  title="Fifth year in a row, ChristianaCare rated a Best Hospital by U.S. News &amp; World Report"
+                  target="_blank"><img src="/themes/cchstransparency/images/Regional-PHILADELPHIA_13TOC.png" border="0"
+                    alt="U.S. News" style="max-height: 120px; width: auto; margin-top:-7px;"></a></div>
+              <div class="columns small-3">
+                <a href="https://news.christianacare.org/2020/07/fifth-year-in-a-row-christianacare-rated-a-best-hospital-by-u-s-news-world-report/"
+                  title="Fifth year in a row, ChristianaCare rated a Best Hospital by U.S. News &amp; World Report"
+                  target="_blank"><img src="/themes/cchstransparency/images/BHgyn.png" border="0" alt="U.S. News"
+                    style="max-height: 120px; width: auto; margin-top:-5px;"></a></div>
+              <div class="columns small-3"><a
+                  href="https://news.christianacare.org/2020/07/christianacare-rated-among-the-worlds-best-hospitals-by-newsweek/"
+                  title="ChristianaCare rated among the World’s Best Hospitals by Newsweek" target="_blank"><img
+                    src="/themes/cchstransparency/images/Newsweek_WBH2020_Siegel.png" border="0" alt="Newsweek Best Hospitals"
+                    style="max-height: 115px; width: auto; margin-top:-10px"></a></div>
+              <div class="columns small-3"><a href="https://www.nursingworld.org/organizational-programs/magnet/"
+                  target="_blank"><img src="/themes/cchstransparency/images/badge-magnet.png" border="0"
+                    alt="Magnet recognition for excellence in nursing" width="125" height="100"></a></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="columns large-4 small-8 small-centered">
+            <img src="/themes/cchstransparency/images/footer-logo.png">
+          </div>
+        </div>
+      </div>
+     
+    </div>
+  </div>
+</div>
+
+  </div>
+
+  
+  <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"transparency\/chargemaster","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-1812553-13","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"user":{"uid":0,"permissionsHash":"cb5ad2e6feeaaf7c7d34995a4616ad2e403e421f9895d56ebeeccdde638bb14e"}}</script>
+<script src="/sites/default/files/js/js_NT_xdTeKJeaKhMws2i9lKG9hIA5DMq_Lkm06dCMeS_k.js"></script>
+
+  </body>
+</html>

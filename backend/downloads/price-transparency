@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" href="/images/HHHealth-favicon.png" sizes="any">
+                <link rel="icon" href="/images/HHHealth-favicon.svg" type="image/svg+xml">
+                <link rel="apple-touch-icon" href="/images/HHHealth-touchicon.png">
+        <meta charset="utf-8">
+	<meta name="rights" content="Decatur Morgan Hospital">
+	<meta name="author" content="Shelley Henson">
+	<meta name="description" content="Decatur Morgan Hospital">
+	<meta name="generator" content="MYOB">
+	<title>Price Transparency - Decatur Morgan Hospital</title>
+	<link href="/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/media/system/css/joomla-fontawesome.min.css?4.5.11" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+	<link href="/templates/yootheme_helenkeller/css/theme.9.css?1742929763" rel="stylesheet" />
+	<link href="/templates/yootheme_helenkeller/css/custom.css?4.5.11" rel="stylesheet" />
+	<link href="/media/plg_system_jcepro/site/css/content.min.css?86aa0286b6232c4a5b58f892ce080277" rel="stylesheet" />
+<script type="application/json" class="joomla-script-options new">{"joomla.jtext":{"ERROR":"Error","MESSAGE":"Message","NOTICE":"Notice","WARNING":"Warning","JCLOSE":"Close","JOK":"OK","JOPEN":"Open"},"system.paths":{"root":"","rootFull":"https:\/\/decaturmorganhospital.net\/","base":"","baseFull":"https:\/\/decaturmorganhospital.net\/"},"csrf.token":"aabba719910e9f0464df3534e6e0a4bd"}</script>
+	<script src="/media/system/js/core.min.js?37ffe4186289eba9c5df81bea44080aff77b9684"></script>
+	<script src="/media/vendor/webcomponentsjs/js/webcomponents-bundle.min.js?2.8.0" nomodule defer></script>
+	<script src="/media/system/js/messages-es5.min.js?c29829fd2432533d05b15b771f86c6637708bd9d" nomodule defer></script>
+	<script src="/media/system/js/joomla-hidden-mail-es5.min.js?b2c8377606bb898b64d21e2d06c6bb925371b9c3" nomodule defer></script>
+	<script src="/media/system/js/joomla-hidden-mail.min.js?065992337609bf436e2fedbcbdc3de1406158b97" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7f7aa28ac8e8d42145850e8b45b3bc82ff9a6411" type="module"></script>
+	<script src="/templates/yootheme/packages/theme-analytics/app/analytics.min.js?4.5.11" defer></script>
+	<script src="/templates/yootheme/vendor/assets/uikit/dist/js/uikit.min.js?4.5.11"></script>
+	<script src="/templates/yootheme/vendor/assets/uikit/dist/js/uikit-icons-fuse.min.js?4.5.11"></script>
+	<script src="/templates/yootheme/js/theme.js?4.5.11"></script>
+	<script src="/media/com_widgetkit/js/maps.js" defer></script>
+	<script>window.yootheme ||= {}; var $theme = yootheme.theme = {"google_analytics":"UA-150019032-1","google_analytics_anonymize":"","i18n":{"close":{"label":"Close"},"totop":{"label":"Back to top"},"marker":{"label":"Open"},"navbarToggleIcon":{"label":"Open Menu"},"paginationPrevious":{"label":"Previous page"},"paginationNext":{"label":"Next Page"},"searchIcon":{"toggle":"Open Search","submit":"Submit Search"},"slider":{"next":"Next slide","previous":"Previous slide","slideX":"Slide %s","slideLabel":"%s of %s"},"slideshow":{"next":"Next slide","previous":"Previous slide","slideX":"Slide %s","slideLabel":"%s of %s"},"lightboxPanel":{"next":"Next slide","previous":"Previous slide","slideLabel":"%s of %s","close":"Close"}}};</script>
+	<script>GOOGLE_MAPS_API_KEY = "AIzaSyD4c69L0ICPU0Q11zJY1vy7Ch3ST6S8sys";</script>
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ES213BDDTN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ES213BDDTN');
+</script>
+<script defer src="https://pro.fontawesome.com/releases/v5.7.2/js/all.js" integrity="sha384-I3Hhe9TkmlsxzooTtbRzdeLbmkFQE9DVzX/19uTZfHk1zn/uWUyk+a+GyrHyseSq" crossorigin="anonymous"></script>
+<script>(function(){ var s = document.createElement('script'), e = ! document.body ? document.querySelector('head') : document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Website Accessibility Solution by Red Sage Communications', hideMobile : false, hideTrigger : false, language : 'en', position : 'left', leadColor : '#146ff8', triggerColor : '#146ff8', triggerRadius : '50%', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerIcon : 'wheels', triggerSize : 'medium', triggerOffsetX : 20, triggerOffsetY : 20, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerOffsetX : 10, triggerOffsetY : 10, triggerRadius : '50%' } }); }; e.appendChild(s);}());</script>
+<script src="https://kit.fontawesome.com/40afd8abb3.js"></script>
+
+    </head>
+    <body class="">
+
+        <div class="uk-hidden-visually uk-notification uk-notification-top-left uk-width-auto">
+            <div class="uk-notification-message">
+                <a href="#tm-main" class="uk-link-reset">Skip to main content</a>
+            </div>
+        </div>
+
+                <div class="tm-page-container uk-clearfix">
+
+            
+            
+        
+        
+        <div class="tm-page uk-margin-auto">
+
+                        
+
+
+<header class="tm-header-mobile uk-hidden@m">
+
+
+    
+        <div class="uk-navbar-container">
+
+            <div class="uk-container uk-container-expand">
+                <nav class="uk-navbar" uk-navbar="{&quot;align&quot;:&quot;left&quot;,&quot;container&quot;:&quot;.tm-header-mobile&quot;,&quot;boundary&quot;:&quot;.tm-header-mobile .uk-navbar-container&quot;}">
+
+                                        <div class="uk-navbar-left ">
+
+                        
+                                                    <a uk-toggle href="#tm-dialog-mobile" class="uk-navbar-toggle">
+
+        
+        <div uk-navbar-toggle-icon></div>
+
+        
+    </a>
+                        
+                        
+                    </div>
+                    
+                                        <div class="uk-navbar-center">
+
+                                                    <a href="https://decaturmorganhospital.net/" aria-label="Back to home" class="uk-logo uk-navbar-item">
+    <img alt loading="eager" width="200" height="41" src="/images/DMH-logo-stacked.svg"></a>
+                        
+                        
+                    </div>
+                    
+                    
+                </nav>
+            </div>
+
+        </div>
+
+    
+
+
+
+        <div id="tm-dialog-mobile" uk-offcanvas="container: true; overlay: true" mode="slide">
+        <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+
+                        <button class="uk-offcanvas-close uk-close-large" type="button" uk-close uk-toggle="cls: uk-close-large; mode: media; media: @s"></button>
+            
+                        <div class="uk-margin-auto-bottom">
+                
+<div class="uk-panel" id="module-menu-dialog-mobile">
+
+    
+    
+<ul class="uk-nav uk-nav-default">
+    
+	<li class="item-101"><a href="/">Home</a></li>
+	<li class="item-143"><a href="/physicians">Physicians</a></li>
+	<li class="item-181"><a href="/physician-clinics">Physician Clinics</a></li>
+	<li class="item-218"><a href="/services-a-z">Services</a></li>
+	<li class="item-118 uk-active uk-parent"><a href="/patients-visitors">Patients &amp; Visitors</a>
+	<ul class="uk-nav-sub">
+
+		<li class="item-224"><a href="/patients-visitors/directions-maps">Directions &amp; Maps</a></li>
+		<li class="item-225"><a href="/patients-visitors/gift-shop">Gift Shop</a></li>
+		<li class="item-226"><a href="/patients-visitors/financial-assistance">Financial Information</a></li>
+		<li class="item-228"><a href="/patients-visitors/medical-records">Medical Records</a></li>
+		<li class="item-229"><a href="/patients-visitors/patient-advocacy">Patient Advocacy</a></li>
+		<li class="item-230"><a href="/patients-visitors/patient-portal">Patient Portal</a></li>
+		<li class="item-231"><a href="/patients-visitors/pay-a-bill">Pay a Bill</a></li>
+		<li class="item-232"><a href="/patients-visitors/patient-privacy">Patient Privacy</a></li>
+		<li class="item-238"><a href="/patients-visitors/patient-rights">Patient Rights</a></li>
+		<li class="item-122"><a href="/patients-visitors/thank-a-caregiver">Thank a Caregiver</a></li>
+		<li class="item-497"><a href="/patients-visitors/safety" title="Decatur Morgan Hospital Patient and Visitor Safety">Your Safety</a></li></ul></li>
+	<li class="item-132"><a href="/contact">Contact</a></li>
+	<li class="item-543"><a href="/careers">Careers</a></li></ul>
+
+</div>
+
+            </div>
+            
+            
+        </div>
+    </div>
+    
+    
+    
+
+</header>
+
+
+
+
+<header class="tm-header uk-visible@m">
+
+
+
+
+        <div class="tm-headerbar-default tm-headerbar tm-headerbar-top">
+        <div class="uk-container">
+
+                            <div class="uk-flex uk-flex-center"><div><a href="https://decaturmorganhospital.net/" aria-label="Back to home" class="uk-logo">
+    <img alt loading="eager" width="400" height="82" src="/images/DMH-logo-stacked.svg"></a></div></div>
+            
+            
+        </div>
+    </div>
+    
+    
+        
+            <div class="uk-navbar-container">
+
+                <div class="uk-container">
+                    <nav class="uk-navbar" uk-navbar="{&quot;align&quot;:&quot;left&quot;,&quot;container&quot;:&quot;.tm-header&quot;,&quot;boundary&quot;:&quot;.tm-header .uk-navbar-container&quot;}">
+
+                        
+                        <div class="uk-navbar-center">
+
+                                                            
+<ul class="uk-navbar-nav">
+    
+	<li class="item-101"><a href="/">Home</a></li>
+	<li class="item-143"><a href="/physicians">Physicians</a></li>
+	<li class="item-181"><a href="/physician-clinics">Physician Clinics</a></li>
+	<li class="item-218"><a href="/services-a-z">Services</a></li>
+	<li class="item-118 uk-active uk-parent"><a href="/patients-visitors">Patients &amp; Visitors</a>
+	<div class="uk-drop uk-navbar-dropdown"><div><ul class="uk-nav uk-navbar-dropdown-nav">
+
+		<li class="item-224"><a href="/patients-visitors/directions-maps">Directions &amp; Maps</a></li>
+		<li class="item-225"><a href="/patients-visitors/gift-shop">Gift Shop</a></li>
+		<li class="item-226"><a href="/patients-visitors/financial-assistance">Financial Information</a></li>
+		<li class="item-228"><a href="/patients-visitors/medical-records">Medical Records</a></li>
+		<li class="item-229"><a href="/patients-visitors/patient-advocacy">Patient Advocacy</a></li>
+		<li class="item-230"><a href="/patients-visitors/patient-portal">Patient Portal</a></li>
+		<li class="item-231"><a href="/patients-visitors/pay-a-bill">Pay a Bill</a></li>
+		<li class="item-232"><a href="/patients-visitors/patient-privacy">Patient Privacy</a></li>
+		<li class="item-238"><a href="/patients-visitors/patient-rights">Patient Rights</a></li>
+		<li class="item-122"><a href="/patients-visitors/thank-a-caregiver">Thank a Caregiver</a></li>
+		<li class="item-497"><a href="/patients-visitors/safety" title="Decatur Morgan Hospital Patient and Visitor Safety">Your Safety</a></li></ul></div></div></li>
+	<li class="item-132"><a href="/contact">Contact</a></li>
+	<li class="item-543"><a href="/careers">Careers</a></li></ul>
+
+                            
+                        </div>
+
+                        
+                    </nav>
+                </div>
+
+            </div>
+
+        
+    
+    
+
+
+
+
+
+
+</header>
+
+            
+            <div id="module-112" class="builder"><!-- Builder #module-112 -->
+<div class="uk-section-default uk-section uk-section-small">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+<div class="uk-width-1-1@m">
+    
+        
+            
+            
+            
+                
+                    
+<div class="uk-margin-small">
+        <picture>
+<source type="image/webp" srcset="/templates/yootheme/cache/9a/patients-visitors-9abc3f4b.webp 768w, /templates/yootheme/cache/d6/patients-visitors-d6badb20.webp 1024w, /templates/yootheme/cache/60/patients-visitors-60fe66ec.webp 1198w, /templates/yootheme/cache/59/patients-visitors-59191c0e.webp 1200w" sizes="(min-width: 1200px) 1200px">
+<img src="/templates/yootheme/cache/98/patients-visitors-9831617c.jpeg" width="1200" height="300" class="el-image" alt loading="lazy">
+</picture>    
+    
+</div>
+<div class="uk-panel uk-margin-remove-top">
+    
+    
+
+<nav class="uk-margin-medium-bottom" aria-label="Breadcrumb">
+    <ul class="uk-breadcrumb" vocab="https://schema.org/" typeof="BreadcrumbList">
+    
+            <li property="itemListElement" typeof="ListItem">            <a href="/" property="item" typeof="WebPage"><span property="name">Home</span></a>
+            <meta property="position" content="1">
+            </li>    
+            <li property="itemListElement" typeof="ListItem">            <a href="/patients-visitors" property="item" typeof="WebPage"><span property="name">Patients &amp; Visitors</span></a>
+            <meta property="position" content="2">
+            </li>    
+            <li property="itemListElement" typeof="ListItem">            <span property="name" aria-current="page">Price Transparency</span>            <meta property="position" content="3">
+            </li>    
+    </ul>
+</nav>
+
+</div>
+                
+            
+        
+    
+</div></div>
+                                </div>                
+            
+        
+    
+</div></div>
+
+            <main id="tm-main" >
+
+                
+                <div id="system-message-container" aria-live="polite"></div>
+
+                <!-- Builder #page -->
+<div class="uk-section-default uk-section uk-padding-remove-top">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+<div class="uk-width-1-1">
+    
+        
+            
+            
+            
+                
+                    
+<h1>        Price Transparency    </h1><div class="uk-panel uk-margin"><p>We encourage patients to find out as much as they can about the cost of their care before coming to the hospital.</p>
+<ol>
+<li>The price you pay for health care services depends on your insurance coverage. Talk with your insurance provider or a representative from Medicaid or Medicare to determine any deductibles, co-payments or other out-of-pocket costs.</li>
+<li>If you don’t have any health insurance, or have limited coverage you may qualify for financial assistance. Please call<span> </span><a href="tel:2568016280">(256) 801-6280</a><span> </span>and speak to one of our patient account representatives.</li>
+</ol></div>
+<div class="uk-margin">
+    
+    
+        
+        
+<a class="el-content uk-button uk-button-primary uk-flex-inline uk-flex-center uk-flex-middle" href="/patients-visitors/patient-cost-estimator">
+    
+        Patient Cost Estimator Tool    
+        <span class="uk-margin-small-left" uk-icon="link"></span>    
+</a>
+
+
+        
+    
+    
+</div>
+
+                
+            
+        
+    
+</div></div>
+                                </div>                
+            
+        
+    
+</div>
+<div class="uk-section-default uk-section uk-padding-remove-top">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+<div class="uk-width-1-1">
+    
+        
+            
+            
+            
+                
+                    
+<h2 class="uk-h2">        Standard Charges    </h2><div class="uk-panel uk-margin"><p>The Huntsville Hospital Health System complies with the Centers for Medicare and Medicaid Services which requires all hospitals to post their standard charges online.</p>
+<p>Please note that these listed dollar amounts are the gross standard charges to provide a particular service, supply, or drug. These amounts do not reflect what the hospital is paid or what patients will ultimately pay.</p>
+<p>Actual hospital payments received for providing these services are set by either the government or by negotiations with private insurance companies. These payments are typically less than the standard charges of caring for our patients. </p>
+<p>Consumers will note that even in regions throughout Alabama, hospital standard charges vary. This is due to a variety of factors including negotiated payments, average wage index by geographic area, drug and supply costs contracts, and the amount of uncompensated care.</p></div>
+<div class="uk-margin">
+        <div class="uk-flex-middle uk-grid-small uk-child-width-auto" uk-grid>    
+    
+                <div class="el-item">
+        
+        
+<a class="el-content uk-button uk-button-primary uk-flex-inline uk-flex-center uk-flex-middle" href="/images/price-transparency/460928982_decatur-morgan-hospital_standardcharges.csv">
+    
+        Decatur Morgan Hospital Standard Charge File    
+        <span class="uk-margin-small-left" uk-icon="download"></span>    
+</a>
+
+
+                </div>
+        
+    
+                <div class="el-item">
+        
+        
+<a class="el-content uk-button uk-button-primary uk-flex-inline uk-flex-center uk-flex-middle" href="/images/price-transparency/460928982_decatur-morgan-hospital-west_standardcharges.csv">
+    
+        Decatur Morgan Hospital West Standard Charge File    
+        <span class="uk-margin-small-left" uk-icon="download"></span>    
+</a>
+
+
+                </div>
+        
+    
+        </div>    
+</div>
+
+                
+            
+        
+    
+</div></div>
+                                </div>                
+            
+        
+    
+</div>
+
+                
+            </main>
+
+            
+
+                        <footer>
+                <!-- Builder #footer --><style class="uk-margin-remove-adjacent">#footer\#0 .bottom-menus .uk-nav-default > li > a{color: #39393e; font-weight: 600;}#footer\#1 .uk-section-primary{background: #54545c !important;}</style>
+<div id="footer#0" class="bottom-menus uk-section-muted uk-section">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    <div class="uk-grid tm-grid-expand uk-grid-margin" uk-grid>
+<div class="uk-width-1-1@s uk-width-1-2@m">
+    
+        
+            
+            
+            
+                
+                    
+<div class="uk-panel uk-width-xlarge">
+    
+    
+<div class="uk-margin-remove-last-child custom" ><div uk-grid="" class="uk-grid-divider">
+<div><div class="moduletable ">
+        
+<ul class="uk-nav uk-nav-default">
+    
+	<li class="item-127 uk-parent"><a href="/about">About</a>
+	<ul class="uk-nav-sub">
+
+		<li class="item-178"><a href="/contact">Contact</a></li>
+		<li class="item-129"><a href="/about/leadership">Leadership</a></li>
+		<li class="item-358"><a href="/about/employee-portal">Employee Portal</a></li>
+		<li class="item-142"><a href="/about/careers">Careers</a></li>
+		<li class="item-371"><a href="/about/site-search">Site Search</a></li></ul></li></ul>
+</div>
+</div>
+<div><div class="moduletable ">
+        
+<ul class="uk-nav uk-nav-default">
+    
+	<li class="item-138 uk-parent"><a href="/community">Community</a>
+	<ul class="uk-nav-sub">
+
+		<li class="item-366"><a href="https://www.decaturmorganfoundation.org/" target="_blank">Foundation</a></li>
+		<li class="item-141"><a href="/community/volunteer">Volunteer</a></li>
+		<li class="item-368"><a href="/community/job-shadowing">Job Shadowing</a></li></ul></li></ul>
+</div>
+</div>
+<div><div class="moduletable ">
+        
+<ul class="uk-nav uk-nav-default">
+    
+	<li class="item-359 uk-parent"><a href="/news-events">News &amp; Events</a>
+	<ul class="uk-nav-sub">
+
+		<li class="item-360"><a href="/news-events/events-calendar">Events Calendar</a></li>
+		<li class="item-1119"><a href="/news-events/news">News &amp; Social Media</a></li>
+		<li class="item-362"><a href="/news-events/publications">Publications</a></li></ul></li></ul>
+</div>
+</div>
+</div></div>
+
+</div>
+                
+            
+        
+    
+</div>
+<div class="uk-width-1-2@s uk-width-1-4@m">
+    
+        
+            
+            
+            
+                
+                    <div class="uk-panel uk-margin uk-width-medium uk-text-left"><p><strong>Decatur Morgan Hospital</strong><br /> 1201 7th Street SE<br /> Decatur, AL 35601<br /> Phone: <a href="tel:2569732000">(256) 973-2000</a><br /> Email: <joomla-hidden-mail  is-link="1" is-email="1" first="aW5mbw==" last="ZG1obmV0Lm9yZw==" text="aW5mb0BkbWhuZXQub3Jn" base=""  target="_blank">This email address is being protected from spambots. You need JavaScript enabled to view it.</joomla-hidden-mail></p></div>
+                
+            
+        
+    
+</div>
+<div class="uk-width-1-2@s uk-width-1-4@m">
+    
+        
+            
+            
+            
+                
+                    
+<div class="uk-margin">
+        <div class="uk-flex-middle uk-grid-small uk-child-width-1-1" uk-grid>    
+    
+                <div class="el-item">
+        
+        
+<a class="el-content uk-width-1-1 uk-button uk-button-primary" href="/patients-visitors/pay-a-bill">
+    
+        Pay a bill    
+    
+</a>
+
+
+                </div>
+        
+    
+                <div class="el-item">
+        
+        
+<a class="el-content uk-width-1-1 uk-button uk-button-primary" href="https://www.decaturmorganfoundation.org/" target="_blank">
+    
+        Donate    
+    
+</a>
+
+
+                </div>
+        
+    
+                <div class="el-item">
+        
+        
+<a class="el-content uk-width-1-1 uk-button uk-button-primary" href="/about/careers">
+    
+        Careers    
+    
+</a>
+
+
+                </div>
+        
+    
+        </div>    
+</div>
+
+<div class="uk-margin uk-text-center" uk-scrollspy="target: [uk-scrollspy-class];">    <ul class="uk-child-width-auto uk-grid-medium uk-flex-inline uk-flex-middle" uk-grid>
+            <li class="el-item">
+<a class="el-link uk-icon-button" href="https://www.facebook.com/decaturmorganhospital " target="_blank" rel="noreferrer"><span uk-icon="icon: facebook; width: 40; height: 40;"></span></a></li>
+            <li class="el-item">
+<a class="el-link uk-icon-button" href="https://twitter.com/decmorghosp " target="_blank" rel="noreferrer"><span uk-icon="icon: twitter; width: 40; height: 40;"></span></a></li>
+            <li class="el-item">
+<a class="el-link uk-icon-button" href="https://www.instagram.com/decaturmorganhospital/" target="_blank" rel="noreferrer"><span uk-icon="icon: instagram; width: 40; height: 40;"></span></a></li>
+    
+    </ul></div>
+                
+            
+        
+    
+</div></div>
+                                </div>                
+            
+        
+    
+</div>
+<div id="footer#1" class="uk-section-secondary uk-section uk-section-small uk-padding-remove-bottom">
+    
+        
+        
+        
+            
+                                <div class="uk-container">                
+                    <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+<div class="uk-width-1-1@m">
+    
+        
+            
+            
+            
+                
+                    <div class="uk-panel uk-margin uk-text-center"><p class="uk-text-large">Decatur Morgan Hospital is a part of the <a href="https://hh.health/">Huntsville Hospital Health System</a></p></div><div class="uk-panel uk-margin uk-text-center"><p><a href="/disclaimer">Disclaimer</a> | <a href="/patients-visitors/patient-privacy">Patient Privacy</a> | <a href="/patients-visitors/patient-rights">Patient Rights</a> | <a href="/patients-visitors/price-transparency">Price Transparency</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/sitemap">Sitemap</a></p></div><div class="uk-panel uk-margin uk-text-center"><p>©<script language="javascript" type="text/javascript">
+var today = new Date()
+var year = today.getFullYear()
+document.write(year)
+</script> Decatur Morgan Hospital <br /> Website development by <a href="http://redsageonline.com" target="_blank" rel="noopener">Red Sage Communications, Inc</a><a href="/clinics-test-teresa">.</a></p></div><div class="uk-panel uk-text-small uk-margin uk-text-center"><p><strong>Language Assistance Available:</strong><br /> <a href="/images/pdfs/PatientRights1557TranslationTagLines.pdf" target="_blank">Espanol | 繁體中文 | 한국어 | Tiếng Việt | ال عر بیة | Deutsch | Francais | !ુજરાતી | Tagalog | !हदं % | ພາສາລາວ | Русский | Portugues | Turkce | 日本語</a></p></div>
+                
+            
+        
+    
+</div></div>
+                                </div>                
+            
+        
+    
+</div>            </footer>
+            
+        </div>
+
+                </div>
+        
+        
+
+    </body>
+</html>

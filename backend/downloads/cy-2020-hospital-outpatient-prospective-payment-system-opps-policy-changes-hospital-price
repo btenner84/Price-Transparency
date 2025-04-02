@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<script src="https://tealium-tags.cms.gov/cms-www/prod/utag.sync.js" type="text/javascript"></script>
+<meta name="description" content="On November 15, 2019, the Centers for Medicare &amp; Medicaid Services (CMS) finalized policies that follow directives in President Trump’s Executive Order, entitled “Improving Price and Quality Transparency in American Healthcare to Put Patients First,” that lay the foundation for a patient-driven healthcare system by making prices for items and services provided by all hospitals in the United States more transparent for patients so that they can be more informed about what they might pay for hospital items and services." />
+<link rel="canonical" href="https://www.cms.gov/newsroom/fact-sheets/cy-2020-hospital-outpatient-prospective-payment-system-opps-policy-changes-hospital-price" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="/themes/custom/cms_evo/images/cms.gov-footer.png" />
+</head-placeholder>
+    <title>CY 2020 Hospital Outpatient Prospective Payment System (OPPS) Policy Changes: Hospital Price Transparency Requirements (CMS-1717-F2) | CMS</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_2hz8N87yU5UN9zsaAk_QDbdxs-OdX75ZKN4jjRqHGvI.css?delta=0&amp;language=en&amp;theme=cms_evo&amp;include=eJx1jksOwyAMRC_E50jIASe1YmwEJG16-qJEyqJVNx7PW8xMXDFR1xogRq2JVPz9ubmqdJRkYm4Bd_VD7cQaV9vx1W-8sE7AtvWDSZYbCz5bVc12goa_VGC3DaHGhxmF6EVrBqY3mpmplMOnuhVgdzmTSUgryIKhQWb_5R2kQcwVGKBQgK1r1FwYO_o_3LSjdcz-XLjTmObP67KmjfEDs8ZwQw" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_F9cXlZAph5ulhhZmV0EBoDu8J9eMygHvDBxt7pI5Vjk.css?delta=1&amp;language=en&amp;theme=cms_evo&amp;include=eJx1jksOwyAMRC_E50jIASe1YmwEJG16-qJEyqJVNx7PW8xMXDFR1xogRq2JVPz9ubmqdJRkYm4Bd_VD7cQaV9vx1W-8sE7AtvWDSZYbCz5bVc12goa_VGC3DaHGhxmF6EVrBqY3mpmplMOnuhVgdzmTSUgryIKhQWb_5R2kQcwVGKBQgK1r1FwYO_o_3LSjdcz-XLjTmObP67KmjfEDs8ZwQw" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_v9y7V1pmUpDh4vsyWVB98BCY2H1o0eCbi0PSItMLFWk.css?delta=2&amp;language=en&amp;theme=cms_evo&amp;include=eJx1jksOwyAMRC_E50jIASe1YmwEJG16-qJEyqJVNx7PW8xMXDFR1xogRq2JVPz9ubmqdJRkYm4Bd_VD7cQaV9vx1W-8sE7AtvWDSZYbCz5bVc12goa_VGC3DaHGhxmF6EVrBqY3mpmplMOnuhVgdzmTSUgryIKhQWb_5R2kQcwVGKBQgK1r1FwYO_o_3LSjdcz-XLjTmObP67KmjfEDs8ZwQw" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_FPpSoWMTiM0g2thivCZdKxvByefZuc6nlFmEqe343_s.css?delta=3&amp;language=en&amp;theme=cms_evo&amp;include=eJx1jksOwyAMRC_E50jIASe1YmwEJG16-qJEyqJVNx7PW8xMXDFR1xogRq2JVPz9ubmqdJRkYm4Bd_VD7cQaV9vx1W-8sE7AtvWDSZYbCz5bVc12goa_VGC3DaHGhxmF6EVrBqY3mpmplMOnuhVgdzmTSUgryIKhQWb_5R2kQcwVGKBQgK1r1FwYO_o_3LSjdcz-XLjTmObP67KmjfEDs8ZwQw" />
+</css-placeholder>
+    </js-placeholder>
+      </head>
+  <body class="page-node-1289686 path-node page-node-type-newsroom-article">
+    <div class='ds-u-visibility--screen-reader' id='liveText' aria-live='polite'></div>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+
+<div id="page-wrapper" class="page-newsroom">
+  <div id="page">
+        <header id="header" class="header" role="banner" aria-label="Site header">
+  <a href="#skipNavTarget" class="visually-hidden focusable skip-link">Skip to main content</a>
+
+  <div class="ds-u-fill--gray-lightest">
+    <div class="ds-l-container">
+      <div class="ds-l-row">
+        <div class="ds-l-col--12">
+          <ds-usa-banner></ds-usa-banner>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="ds-l-container cms-tracker--header-top">
+    <div class="ds-l-row">
+      <div class="header-top-wrapper ds-l-md-col--12">
+        <button id="js-navbar-toggle" class="navbar-toggle navbar-toggle-primary-menu ds-u-lg-display--none" aria-expanded="false" aria-label="Open Main" aria-haspopup="true">
+          <i class="fal fa-bars" focusable="false"></i>
+        </button>
+          <div class="region region-cms-header-primary">
+    <div id="block-cms-evo-sitebranding" data-block-plugin-id="system_branding_block" class="block block-system block-system-branding-block">
+  
+    
+        <div class="site-logo">
+      <a href="/" rel="home">
+        <img src="/themes/custom/cms_evo/logo.svg" alt="CMS.gov" />
+      </a>
+    </div>
+        <div class="ds-u-lg-display--block ds-u-display--none site-slogan">
+      Centers for Medicare &amp; Medicaid Services
+    </div>
+    <div class="newsroom-branding">
+      <h2 class="ds-u-lg-font-size--xl ds-u-color--white ds-u-margin--0 ds-u-font-weight--semibold">
+        <a href="/about-cms/contact/newsroom" rel="home"  class="ds-u-color--white ds-u-text-decoration--none">CMS Newsroom</a>
+      </h2>
+    </div>
+</div>
+
+  </div>
+
+          <div class="region region-cms-header-secondary ds-u-display--none ds-u-lg-display--flex">
+    
+
+
+<div class="ds-u-lg-display--none">
+  <h2 class="mobile-newsroom-search-heading">Search the Newsroom</h2>
+  <div id="mobile-nav-search-btn" class="ds-u-display--flex">
+    <form>
+      <label class="ds-u-visibility--screen-reader" for="mobile-nav-search-input">Search</label>
+      <input title="Search newsroom articles"  class="ds-c-field ds-u-margin--0 ds-u-padding-left--2 ds-u-padding-top--0 ds-u-padding-bottom--0" type="search" id="mobile-nav-search-input" name="keys" value="" maxlength="128" autocomplete="off" placeholder="Search newsroom articles">
+      <div class="mobile-header-search-btn">
+        <button class="active" type="submit" value="Search"  class="ds-c-button ds-u-padding--3 ds-u-margin--0" aria-controls="mobile-nav-search-input">
+          <i class="fas fa-search" focusable="false"></i><span class="ds-u-visibility--screen-reader">Search</span>
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+<nav aria-label=Secondary id="block-cmsglobalsecondarymenu2" data-block-plugin-id="system_menu_block:cms-global-secondary-menu-2" class="ds-u-display--none ds-u-lg-display--block header-menu--secondary" >
+            
+    <span class="visually-hidden" id="block-cmsglobalsecondarymenu2-menu">Header</span>
+  
+
+        
+                  <ul region="cms_header_secondary" class="menu cms-evo-unstyled-list ds-u-display--flex">
+                    <li class="menu-item">
+        <a href="/about-cms" class="menu-item-link" data-drupal-link-system-path="node/132926">About CMS</a>
+              </li>
+                <li class="menu-item">
+        <a href="/about-cms/contact/newsroom" class="menu-item-link" data-drupal-link-system-path="node/43871">Newsroom</a>
+              </li>
+                <li class="menu-item">
+        <a href="/data-research" class="menu-item-link" data-drupal-link-system-path="node/132891">Data &amp; Research</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+  </div>
+
+        <button id="js-searchbar-toggle" class="searchbar-toggle ds-u-lg-display--none" aria-expanded="false" aria-label="Open Site Search" aria-haspopup="true">
+          <i class="fal fa-search" focusable="false"></i>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div class="header-main-menu-wrapper cms-tracker--header-main-menu ds-u-lg-margin-bottom--0 ds-u-lg-padding-y--3">
+    <div class="ds-l-container">
+      <div class="ds-l-row">
+        <div class="ds-l-col--12">
+          
+      <div class="region region-cms-header-navigation ds-u-display--none ds-u-lg-display--block" role="region" aria-label="Additional links and search">
+      <div id="block-cms-evo-newsroom-navigation-3" data-block-plugin-id="system_menu_block:newsroom-navigation" class="block block-system block-system-menu-blocknewsroom-navigation ds-u-display--flex ds-u-lg-align-items--center ds-u-lg-justify-content--between ds-u-lg-flex-direction--row ds-u-flex-direction--column">
+  
+      <div class="ds-u-lg-display--block ds-u-display--none">
+    <h2 id="block-cms-evo-newsroom-navigation-3" data-block-plugin-id="system_menu_block:newsroom-navigation" class="block block-system block-system-menu-blocknewsroom-navigation ds-u-display--flex ds-u-lg-align-items--center ds-u-lg-justify-content--between ds-u-lg-flex-direction--row ds-u-flex-direction--column ds-u-lg-font-size--3xl ds-u-color--white ds-u-margin--0 ds-u-font-weight--semibold"><a href="/about-cms/contact/newsroom">Newsroom</a></h2>
+  </div>
+    <div class="ds-u-lg-display--none ds-u-display--block ds-u-fill--primary ds-u-padding-y--3 ds-u-padding-left--3 ds-u-padding-right--4">
+    <h2 data-block-plugin-id="system_menu_block:newsroom-navigation" class="block block-system block-system-menu-blocknewsroom-navigation ds-u-display--flex ds-u-lg-align-items--center ds-u-lg-justify-content--between ds-u-lg-flex-direction--row ds-u-flex-direction--column ds-u-lg-font-size--3xl ds-u-color--white ds-u-margin--0 ds-u-font-weight--semibold">Newsroom Menu</a></h2>
+  </div>
+    
+      <div class="content">
+     <span class="create-date"> </span>
+      
+
+            <nav role="navigation" aria-label="Newsroom">
+          <div class="ds-u-display--none ds-u-lg-display--block desktop-newsroom-navigation">
+        <ul region="cms_header_navigation" class="ds-u-display--flex ds-u-lg-flex-wrap--nowrap ds-u-lg-flex-direction--row ds-u-flex-direction--column newsroom-navigation ds-u-padding--0 ds-u-margin--0 ds-u-lg-margin-right--6">
+                      <li class="ds-u-margin-bottom--0 menu-item menu-item--l1">
+              <a href="/newsroom/press-kit" class="ds-c-button ds-c-button--solid ds-u-font-weight--semibold ds-u-font-size--lg" data-drupal-link-system-path="node/43876">Press Kit</a>
+                          </li>
+                      <li class="ds-u-margin-bottom--0 menu-item menu-item--l1">
+              <a href="/newsroom/data" title="CMS Data" class="ds-c-button ds-c-button--solid ds-u-font-weight--semibold ds-u-font-size--lg" data-drupal-link-system-path="node/56401">Data</a>
+                          </li>
+                      <li class="ds-u-margin-bottom--0 menu-item menu-item--l1">
+              <a href="/newsroom/press-contacts" class="ds-c-button ds-c-button--solid ds-u-font-weight--semibold ds-u-font-size--lg" data-drupal-link-system-path="node/57181">Contact</a>
+                          </li>
+                  </ul>
+      </div>
+            <div class="ds-u-display--block ds-u-lg-display--none mobile-newsroom-navigation">
+        <ul region="cms_header_navigation" class="ds-u-display--flex ds-u-lg-flex-wrap--nowrap ds-u-lg-flex-direction--row ds-u-flex-direction--column newsroom-navigation ds-u-padding--0 ds-u-margin--0 ds-u-lg-margin-right--6">
+                      <li class="ds-u-margin-bottom--0 menu-item menu-item--l1">
+              <a href="/newsroom/press-kit" class="menu-item-element" data-drupal-link-system-path="node/43876">Press Kit</a>
+                          </li>
+                      <li class="ds-u-margin-bottom--0 menu-item menu-item--l1">
+              <a href="/newsroom/data" title="CMS Data" class="menu-item-element" data-drupal-link-system-path="node/56401">Data</a>
+                          </li>
+                      <li class="ds-u-margin-bottom--0 menu-item menu-item--l1">
+              <a href="/newsroom/press-contacts" class="menu-item-element" data-drupal-link-system-path="node/57181">Contact</a>
+                          </li>
+                  </ul>
+      </div>
+    </nav>
+  
+
+
+    </div>
+  </div>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocknewsroom-of-acquia-search-page" data-drupal-selector="views-exposed-form-newsroom-of-acquia-search-page" id="block-cms-evo-exposedformnewsroom-of-acquia-searchpage-3" data-block-plugin-id="views_exposed_filter_block:newsroom_of_acquia_search-page">
+  
+    
+      <div class="content">
+     <span class="create-date"> </span>
+      <form region="cms_header_navigation" action="/newsroom/search" method="get" id="views-exposed-form-newsroom-of-acquia-search-page" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search-api-autocomplete form-item-search js-form-item-search">
+      <label for="edit-search--2" class="ds-c-label">Search</label>
+          
+
+
+
+<div id="nav-search-btn" class="ds-u-lg-display--flex ds-u-display--none">
+      <input placeholder="Search newsroom articles" aria-label="Search newsroom articles" aria-expanded="false" role="combobox" type="text" data-drupal-selector="edit-search" data-search-api-autocomplete-search="newsroom_of_acquia_search" class="form-autocomplete form-text ds-c-field ds-u-margin--0 ds-u-padding-left--2 ds-u-padding-top--0 ds-u-padding-bottom--0 ds-u-display--none" data-autocomplete-path="/search_api_autocomplete/newsroom_of_acquia_search?display=page&amp;&amp;filter=search" id="edit-search--2" name="search" value="" size="30" maxlength="128" title="search" />
+    <button class="clear-button ds-u-display--none" type="button" aria-controls="edit-search--2 hidden-search-suggestion-wrapper" aria-label="Clear Search Terms">
+    <i class="fal fa-times"></i>
+  </button>
+  <div class="ds-u-display--none" id="hidden-search-suggestion-wrapper">
+    <span id="list-header" class="cms-list-header">Suggestions</span>
+    <ul aria-labelledby="list-header">
+      <li tabindex="0"><span class="term"></span><i class="far fa-long-arrow-right" focusable="false"></i></li>
+      <li tabindex="0"><span class="term"></span><i class="far fa-long-arrow-right" focusable="false"></i></li>
+      <li tabindex="0"><span class="term"></span><i class="far fa-long-arrow-right" focusable="false"></i></li>
+      <li tabindex="0"><span class="term"></span><i class="far fa-long-arrow-right" focusable="false"></i></li>
+      <li tabindex="0"><span class="term"></span><i class="far fa-long-arrow-right" focusable="false"></i></li>
+    </ul>
+  </div>
+  <div class="header-search-btn">
+    <button type="button" value="Search"  class="ds-c-button ds-u-padding--3 ds-u-margin--0" aria-controls="edit-search--2">
+      <i class="fas fa-search" focusable="false"></i><span class="ds-u-visibility--screen-reader">Search</span>
+    </button>
+  </div>
+</div>
+
+      </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2">
+
+  <input data-drupal-selector="edit-submit-newsroom-of-acquia-search-2" type="submit" id="edit-submit-newsroom-of-acquia-search--2" value="SEARCH" class="button js-form-submit form-submit ds-c-button ds-c-button--solid" />
+</div>
+
+
+</form>
+
+    </div>
+  </div>
+
+  </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+      <div class="header-breadcrumb-wrapper ds-u-display--none ds-u-md-display--block cms-tracker--breadcrumbs">
+      <div class="ds-l-container">
+        <div class="ds-l-row">
+          <div class="ds-l-col--12 ds-u-display--flex ds-u-justify-content--between ds-u-align-items--center">
+            <div id="block-cms-evo-breadcrumbs" data-block-plugin-id="system_breadcrumb_block" class="block block-system block-system-breadcrumb-block">
+  
+    
+      <div class="content">
+     <span class="create-date"> </span>
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+    <ul class="menu cms-evo-unstyled-list">
+          <li>
+                              <a href="/" title="CMS Home" class="linked-breadcrumb"><i class="fas fa-home"></i></a>
+                                    <i class="fas fa-angle-right"></i>
+              </li>
+          <li>
+                              <a href="/about-cms/contact/newsroom" class="linked-breadcrumb">Newsroom Homepage</a>
+                                    <i class="fas fa-angle-right"></i>
+              </li>
+          <li>
+                  Fact Sheets
+                          <i class="fas fa-angle-right"></i>
+              </li>
+          <li>
+                  CY 2020 Hospital Outpatient Prospective Payment System (OPPS) Policy Changes: Hospital Price Transparency Requirements (CMS-1717-F2)
+                      </li>
+        </ul>
+  </nav>
+
+    </div>
+  </div>
+
+                                                          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+    <div id="page-wrapper-inner" class="ds-l-container">
+      <div id="page-inner">
+        <main id="skipNavTarget" role="main">
+          <div id="main-wrapper" class="clearfix">
+              <div class="region region-cms-page-menu-block-header">
+    
+  </div>
+
+
+            <div id="main" class="clearfix">
+              <div class="ds-l-row">
+
+                <!--right Column-->
+                                                      <div class="ds-l-col--12 ds-l-md-col--8 ds-l-lg-col--9 cms-global-center">
+                                        <inner>
+                          <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-cms-evo-pagetitle" data-block-plugin-id="page_title_block" class="block block-core block-page-title-block">
+  
+    
+      <div class="content">
+      <div class="ds-u-display--flex ds-u-align-items--center ds-u-margin-bottom--3">
+                  <span class="node-type ds-c-badge ds-c-badge--warn">Fact Sheets </span>
+                          <span class="create-date">Nov 15, 2019 </span>
+              </div>
+      
+  <h1  class="page-title"><span class="field field--name-title field--type-string field--label-hidden">CY 2020 Hospital Outpatient Prospective Payment System (OPPS) Policy Changes: Hospital Price Transparency Requirements (CMS-1717-F2)
+    <div class="title-border"></div></span>
+</h1>
+  <div class="title-border"></div>
+
+
+    </div>
+  </div>
+<div id="block-cms-evo-content" data-block-plugin-id="system_main_block" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+     <span class="create-date"> </span>
+        
+<article class="node node--type-newsroom-article node--view-mode-full clearfix">
+
+    <div class="node__content clearfix">
+          <div class="field field--name-field-topic field--type-entity-reference field--label-hidden field__items">
+                      <div class="field__item"><a href="/newsroom/search?search_api_language=en&amp;sort_by=field_date&amp;sort_order=DESC&amp;items_per_page=10&amp;f%5B0%5D=topic%3A176" hreflang="en">Coverage</a></div>
+                              <div class="field__item"><a href="/newsroom/search?search_api_language=en&amp;sort_by=field_date&amp;sort_order=DESC&amp;items_per_page=10&amp;f%5B0%5D=topic%3A76" hreflang="en">Legislation</a></div>
+                              <div class="field__item"><a href="/newsroom/search?search_api_language=en&amp;sort_by=field_date&amp;sort_order=DESC&amp;items_per_page=10&amp;f%5B0%5D=topic%3A101" hreflang="en">Quality</a></div>
+                  </div>
+  
+    
+    
+    <!--  Share icons -->
+<div class="sharethis-wrapper">
+  <span>
+    <p class="share-text ds-u-font-size--lg">Share</p>
+  </span>
+  <span class="facebook-icon share-icon">
+    <a title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.cms.gov/newsroom/fact-sheets/cy-2020-hospital-outpatient-prospective-payment-system-opps-policy-changes-hospital-price" target="blank">
+      <span aria-hidden="true" role="presentation">
+        <i title="Share on Facebook" class="fa-inverse fab fa-facebook-f"></i>
+      </span>
+      <span class="ds-u-visibility--screen-reader">opens in new window</span>
+    </a>
+  </span>
+  <span class="twitter-icon share-icon">
+    <a title="Share on Twitter" href="https://twitter.com/intent/tweet?text=https://www.cms.gov/newsroom/fact-sheets/cy-2020-hospital-outpatient-prospective-payment-system-opps-policy-changes-hospital-price" target="blank">
+      <span class="ds-u-display--flex ds-u-justify-content--center ds-u-align-content--center" aria-hidden="true" role="presentation">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="white" height="18" width="18" viewbox="0 0 512 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>
+      </span>
+      <span class="ds-u-visibility--screen-reader">opens in new window</span>
+    </a>
+  </span>
+  <span class="linkedin-icon share-icon">
+    <a title="Share on LinkedIn" href="https://www.linkedin.com/uas/login?session_redirect=https://www.cms.gov/newsroom/fact-sheets/cy-2020-hospital-outpatient-prospective-payment-system-opps-policy-changes-hospital-price" target="blank">
+      <span aria-hidden="true" role="presentation">
+        <i title="Share on LinkedIn" class="fa-inverse fab fa-linkedin-in"></i>
+      </span>
+      <span class="ds-u-visibility--screen-reader">opens in new window</span>
+    </a>
+  </span>
+<span class="print-icon share-icon">
+    <a title="Print" href="javascript:window.print()">
+      <span aria-hidden="true" role="presentation">
+        <i title="Print" class="fa-inverse fas fa-print"></i>
+      </span>
+    </a>
+  </span>
+</div>
+                     <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><p class="text-align-center"><span><span><strong><span><span>CY 2020 Hospital Outpatient Prospective Payment System (OPPS) Policy Changes: Hospital Price Transparency Requirements (CMS-1717-F2)</span></span></strong></span></span></p>
+
+<p><span><span><span><span>On November 15, 2019, the Centers for Medicare &amp; Medicaid Services (CMS) finalized policies that follow directives in President Trump’s Executive Order, entitled “Improving Price and Quality Transparency in American Healthcare to Put Patients First,” that lay the foundation for a patient-driven healthcare system by making prices for items and services provided by all hospitals in the United States more transparent for patients so that they can be more informed about what they might pay for hospital items and services. </span></span></span></span></p>
+
+<p><span><span><span><span>The policies in the final rule will further advance the agency’s commitment to increasing price transparency. It includes requirements that would apply to each hospital operating in the United States. This fact sheet discusses the provisions of the final rule (CMS-1717-F2), which can be <span><span>downloaded from the <em>Federal Register</em> at: </span></span></span></span></span></span><span class="MsoHyperlink"><span><span><span><span><a href="https://www.hhs.gov/sites/default/files/cms-1717-f2.pdf">https://www.hhs.gov/sites/default/files/cms-1717-f2.pdf</a></span></span></span></span></span><span><span><span><span><span><span>.</span></span></span></span></span></span></p>
+
+<p><span><span><strong><span><span>Increasing Price Transparency of Hospital Standard Charges</span></span></strong></span></span><br>
+<span><span><span><span><span>On June 24, 2019, the President signed an Executive Order on Improving Price and Quality Transparency in American Healthcare to Put Patients First noting that it is the policy of the Federal Government to increase the availability of meaningful price and quality information for patients.&nbsp; The Executive Order directed the Secretary of Health and Human Services (HHS) to propose a regulation, consistent with applicable law, to require hospitals to publicly post standard charge information.<a href="#_ftn1" title><span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span><span><span>[1]</span></span></span></span></span></a> </span></span></span><span><span>We believe </span></span><span><span><span>healthcare markets work more efficiently and provide consumers with higher-value healthcare if we promote policies that encourage choice and competition.<a href="#_ftn2" title><span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span><span><span>[2]</span></span></span></span></span></a> In short, as articulated by the CMS Administrator, we believe that transparency in health care pricing is “critical to enabling patients to become active consumers so that they can lead the drive towards value.”<a href="#_ftn3" title><span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span><span><span>[3]</span></span></span></span></span></a></span></span></span><br>
+<br>
+<span><span>This final rule implements </span></span><span><span><span>Section 2718(e)</span></span></span><span><span><span> of the Public Health Service Act and </span></span></span><span><span><span>improves upon prior agency guidance that required hospitals to make public their standard charges upon request starting in 2015 (79 FR 50146) and subsequently online in a machine-readable format starting in 2019 (83 FR 41144). Section 2718(e) requires each hospital operating within the United States to establish (and update) and make public a yearly list of the hospital’s standard charges for items and services provided by the hospital, including for diagnosis-related groups established under section 1886(d)(4) of the Social Security Act.&nbsp; In the final rule, we finalize the following: (1) definitions of “hospital”, “standard charges”, and “items and services”; (2) requirements for making public a machine-readable file online that includes all standard charges (including gross charges, discounted cash prices, payer-specific negotiated charges, and de-identified minimum and maximum negotiated charges) for all hospital items and services; (3) requirements for making public discounted cash prices, payer-specific negotiated charges, and de-identified minimum and maximum negotiated charges for at least </span></span></span><span><span>300 </span></span><span><span><span>‘</span></span></span><span><span>shoppable</span></span><span><span><span>’</span></span></span><span><span> services<span> (70 CMS-specified and 230 hospital-selected) that are displayed and packaged in a consumer-friendly manner; and (4) monitoring for hospital noncompliance and actions to address hospital noncompliance (including issuing a warning notice, requesting a corrective action plan, and imposing civil monetary penalties), and a process for hospitals to appeal these penalties.&nbsp; CMS is finalizing that these policies would be effective January 1, 2021. </span></span></span></span></span></p>
+
+<p><span><span><span><em><span><span>Definition of ‘Hospital’</span></span></em></span></span></span><br>
+<span><span><span><span>CMS is finalizing the definition of ‘hospital’ to mean <span>an institution in any State in which State or applicable local law provides for the licensing of hospitals, that is licensed as a hospital pursuant to such law, or is approved by the agency of such State or locality responsible for licensing hospitals, as meeting the standards established for such licensing. For purposes of this definition, a State includes each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.&nbsp; This </span>includes all Medicare-enrolled institutions that are licensed as hospitals (or approved as meeting licensing requirements) as well any non-Medicare enrolled institutions that are licensed as a hospital (or approved as meeting licensing requirements). Federally owned or operated hospitals (for example, hospitals operated by an Indian Health Program, the U.S. Department of Veterans Affairs, or the U.S. Department of Defense) that do not treat the general public, except for emergency services, and whose rates are not subject to negotiation, are deemed to be in compliance with the requirements </span></span><span><span>for making public standard charges</span></span><span><span> because their charges for hospital provided services are publicized to their patients (for example, through the Federal Register).</span></span></span></span></p>
+
+<p><span><span><span><em><span><span>Definition of ‘Standard Charges’</span></span></em></span></span></span><br>
+<span><span><span><span>CMS is finalizing the definition of ‘standard charges’ to include the following:</span></span></span></span></p>
+
+<ol>
+	<li><span><span><span><span><span>The gross charge (the charge for an individual item or service that is reflected on a hospital’s chargemaster, absent any discounts),</span></span></span></span></span></li>
+	<li><span><span><span><span><span>The discounted cash price (the charge that applies to an individual who pays cash, or cash equivalent, for a hospital item or service),</span></span></span></span></span></li>
+	<li><span><span><span><span><span>The payer-specific negotiated charge (the charge that a hospital has negotiated with a third party payer for an item or service),</span></span></span></span></span></li>
+	<li><span><span><span><span><span>The de-identified minimum negotiated charges (the lowest charge that a hospital has negotiated with all third-party payers for an item or service).</span></span></span></span></span></li>
+	<li><span><span><span><span><span>The de-identified maximum negotiated charges (the highest charge that a hospital has negotiated with all third-party payers for an item or service).</span></span></span></span></span></li>
+</ol>
+
+<p><span><span><span><em><span><span>Definition of Hospital ‘Items and Services’ </span></span></em></span></span></span><br>
+<span><span><span><span>CMS is finalizing the proposal to define hospital</span></span><span><span><span> “items and services” to mean all items and services, including individual items and services and service packages, that could be provided by a hospital to a patient in connection with an inpatient admission or an outpatient department visit for which the hospital has established a standard charge.&nbsp; Examples of these items and services would be supplies, procedures, room and board, use of the facility and other items (generally described as facilities fees), services of employed physicians and non-physician practitioners (generally reflected as professional charges), and any other items or services for which a hospital has established a standard charge.</span></span></span></span></span></p>
+
+<p><span><span><span><em><span><span>Requirements for Making Public All Standard Charges for All Items and Services in a Machine-Readable Format</span></span></em></span></span></span><br>
+<span><span><span><span>For each hospital location, hospitals must make public all their standard changes (including gross charges, payer-specific negotiated charges, de-identified minimum and maximum negotiated charges, and discounted cash prices) for all items and services online in a single digital file in a machine-readable format.&nbsp; Specifically, hospitals must do the following:</span></span></span></span></p>
+
+<ul>
+	<li><span><span><span><span><span>Include a description of each item or service (including both individual items and services and service packages) and any code (for example, HCPCS codes) used by the hospital for purposes of accounting or billing.</span></span></span></span></span></li>
+	<li><span><span><span><span><span>Display the file prominently and clearly identify the hospital location with which the standard charges information is associated on a publicly available website using a CMS-specified naming convention.&nbsp; </span></span></span></span></span></li>
+	<li><span><span><span><span><span>Ensure the data is easily accessible, without barriers, including ensuring the data is accessible free of charge, does not require a user to establish an account or password or submit personal identifying information (PII), and is digitally searchable.</span></span></span></span></span></li>
+	<li><span><span><span><span><span>Update the data at least annually and clearly indicate the date of the last update (either within the file or otherwise clearly associated with the file).</span></span></span></span></span></li>
+</ul>
+
+<p class="CxSpMiddle"><span><span><span><span>CMS believes this information and format is most directly useful for employers, providers, and tool developers who could use these data in consumer-friendly price transparency tools, or who may integrate the data into electronic medical records and shared decision making tools at the point of care.&nbsp; </span></span></span></span></p>
+
+<p><span><span><span><em><span><span>Requirements for Displaying Shoppable Services in a Consumer-Friendly Manner. </span></span></em></span></span></span><br>
+<span><span><span><span><span>Hospitals must make public standard charges for at least 300 “shoppable services” (including 70 CMS-specified and 230 hospital-selected) the hospital provides in a consumer‑friendly manner. We define ‘shoppable service’ to mean a service that can be scheduled </span></span></span><span><span>by a health care consumer in advance. <span>CMS believes these requirements will allow healthcare consumers to make apples-to-apples comparisons of payer-specific negotiated charges across healthcare settings. Specifically, hospitals must do the following:</span></span></span></span></span></p>
+
+<ul>
+	<li><span><span><span>Display payer-specific negotiated charges, de-identified minimum and maximum negotiated charges, and discounted cash prices for at least 300 shoppable services, including 70 CMS-specified shoppable services and 230 hospital-selected shoppable services.&nbsp; If a hospital does not provide one or more of the 70 CMS-specified shoppable services, the hospital must select additional shoppable services such that the total number of shoppable services is at least 300.&nbsp; </span></span></span><span><span>If a hospital does not provide 300 shoppable services, the hospital must list as many shoppable services as they provide.</span></span></li>
+	<li><span><span>Include a plain-language description of each shoppable service, an</span></span><span><span> indicator when one or more of the CMS-specified shoppable services are not offered by the hospital, and t</span></span><span><span>he location at which the shoppable service is provided,</span></span><span><span> including whether the standard charges for the shoppable service applies at that location to the provision of that shoppable service in the inpatient setting, the outpatient department setting, or both</span></span><span><span>.</span></span></li>
+	<li><span><span>Select such services based on the utilization or billing rate of the services.&nbsp; In other words, the shoppable services selected for display by the hospital should be commonly provided to the hospital’s patient population. </span></span></li>
+	<li><span><span>Include charges for services that the hospital customarily provides in conjunction with the primary service that is identified by a common billing code (e.g. Healthcare Common Procedure Coding System (HCPCS) codes).</span></span></li>
+	<li><span><span>Make sure that the charge information is displayed prominently on a publicly available webpage, and clearly identifies the hospital location with which the standard charge information is associated.</span></span></li>
+	<li><span><span>Ensure the data is easily accessible, without barriers, including ensuring the data is accessible free of charge, does not require a user to register, establish an account or password or submit PII, and is searchable by service description, billing code, and payer.</span></span></li>
+	<li><span><span>Update the information at least annually and clearly indicate the date of the last update.</span></span></li>
+</ul>
+
+<p class="CxSpLast"><span><span><span><span>Additionally, CMS will deem a hospital as having met the requirements for making public standard charges for 300 shoppable services in a consumer friendly manner </span></span><span><span>if the hospital maintains an internet-based price estimator tool that meets the following requirements:</span></span></span></span></p>
+
+<ul>
+	<li><span><span><span><span><span>Provides estimates for as many of the 70 CMS-specified shoppable services that are provided by the hospital, and as many additional hospital-selected shoppable services as is necessary for a combined total of at least 300 shoppable services.</span></span></span></span></span></li>
+	<li><span><span><span><span><span>Allows health care consumers to, at the time they use the tool, obtain an estimate of the amount they will be obligated to pay for the shoppable service by the hospital. </span></span></span></span></span></li>
+	<li><span><span><span><span><span>Is prominently displayed on the hospital’s website and accessible to the public without charge and without having to register or establish a user account or password. </span></span></span></span></span></li>
+</ul>
+
+<p><span><span><span><em><span><span>Monitoring and Enforcement</span></span></em></span></span></span><br>
+<span><span><span><span>Under this rule, CMS has the authority to monitor hospital compliance </span></span><span><span><span>with Section 2718(e)</span></span></span><span><span><span> of the Public Health Service Act, by evaluating complaints made by individuals or entities to CMS, reviewing i</span></span></span><span><span><span>ndividuals’ or entities’ analysis of noncompliance, </span></span></span><span><span>and auditing hospitals’ websites.</span></span><span><span><span> Should CMS conclude a hospital is noncompliant with one or more of the requirements to make public standard charges, CMS may assess a monetary penalty after </span></span></span><span><span>providing a warning notice to the hospital, or after requesting a corrective action plan from the hospital if its noncompliance constitutes a material violation of one or more requirements. </span></span><span><span><span>If the hospital fails to respond to CMS’ request to submit a corrective action plan or comply with the requirements of a corrective action plan, </span></span></span><span><span>CMS may impose a civil monetary penalty on the hospital not in excess of $300 per day, </span></span><span><span><span>and publicize the penalty </span></span></span><span><span>on a CMS website. The rule also establishes an appeals process for hospitals to request a hearing before an Administrative Law Judge (ALJ) </span></span><span><span><span>of the civil monetary penalty</span></span></span><span><span>. Under this process, </span></span><span><span><span>the Administrator of CMS, at his or her discretion, may review in whole or in part the ALJ’s decision.</span></span></span></span></span></p>
+
+<p class="CxSpMiddle"><span><span><em><span><span>Effective Date</span></span></em></span></span><br>
+<span><span><span><span>In response to comments, CMS is extending the effective date to January 1, 2021 to ensure hospital compliance with these regulations.</span></span></span></span></p>
+
+<p class="text-align-center"><span><span>###&nbsp;</span></span></p>
+
+<div>
+<hr>
+<div id="ftn1">
+<p class="MsoFootnoteText"><span><span><a href="#_ftnref1" title><span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span><span>[1]</span></span></span></span></a> <span class="MsoHyperlink"><span><a href="https://www.whitehouse.gov/presidential-actions/executive-order-improving-price-quality-transparency-american-healthcare-put-patients-first/">https://www.whitehouse.gov/presidential-actions/executive-order-improving-price-quality-transparency-american-healthcare-put-patients-first/</a></span></span>.&nbsp;&nbsp; </span></span></p>
+</div>
+
+<div id="ftn2">
+<p class="MsoFootnoteText"><span><span><a href="#_ftnref2" title><span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span><span>[2]</span></span></span></span></a> Azar, A. M., Mnuchin, S. T., and Acosta, A. “Reforming America’s Healthcare System Through Choice and Competition.” December 3, 2018. Available at: <span class="MsoHyperlink"><span><a href="https://www.hhs.gov/sites/default/files/Reforming-Americas-Healthcare-System-Through-Choice-and-Competition.pdf">https://www.hhs.gov/sites/default/files/Reforming-Americas-Healthcare-System-Through-Choice-and-Competition.pdf</a></span></span>. </span></span></p>
+</div>
+
+<div id="ftn3">
+<p class="MsoFootnoteText"><span><span><a href="#_ftnref3" title><span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span><span>[3]</span></span></span></span></a> Bresnick J.&nbsp; Verma: Price Transparency Rule a “First Step” for Consumerism. January 11, 2019.&nbsp; Available at: <span class="MsoHyperlink"><span><a href="https://healthpayerintelligence.com/news/verma-price-transparency-rule-a-first-step-for-consumerism">https://healthpayerintelligence.com/news/verma-price-transparency-rule-a-first-step-for-consumerism</a></span></span>.</span></span></p>
+</div>
+</div></div>
+           
+    <ul class="flippy">
+        <li class="flippy-next"><a href="/newsroom/fact-sheets/transparency-coverage-proposed-rule-cms-9915-p">Previous Newsroom Article</a></li>
+          <li class="flippy-previous"><a href="/newsroom/press-releases/cms-news-alert-march-27-2020">Next Newsroom Article</a></li>
+    </ul>
+
+  </div>
+</article>
+
+    </div>
+  </div>
+
+  </div>
+
+                      </inner>
+                    </div>
+                                      <div class="ds-l-col--12 ds-l-md-col--4 ds-l-lg-col--3 cms-global-left">
+                      <inner>
+                          <div class="region region-cms-rightnav">
+    <div class="views-element-container cms-accented-block ds-u-margin-bottom--3 cms-accented-block--lined block block-views block-views-blockrelated-press-releases-block-1" id="block-cms-evo-views-block-related-press-releases-block-1-2" data-block-plugin-id="views_block:related_press_releases-block_1">
+  
+      <h2>Related Releases</h2>
+    
+      <div class="content">
+     <span class="create-date"> </span>
+      <div region="cms_rightNav"><div class="view view-related-press-releases view-id-related_press_releases view-display-id-block_1 js-view-dom-id-b23e1054cad579be1aa1469dfadd6daf0f249c4fa146ca6b8cd4b49c6e5cb2ac">
+  
+    
+            
+  
+      <div class="view-content">
+      <div class="item-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-nothing"><span class="field-content"><div class="ds-u-display--flex ds-u-flex-wrap--wrap ds-u-align-items--center ds-u-margin-top--1 ds-u-margin-bottom--2">
+<span class="ds-c-badge ds-c-badge--warn ds-u-margin-right--1">Press Releases</span>
+<time datetime="2024-10-16T12:00:00Z"><abbr title="October">Oct</abbr> 16, 2024</time>
+
+</div></span></div><div class="views-field views-field-title"><span class="field-content ds-u-font-size--lg"><a href="/newsroom/press-releases/biden-harris-administration-takes-groundbreaking-action-expand-health-care-access-covering" hreflang="en">Biden-Harris Administration Takes Groundbreaking Action to Expand Health Care Access by Covering Traditional Health Care Practices</a></span></div></li>
+          <li><div class="views-field views-field-nothing"><span class="field-content"><div class="ds-u-display--flex ds-u-flex-wrap--wrap ds-u-align-items--center ds-u-margin-top--1 ds-u-margin-bottom--2">
+<span class="ds-c-badge ds-c-badge--warn ds-u-margin-right--1">Press Releases</span>
+<time datetime="2024-09-09T12:00:00Z"><abbr title="September">Sep</abbr> 09, 2024</time>
+
+</div></span></div><div class="views-field views-field-title"><span class="field-content ds-u-font-size--lg"><a href="/newsroom/press-releases/departments-labor-health-and-human-services-treasury-issue-final-rules-strengthening-access-mental" hreflang="en">Departments of Labor, Health and Human Services, Treasury Issue Final Rules Strengthening Access to Mental Health, Substance Use Disorder Benefits</a></span></div></li>
+          <li><div class="views-field views-field-nothing"><span class="field-content"><div class="ds-u-display--flex ds-u-flex-wrap--wrap ds-u-align-items--center ds-u-margin-top--1 ds-u-margin-bottom--2">
+<span class="ds-c-badge ds-c-badge--warn ds-u-margin-right--1">Press Releases</span>
+<time datetime="2024-08-16T12:00:00Z"><abbr title="August">Aug</abbr> 16, 2024</time>
+
+</div></span></div><div class="views-field views-field-title"><span class="field-content ds-u-font-size--lg"><a href="/newsroom/press-releases/moldx-local-coverage-determination-statement" hreflang="en">MolDx Local Coverage Determination Statement</a></span></div></li>
+          <li><div class="views-field views-field-nothing"><span class="field-content"><div class="ds-u-display--flex ds-u-flex-wrap--wrap ds-u-align-items--center ds-u-margin-top--1 ds-u-margin-bottom--2">
+<span class="ds-c-badge ds-c-badge--warn ds-u-margin-right--1">Press Releases</span>
+<time datetime="2024-07-02T12:00:00Z"><abbr title="July">Jul</abbr> 02, 2024</time>
+
+</div></span></div><div class="views-field views-field-title"><span class="field-content ds-u-font-size--lg"><a href="/newsroom/press-releases/hhs-authorizes-five-states-provide-historic-health-care-coverage-people-transitioning-out" hreflang="en">HHS Authorizes Five States to Provide Historic Health Care Coverage for People Transitioning out of Incarceration</a></span></div></li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+
+<div id="block-cms-evo-contactus-2" data-block-plugin-id="block_content:0525d363-a112-4638-8989-d7ffaec51409" class="cms-accented-block ds-u-margin-bottom--3 cms-accented-block--blue block block-block-content block-inline--basic block-inline--cms-block-text">
+  
+      <h2>Contact us</h2>
+    
+      <div class="content">
+                       <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>CMS News and Media Group<br>
+Catherine Howden, Director<br>
+<br>
+<a href="https://www.cms.gov/newsroom/media-inquiries">Media Inquiries Form</a><br>
+202-690-6145</p></div>
+           
+    </div>
+  </div>
+
+  </div>
+
+                      </inner>
+                    </div>
+                                  <!--1 column-->
+                              </div>
+            </div>
+            
+          </div>
+        </main>
+      </div>
+    </div>
+        
+<footer  class="cms--footer ds-u-padding-y--3 ds-u-lg-padding-y--5 ds-u-margin-top--4">
+  <div class="ds-l-container">
+    <div class="ds-l-row ds-u-justify-content--center footer-email-section">
+      <div class="ds-l-col--12 ds-l-md-col--6 ds-l-lg-col--8">
+        <h2>Get email updates</h2>
+        <p>Sign up to get the latest information about your choice of CMS topics. You can decide how often to receive updates.</p>
+      </div>
+      <div class="ds-l-col--12 ds-l-md-col--6 ds-l-lg-col--4">
+        <div id="email-widget">
+          <form aria-label="Enter your email address for email updates" accept-charset="UTF-8" action="https://public.govdelivery.com/accounts/USCMS/subscribers/qualify" id="email-footer-form" method="post" data-drupal-form-fields="email-footer-input,email-submit">
+            <div class="ds-u-display--flex" id="email-form">
+              <div class="ds-u-display--flex ds-u-flex-direction--column flex-grow">
+                <label for="email" class="ds-u-font-weight--bold ds-u-margin-bottom--1 ds-u-margin-top--3">Email</label>
+                <input required="required" aria-label="Enter your email address:" name="email" type="text" placeholder="you@example.com" class="ds-c-field ds-u-margin-bottom--05">
+              </div>
+              <div class="submit-button ds-u-margin-top--2">
+                <label id="email-submit-label" for="email-footer-submit" class="ds-u-visibility--screen-reader">Sign up - opens in a new window</label>
+                <button id="email-submit" aria-labelledby="email-submit-label" class="ds-c-button ds-c-button--solid cms--external-button" name="email-footer-submit" type="submit" value="Sign up">Sign up</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <!-- The cms_footer region can contain a variable number of menus -->
+    <!-- Menus placed in this region should use the same template file -->
+    <div class="ds-l-row ds-u-justify-content--center footer-menus-section ds-u-margin-y--3 ds-u-lg-margin-top--5">
+      <div class="ds-l-col--12">
+          <div class="region region-cms-footer">
+    <nav aria-labelledby="block-cms-evo-cmshhswebsitescmsglobalfooter-menu"  id="block-cms-evo-cmshhswebsitescmsglobalfooter" data-block-plugin-id="system_menu_block:cms-hhs-websites-cms-global" class="cms--link-list cms--footer-menu cms-tracker--footer-menu">
+      
+  <span class="cms--link-list-title h2"  id="block-cms-evo-cmshhswebsitescmsglobalfooter-menu">
+    <button class="ds-u-display--block ds-u-md-display--none" aria-controls="link-list-block-cms-evo-cmshhswebsitescmsglobalfooter-menu">CMS &amp; HHS Websites<i class="fas fa-angle-down" aria-hidden="true"></i></button>
+    <span class="ds-u-display--none ds-u-md-display--block">CMS &amp; HHS Websites</span>
+  </span>
+
+  
+
+        <div id="link-list-block-cms-evo-cmshhswebsitescmsglobalfooter-menu" aria-hidden="true" class="cms--link-list__links">
+      
+                  <ul class="menu cms-evo-unstyled-list">
+              <li class="footer-menu-item">
+        <a href="https://www.medicare.gov/" class="footer-menu-item-link" title="Medicare.gov">Medicare.gov</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="https://www.medicaid.gov/" class="footer-menu-item-link" title="Medicaid.gov">Medicaid.gov</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="https://www.insurekidsnow.gov/" class="footer-menu-item-link" title="InsureKidsNow.gov">InsureKidsNow.gov</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="https://www.healthcare.gov/" class="footer-menu-item-link" title="HealthCare.gov">HealthCare.gov</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="https://www.hhs.gov/" class="footer-menu-item-link" title="HHS.gov">HHS.gov</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="https://www.hhs.gov/open/index.html" class="footer-menu-item-link" title="HHS.gov/Open">HHS.gov/Open</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+<nav aria-labelledby="block-aboutcms-menu"  id="block-aboutcms" data-block-plugin-id="system_menu_block:about-cms" class="cms--link-list cms--footer-menu cms-tracker--footer-menu">
+      
+  <span class="cms--link-list-title h2"  id="block-aboutcms-menu">
+    <button class="ds-u-display--block ds-u-md-display--none" aria-controls="link-list-block-aboutcms-menu">About CMS<i class="fas fa-angle-down" aria-hidden="true"></i></button>
+    <span class="ds-u-display--none ds-u-md-display--block">About CMS</span>
+  </span>
+
+  
+
+        <div id="link-list-block-aboutcms-menu" aria-hidden="true" class="cms--link-list__links">
+      
+                  <ul class="menu cms-evo-unstyled-list">
+              <li class="footer-menu-item">
+        <a href="/About-CMS/About-CMS" title="About CMS" class="footer-menu-item-link">About Us</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="/About-CMS/Career-Information/CareersatCMS/index" class="footer-menu-item-link">Careers</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="/newsroom" title="Newsroom" class="footer-menu-item-link">Newsroom</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+<nav aria-labelledby="block-cms-evo-toolscmsglobalfooter-menu"  id="block-cms-evo-toolscmsglobalfooter" data-block-plugin-id="system_menu_block:tools-cms-global-footer-" class="cms--link-list cms--footer-menu cms-tracker--footer-menu">
+      
+  <span class="cms--link-list-title h2"  id="block-cms-evo-toolscmsglobalfooter-menu">
+    <button class="ds-u-display--block ds-u-md-display--none" aria-controls="link-list-block-cms-evo-toolscmsglobalfooter-menu">Tools<i class="fas fa-angle-down" aria-hidden="true"></i></button>
+    <span class="ds-u-display--none ds-u-md-display--block">Tools</span>
+  </span>
+
+  
+
+        <div id="link-list-block-cms-evo-toolscmsglobalfooter-menu" aria-hidden="true" class="cms--link-list__links">
+      
+                  <ul class="menu cms-evo-unstyled-list">
+              <li class="footer-menu-item">
+        <a href="/acronyms" title="Acronyms" class="footer-menu-item-link" data-drupal-link-system-path="acronyms">Acronyms</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="/about-cms/web-policies-important-links/about-website/archive" class="footer-menu-item-link" title="Archive" data-drupal-link-system-path="node/1581331">Archive</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="/contacts" title="Contacts" class="footer-menu-item-link">Contacts</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="/glossary" title="Glossary" class="footer-menu-item-link" data-drupal-link-system-path="glossary">Glossary</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+<nav aria-labelledby="block-cms-evo-helpfullinkscmsglobalfooter-menu"  id="block-cms-evo-helpfullinkscmsglobalfooter" data-block-plugin-id="system_menu_block:helpful-links-cms-global-fo" class="cms--link-list cms--footer-menu cms-tracker--footer-menu">
+      
+  <span class="cms--link-list-title h2"  id="block-cms-evo-helpfullinkscmsglobalfooter-menu">
+    <button class="ds-u-display--block ds-u-md-display--none" aria-controls="link-list-block-cms-evo-helpfullinkscmsglobalfooter-menu">Helpful Links<i class="fas fa-angle-down" aria-hidden="true"></i></button>
+    <span class="ds-u-display--none ds-u-md-display--block">Helpful Links</span>
+  </span>
+
+  
+
+        <div id="link-list-block-cms-evo-helpfullinkscmsglobalfooter-menu" aria-hidden="true" class="cms--link-list__links">
+      
+                  <ul class="menu cms-evo-unstyled-list">
+              <li class="footer-menu-item">
+        <a href="/about-cms/web-policies-important-links/web-policies/privacy" class="footer-menu-item-link" data-drupal-link-system-path="node/414586">Privacy Policy</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="https://www.medicare.gov/about-us/plain-writing" class="footer-menu-item-link" title="Plain Language">Plain Language</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="" title="Privacy settings" class="footer-menu-item-link">Privacy Settings</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="/About-CMS/Agency-Information/Aboutwebsite/CMSNondiscriminationNotice" title="Nondiscrimination/Accessibility" class="footer-menu-item-link">Nondiscrimination &amp; Accessibility</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="https://developer.cms.gov/" class="footer-menu-item-link" title="For Developers">Developer Information</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="/about-cms/information-systems/privacy/vulnerability-disclosure-policy" title="Vulnerability Disclosure Policy" class="footer-menu-item-link" data-drupal-link-system-path="node/1565336">Vulnerability Disclosure Policy</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+<nav aria-labelledby="block-usagovernmentsites-menu"  id="block-usagovernmentsites" data-block-plugin-id="system_menu_block:usa-government-sites" class="cms--link-list cms--footer-menu cms-tracker--footer-menu">
+      
+  <span class="cms--link-list-title h2"  id="block-usagovernmentsites-menu">
+    <button class="ds-u-display--block ds-u-md-display--none" aria-controls="link-list-block-usagovernmentsites-menu">USA Government Sites<i class="fas fa-angle-down" aria-hidden="true"></i></button>
+    <span class="ds-u-display--none ds-u-md-display--block">USA Government Sites</span>
+  </span>
+
+  
+
+        <div id="link-list-block-usagovernmentsites-menu" aria-hidden="true" class="cms--link-list__links">
+      
+                  <ul class="menu cms-evo-unstyled-list">
+              <li class="footer-menu-item">
+        <a href="https://www.cms.gov/freedom-information-act-foia-service-center" class="footer-menu-item-link" title="Freedom of Information Act">Freedom of Information Act</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="/About-CMS/Agency-Information/Aboutwebsite/NoFearAct" title="No Fear Act" class="footer-menu-item-link">No Fear Act</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="https://www.oig.hhs.gov" class="footer-menu-item-link" title="Inspector General">Inspector General</a>
+              </li>
+          <li class="footer-menu-item">
+        <a href="https://www.usa.gov/" class="footer-menu-item-link" title="USA.gov">USA.gov</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+  </div>
+
+      </div>
+    </div>
+
+    <div class="ds-l-row ds-u-justify-content--center footer-logos-section">
+      <div class="ds-l-col--12">
+        <div class="ds-u-display--flex logos-social-wrapper">
+          <div class="footer-logos ds-u-display--flex ds-u-align-items--center">
+            <a class="footer-cms-logo ds-u-display--block" href="/">
+              <img src="/themes/custom/cms_evo/logo.svg" alt="CMS.gov"/>
+            </a>
+            <a class="footer-hhs ds-u-display--block" href="http://www.hhs.gov">
+              <img alt="HHS Logo" class="footer-hhs" height="64" src="/themes/custom/cms_evo/images/hhslogo.png" typeof="foaf:Image" width="52">
+            </a>
+          </div>
+          <div class="footer-social">
+            <h2 id="connect-message" class="ds-u-visibility--screen-reader">Connect with CMS</h2>
+            <ul class="ds-u-display--flex cms-evo-unstyled-list" aria-labelledby="connect-message">
+              <li class="list-item">
+                <a class="list-item-link" href="https://www.linkedin.com/company/centers-for-medicare-&amp;-medicaid-services/">
+                  <i class="fab fa-linkedin" aria-hidden="true"></i>
+                  <div class="ds-u-visibility--screen-reader">Linkedin link</div>
+                </a>
+              </li>
+              <li class="list-item">
+                <a class="list-item-link" href="https://www.youtube.com/user/CMSHHSgov">
+                  <i class="fab fa-youtube" aria-hidden="true"></i>
+                  <div class="ds-u-visibility--screen-reader">Youtube link</div>
+                </a>
+              </li>
+              <li class="list-item">
+                <a class="list-item-link" href="https://www.facebook.com/medicare">
+                  <i class="fab fa-facebook" aria-hidden="true"></i>
+                  <div class="ds-u-visibility--screen-reader">Facebook link</div>
+                </a>
+              </li>
+              <li class="list-item">
+                <a class="list-item-link" href="https://twitter.com/cmsgov">
+                  <svg xmlns="http://www.w3.org/2000/svg" height="26" width="26" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>
+                  <div class="ds-u-visibility--screen-reader">Twitter link</div>
+                </a>
+              </li>
+              <li class="list-item">
+                <a class="list-item-link" href="https://www.cms.gov/Outreach-and-Education/Outreach/CMSFeeds/index">
+                  <i class="fas fa-rss" aria-hidden="true"></i>
+                  <div class="ds-u-visibility--screen-reader">RSS Feed link</div>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ds-l-row ds-u-justify-content--center ds-u-margin-top--2 footer-address">
+      <div class="ds-l-col--12 ds-l-lg-col--8">
+        <div class="ds-u-text-align--center">
+          <p>A federal government website managed and paid for by the U.S. Centers for Medicare &amp; Medicaid Services.</p>
+          <p>7500 Security Boulevard, Baltimore, MD 21244</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/1289686","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx1j2FuwzAIhS9kx0eysE0zVAyucdJlp5-VatHUaX-A9z0JHvmOhYb2CDlrL6QSrmm5dZWBUlyuFnHXMLtPrPnuB36OC6-sCdijZZ9ICsn6btk4-DcWfFpXrT6B4V8qsHtD6Pnj9FYU7MA_y5iSmxExiPYKTF_obkytHaH0rQEvL-UqCWkHWTEaVA5veoEyiXvdidAowjY0a22MA8M_3NlhA2s4gw-c57dKj3BNEeyQ7Haav4SzLlXLxvgNv1GNiQ","theme":"cms_evo","theme_token":null},"ajaxTrustedUrl":{"\/newsroom\/search":true},"tealiumiq":{"tealiumiq":{"utagurl":"https:\/\/tealium-tags.cms.gov\/cms-www\/prod\/utag.js","async":true,"utagData":{"page_name":"CY 2020 Hospital Outpatient Prospective Payment System (OPPS) Policy Changes: Hospital Price Transparency Requirements (CMS-1717-F2)","page_url":"https:\/\/www.cms.gov\/newsroom\/fact-sheets\/cy-2020-hospital-outpatient-prospective-payment-system-opps-policy-changes-hospital-price","site_section":"newsroom","sub_section":"fact-sheets","site_environment":"prod","site_domain":"www.cms.gov","logged_in":"anonymous","content_type":"Newsroom Article","cms_group":"33131"}}},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":1,"animateAccordionOpenAndClose":1,"openTabsWithHash":0}},"mapboxToken":"pk.eyJ1IjoiY21zd25tZyIsImEiOiJja3U0Z2ljYjYxbHV5MnhxZzJmNnBsY2kxIn0.kBFqQzkbhdGL6zweuY2NsQ","mapboxStyle":"mapbox:\/\/styles\/mapbox\/streets-v10","search_api_autocomplete":{"newsroom_of_acquia_search":{"auto_submit":true,"min_length":3}},"cms_search_settings":{"isShowMoreTopics":null},"user":{"uid":0,"permissionsHash":"c126d7fc80f8e73b2f053f351439fb3fedb59cda4c2bc706c8b6ae5ae8d9c3c6"}}</script>
+<script src="https://design.cms.gov/cdn/design-system/10.1.0/web-components/bundle/base.js"></script>
+<script src="https://design.cms.gov/cdn/design-system/10.1.0/web-components/bundle/ds-usa-banner.js"></script>
+<script src="/sites/default/files/js/js_IH98DvF5SwodNBUeDnSGVgX3EvC_PbUOftM16iFpFhE.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=cms_evo&amp;include=eJx1yUEOwjAMRNELJeRIkeOYYpHYxXaLensWSBUCsZqvN3inzqFWAVGts0o563I1lSDpCadX2rUsQxuMTI65sXSW5fvyOMYnCz3dVGdu4PSrAnt2AsNbek-FlStsoahzHRRU_ngKgsHb5Ec5q4Ifgi8miFMV"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?stss0l"></script>
+<script src="/sites/default/files/js/js_hvCp24W1s2IX3xq0Fc7gHyjnmsnoLL9x3TtqUX1D-kI.js?scope=footer&amp;delta=4&amp;language=en&amp;theme=cms_evo&amp;include=eJx1yUEOwjAMRNELJeRIkeOYYpHYxXaLensWSBUCsZqvN3inzqFWAVGts0o563I1lSDpCadX2rUsQxuMTI65sXSW5fvyOMYnCz3dVGdu4PSrAnt2AsNbek-FlStsoahzHRRU_ngKgsHb5Ec5q4Ifgi8miFMV"></script>
+</js-bottom-placeholder>
+  </body>
+</html>
