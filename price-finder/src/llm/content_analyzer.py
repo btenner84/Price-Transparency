@@ -6,6 +6,7 @@ import asyncio
 import pandas as pd
 import csv
 import io
+import re
 
 from ..models.hospital import Hospital
 from ..models.price_file import PriceFile
@@ -343,4 +344,98 @@ class LLMContentAnalyzer:
             
         except Exception as e:
             logger.error(f"Error parsing LLM response: {e}, response: {response}")
-            return [] 
+            return []
+    
+    async def validate_hospital_match(self, prompt: str) -> Dict[str, Any]:
+        """Validate if a file matches a specific hospital using LLM.
+        
+        Args:
+            prompt: The prompt to send to the LLM
+            
+        Returns:
+            Dict with validation results containing:
+            - valid: bool
+            - confidence: float
+            - explanation: str
+        """
+        # Call the LLM for analysis with a simplified system prompt
+        system_prompt = """
+        You are an expert in hospital price transparency data and healthcare systems.
+        You are helping to determine if a price transparency file is valid for a specific hospital.
+        Analyze the provided file content carefully, looking for hospital names, system names, and location matches.
+        """
+        
+        # Call the appropriate LLM provider
+        try:
+            if self.provider == self.PROVIDER_OPENAI:
+                response = await self.analyzer._analyze_with_openai(system_prompt, prompt)
+            elif self.provider == self.PROVIDER_ANTHROPIC:
+                response = await self.analyzer._analyze_with_anthropic(system_prompt, prompt)
+            elif self.provider == self.PROVIDER_MISTRAL:
+                response = await self.analyzer._analyze_with_mistral(system_prompt, prompt)
+            else:
+                return {
+                    "valid": False,
+                    "confidence": 0.0,
+                    "explanation": f"Unsupported LLM provider: {self.provider}"
+                }
+            
+            # Parse the response to extract validation results
+            # First, look for structured output in the format requested
+            valid = False
+            confidence = 0.0
+            explanation = "Could not determine validity"
+            
+            # Look for validity indicator
+            valid_match = re.search(r'Valid\s*:\s*(true|false)', response, re.IGNORECASE)
+            if valid_match:
+                valid = valid_match.group(1).lower() == 'true'
+            
+            # Look for confidence score
+            confidence_match = re.search(r'Confidence\s*:\s*(\d+\.\d+|\d+)', response)
+            if confidence_match:
+                try:
+                    confidence = float(confidence_match.group(1))
+                except ValueError:
+                    pass
+            
+            # Look for explanation
+            explanation_match = re.search(r'Explanation\s*:\s*(.+?)(?:\n\n|\Z)', response, re.DOTALL)
+            if explanation_match:
+                explanation = explanation_match.group(1).strip()
+            
+            # If we couldn't extract structured output, try to infer from text
+            if not valid_match and not confidence_match:
+                # Look for positive indicators
+                positive_indicators = ['matches', 'valid', 'belongs to', 'corresponds to', 'is for']
+                negative_indicators = ['not valid', 'does not match', 'not for', 'doesn\'t match', 'invalid']
+                
+                # Count indicators
+                positive_count = sum(1 for ind in positive_indicators if ind in response.lower())
+                negative_count = sum(1 for ind in negative_indicators if ind in response.lower())
+                
+                # Determine validity based on counts
+                if positive_count > negative_count:
+                    valid = True
+                    confidence = 0.7  # Default confidence when inferring
+                else:
+                    valid = False
+                    confidence = 0.7
+                
+                # Use the full response as explanation if we couldn't extract one
+                if not explanation_match:
+                    explanation = response.strip()
+            
+            return {
+                "valid": valid,
+                "confidence": confidence,
+                "explanation": explanation
+            }
+            
+        except Exception as e:
+            logger.error(f"Error in validate_hospital_match: {str(e)}")
+            return {
+                "valid": False,
+                "confidence": 0.0,
+                "explanation": f"Error during validation: {str(e)}"
+            } 

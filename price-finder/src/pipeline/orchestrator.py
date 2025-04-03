@@ -5,6 +5,9 @@ import json
 from typing import List, Dict, Any, Optional, Tuple
 from datetime import datetime
 from pathlib import Path
+import re
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 
 from ..models.hospital import Hospital
 from ..models.price_file import PriceFile
@@ -98,73 +101,225 @@ class PriceFinderPipeline:
         """Find a price transparency file for a hospital.
         
         Args:
-            hospital: Hospital to search for
+            hospital: Hospital object
             
         Returns:
             PriceFile object if found, None otherwise
         """
-        start_time = datetime.now()
         hospital_id = hospital.id
+        start_time = datetime.now()
         
         try:
             logger.info(f"Starting price file search for {hospital.name} ({hospital.state})")
             
-            # Update status
+            # Update status to searching
             self.status_tracker.start_search(hospital_id)
             
-            # Step 1: Search for the hospital's price transparency data
-            logger.info(f"Searching for price transparency files for {hospital.name}")
-            search_results = await self.serpapi_searcher.search_hospital_price_transparency(hospital)
+            # Step 1: Search for price transparency files using SerpAPI
+            search_query = f"{hospital.name} {hospital.city}, {hospital.state} price transparency standard charges"
+            logger.info(f"Searching for: {search_query}")
+            search_results = await self.serpapi_searcher.search(search_query)
             
             if not search_results:
-                logger.warning(f"No search results found for {hospital.name}")
-                self.status_tracker.mark_failure(hospital_id, "No search results")
-                log_execution_time(logger, start_time, f"Search for {hospital.name}")
+                logger.warning(f"No search results for {hospital.name}")
+                self.status_tracker.mark_failure(hospital_id, "No search results found")
                 return None
             
-            # Step 2: Analyze search results with LLM
-            logger.info(f"Analyzing {len(search_results)} search results for {hospital.name}")
-            analyzed_results = await self.link_analyzer.analyze_search_results(search_results, hospital)
+            logger.info(f"Found {len(search_results)} results for query: {search_query}")
             
-            if not analyzed_results:
-                logger.warning(f"No relevant links found for {hospital.name}")
-                self.status_tracker.mark_failure(hospital_id, "No relevant links")
-                log_execution_time(logger, start_time, f"Search for {hospital.name}")
-                return None
+            # Keep only top 10 results for analysis
+            top_results = search_results[:10]
             
-            # Step 3: Crawl only the top 3 most promising links
+            # Step 2: Analyze search results with LLM to identify promising links
+            logger.info(f"Analyzing {len(top_results)} search results for {hospital.name}")
+            analyzed_results = await self.link_analyzer.analyze_search_results(top_results, hospital)
+            
+            # Sort by relevance score
+            analyzed_results.sort(key=lambda x: x['relevance_score'], reverse=True)
+            
+            # Keep only top N most relevant links
+            top_links = analyzed_results[:3] if analyzed_results else []
+            
             valid_files = []
             
-            # Sort results by confidence/relevance if not already sorted
-            analyzed_results.sort(key=lambda x: x.get("confidence", 0), reverse=True)
+            # Check if this is part of a known hospital system that might have combined price files
+            # Safely check for health_sys_name attribute
+            has_health_sys_attr = hasattr(hospital, 'health_sys_name')
+            health_sys_name = getattr(hospital, 'health_sys_name', '') if has_health_sys_attr else ''
+            is_system_hospital = bool(health_sys_name and health_sys_name.strip() != '')
             
-            for i, result in enumerate(analyzed_results[:3]):  # Only check top 3 results
-                url = result.get("link")
-                if not url:
-                    continue
+            # Check for Noland hospital - safely handle different Hospital implementations
+            hospital_name_lower = hospital.name.lower() if hasattr(hospital, 'name') else ''
+            health_sys_lower = health_sys_name.lower() if health_sys_name else ''
+            is_noland_hospital = ('noland' in hospital_name_lower or 
+                                 ('noland' in health_sys_lower))
+            
+            # Step 3: Crawl and validate top links
+            for link_data in top_links:
+                # Crawl the page for price file links
+                link_url = link_data['link']
+                # Safely get rank or use index+1
+                link_rank = link_data.get('rank', top_links.index(link_data) + 1)
+                logger.info(f"Crawling {link_url} for {hospital.name} (#{link_rank} of top {len(top_links)})")
+                
+                # Special handling for system hospitals, especially Noland 
+                if is_noland_hospital and ('nolandhospitals.com' in link_url or 'nolandhealth.com' in link_url):
+                    logger.info(f"Special handling for Noland hospital system URL: {link_url}")
+                    # Be more lenient with validation for system-wide price files for Noland
+                
+                # Use the existing crawl method instead of the non-existent find_price_file_links
+                page_data = await self.crawler.crawl(link_url)
+                
+                # Extract potential file links
+                file_links = []
+                facility_links = {}  # Dictionary to store facility-specific links
+                
+                # Check for direct price file links from crawler
+                if 'price_file_links' in page_data:
+                    for link_info in page_data['price_file_links']:
+                        if 'url' in link_info:
+                            url = link_info['url']
+                            # Store facility information if available
+                            if 'facility' in link_info:
+                                facility = link_info['facility']
+                                if facility not in facility_links:
+                                    facility_links[facility] = []
+                                facility_links[facility].append(url)
+                            file_links.append(url)
+                
+                # Also check for direct file links that match common file types
+                if 'links' in page_data:
+                    # Define strict extensions for price files
+                    price_file_extensions = ['.csv', '.xlsx', '.xls', '.json', '.xml']
+                    # Price file indicators in URL path or text
+                    price_indicators = ['price', 'charge', 'standard', 'chargemaster', 'transparency', 
+                                        'cdm', 'machine-readable', 'rates', 'negotiated']
                     
-                logger.info(f"Crawling {url} for {hospital.name} (#{i+1} of top 3)")
-                page_data = await self.crawler.crawl(url)
+                    for link_info in page_data['links']:
+                        if 'url' in link_info:
+                            url = link_info['url'].lower()
+                            text = link_info.get('text', '').lower()
+                            
+                            # Check if it's a direct file link with approved extension
+                            is_price_file_ext = any(url.endswith(ext) for ext in price_file_extensions)
+                            
+                            # Check for zip files with price indicators
+                            is_zip_with_price = url.endswith('.zip') and any(indicator in url or indicator in text 
+                                                                            for indicator in price_indicators)
+                            
+                            # Check for price indicators in URL path or link text
+                            has_price_indicator = any(indicator in url or indicator in text 
+                                                     for indicator in price_indicators)
+                            
+                            # Filter more strictly - must have either approved extension or strong indicators
+                            if is_price_file_ext or is_zip_with_price or (
+                                    has_price_indicator and link_info.get('is_file', False)):
+                                # Store facility information if available
+                                if 'facility' in link_info:
+                                    facility = link_info['facility']
+                                    if facility not in facility_links:
+                                        facility_links[facility] = []
+                                    facility_links[facility].append(link_info['url'])
+                                file_links.append(link_info['url'])
                 
-                # Use LLM to find potential price file links in the page
-                potential_links = await self.content_analyzer.find_file_links(page_data['text_content'], hospital)
+                # Filter out duplicate links
+                file_links = list(dict.fromkeys(file_links))
                 
-                # Add direct links from crawler's analysis
-                potential_links.extend([link['url'] for link in page_data['price_file_links'][:3]])
+                # Prioritize links for the specific hospital if available
+                prioritized_links = []
                 
-                # Remove duplicates
-                potential_links = list(set(potential_links))
-                
-                logger.info(f"Found {len(potential_links)} potential price file links for {hospital.name}")
-                
-                # Only check up to 2 files per promising link to limit API usage
-                for file_link in potential_links[:2]:
-                    try:
-                        # Download and analyze the file
-                        logger.info(f"Downloading file from {file_link}")
-                        content, file_path = await self.crawler.download_file(file_link)
+                # Step 1: First, check if we have facility-specific links that match this hospital
+                if facility_links:
+                    # Standardize all facility names and hospital name for better matching
+                    hospital_std = self._standardize_facility_name(hospital.name)
+                    hospital_words = set(hospital_std.split())
+                    
+                    best_match = None
+                    best_match_score = 0
+                    
+                    for facility, urls in facility_links.items():
+                        # Standardize facility name
+                        facility_std = self._standardize_facility_name(facility)
+                        facility_words = set(facility_std.split())
                         
-                        if not file_path:
+                        # Calculate word overlap as a score
+                        common_words = hospital_words.intersection(facility_words)
+                        total_words = hospital_words.union(facility_words)
+                        match_score = len(common_words) / max(1, len(total_words))
+                        
+                        # Boost score if facility contains hospital location
+                        if hasattr(hospital, 'city') and hospital.city and hospital.city.lower() in facility_std:
+                            match_score += 0.3
+                            
+                        if hasattr(hospital, 'state') and hospital.state and hospital.state.lower() in facility_std:
+                            match_score += 0.2
+                        
+                        # Track best match
+                        if match_score > best_match_score:
+                            best_match_score = match_score
+                            best_match = facility
+                    
+                    # If we found a good match (>40% similarity), prioritize those links
+                    if best_match_score > 0.4:
+                        logger.info(f"Found facility match for {hospital.name}: '{best_match}' (score: {best_match_score:.2f})")
+                        prioritized_links = facility_links[best_match]
+                        
+                        # Add remaining links as fallbacks
+                        for url in file_links:
+                            if url not in prioritized_links:
+                                prioritized_links.append(url)
+                    else:
+                        # No good facility match, use all links
+                        prioritized_links = file_links
+                else:
+                    # No facility links found, use all links
+                    prioritized_links = file_links
+                
+                # Limit links to check
+                max_links_to_check = 5
+                prioritized_links = prioritized_links[:max_links_to_check]
+                
+                # If we found potential links, log them
+                if prioritized_links:
+                    logger.info(f"Found {len(prioritized_links)} potential price file links on {link_url}")
+                else:
+                    logger.info(f"No price file links found on {link_url}")
+                    continue
+                
+                # Download and validate each potential file
+                temp_valid_files = []  # Store all valid files for this page, we'll pick the best later
+                for file_link in prioritized_links:
+                    try:
+                        # Skip PDFs unless they have strong price transparency indicators
+                        if file_link.lower().endswith('.pdf'):
+                            # Check if the URL or filename contains price indicators
+                            pdf_price_indicators = ['price', 'charge', 'chargemaster', 'cdm', 'standard-charges']
+                            has_price_indicator = any(indicator in file_link.lower() for indicator in pdf_price_indicators)
+                            
+                            # Skip generic PDFs that don't seem to be price files
+                            if not has_price_indicator:
+                                logger.info(f"Skipping generic PDF that lacks price indicators: {file_link}")
+                                continue
+                                
+                            # Also check for common non-price PDF patterns
+                            skip_indicators = ['patient', 'rights', 'notice', 'form', 'policy', 'privacy', 'consent']
+                            should_skip = any(indicator in file_link.lower() for indicator in skip_indicators)
+                            
+                            if should_skip and not has_price_indicator:
+                                logger.info(f"Skipping PDF that appears to be non-price document: {file_link}")
+                                continue
+                        
+                        # Download the file
+                        result = await self.crawler.download_file(file_link)
+                        
+                        # Check if result is a tuple (content, file_path)
+                        if isinstance(result, tuple) and len(result) == 2:
+                            content, file_path = result
+                        else:
+                            # If it's not a tuple, assume it's just the file path
+                            file_path = result
+                            
+                        if not file_path or not isinstance(file_path, Path) or not file_path.exists():
                             logger.warning(f"Failed to download file from {file_link}")
                             continue
                         
@@ -178,27 +333,46 @@ class PriceFinderPipeline:
                             file_path, hospital, self.content_analyzer
                         )
                         
-                        if not is_valid:
-                            logger.info(f"File from {file_link} is not a match for {hospital.name}: {reasoning}")
-                            continue
+                        # Special handling for system hospitals like Noland
+                        if not is_valid and is_system_hospital:
+                            # If it's a system hospital, check if the file might be a system-wide price file
+                            if is_noland_hospital and ('birmingham' in file_path.name.lower() or 'anniston' in file_path.name.lower()):
+                                # For Noland specifically, we know they use combined price files
+                                logger.info(f"Potential system-wide price file detected for Noland: {file_path.name}")
+                                
+                                # Extract the hospital's state from the content to verify it's for the right region
+                                if hospital.state.lower() in reasoning.lower():
+                                    logger.info(f"System file contains reference to hospital state {hospital.state}")
+                                    is_valid = True
+                                    confidence = 0.75
+                                    reasoning += f" System-wide price file: May cover multiple Noland facilities including {hospital.name}."
                         
-                        # Extract metadata
+                        # Store this file and validation info for later selection
                         price_file = await self.content_analyzer.extract_price_file_metadata(
                             file_path, hospital, file_link
                         )
                         
-                        logger.info(f"Found valid price file for {hospital.name}: {file_link}, confidence: {confidence}")
-                        valid_files.append(price_file)
+                        # Add validation info
+                        price_file.validated = is_valid
+                        price_file.validation_score = confidence
+                        price_file.validation_notes = reasoning
                         
-                        # No need to check more files if we found a high-confidence match
-                        if confidence > 0.9:
-                            break
+                        # Track all valid files
+                        if is_valid:
+                            logger.info(f"Found valid price file for {hospital.name}: {file_link}, confidence: {confidence}")
+                            temp_valid_files.append(price_file)
+                        else:
+                            logger.info(f"File from {file_link} is not a match for {hospital.name}: {reasoning}")
                             
                     except Exception as e:
                         logger.error(f"Error processing file {file_link}: {str(e)}")
                 
-                # If we found valid files, no need to check more search results
-                if valid_files:
+                # Add any valid files from this page to the overall list
+                valid_files.extend(temp_valid_files)
+                
+                # If we found a high-confidence file, we can move on
+                if any(f.validation_score > 0.9 for f in temp_valid_files):
+                    logger.info(f"Found high-confidence match for {hospital.name}, stopping search")
                     break
             
             # Step 4: Update status and return results
@@ -399,4 +573,56 @@ class PriceFinderPipeline:
             
         except Exception as e:
             log_exception(logger, e, f"Error updating master dataset")
-            return False 
+            return False
+
+    def _standardize_facility_name(self, name: str) -> str:
+        """Standardize a facility name for better matching."""
+        if not name:
+            return ""
+            
+        # Convert to lowercase
+        name = name.lower()
+        
+        # Remove common punctuation and normalize spacing
+        name = name.replace('-', ' ').replace('|', ' ').replace('/', ' ').replace(',', ' ')
+        name = ' '.join(name.split())  # Normalize spaces
+        
+        # Handle special cases for hospital naming patterns
+        # Replace common hospital type indicators with standard forms
+        name = name.replace('medical center', 'hospital')
+        name = name.replace('med center', 'hospital')
+        name = name.replace('medical ctr', 'hospital')
+        name = name.replace('med ctr', 'hospital')
+        name = name.replace('health center', 'hospital')
+        name = name.replace('health system', '')
+        name = name.replace('healthcare', '')
+        name = name.replace('health care', '')
+        
+        # Extract key identifying words from the hospital name
+        # Remove common words that don't help with identification
+        common_words = [
+            'the', 'and', 'of', 'at', 'in', 'by', 'for', 'a', 'an', 'to', 'with',
+            'hospital', 'medical', 'center', 'health', 'regional', 'community',
+            'memorial', 'general', 'system', 'care', 'saint', 'st', 'university'
+        ]
+        words = []
+        location_words = []
+        
+        # Process each word and categorize as identifying word or location indicator
+        for word in name.split():
+            # Skip common words unless they're likely part of a proper name
+            if word not in common_words or (len(word) > 2 and word[0].isupper()):
+                # Check if this might be a location indicator
+                # Locations often come after a dash or at the end of a name
+                if name.find(' ' + word) > name.find(' - ') > 0:
+                    location_words.append(word)
+                else:
+                    words.append(word)
+        
+        # Combine the words, giving preference to identifying words first, then location words
+        result = ' '.join(words)
+        if location_words:
+            # If we found location indicators, add them with higher weight
+            result = result + ' ' + ' '.join(location_words)
+            
+        return result 
