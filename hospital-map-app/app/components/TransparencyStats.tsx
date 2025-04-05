@@ -7,12 +7,8 @@ const TransparencyStats: React.FC = () => {
   const { stats, loading, priceFinderRunning } = useTransparency();
   
   return (
-    <div className="w-full my-2 px-4">
+    <div className="w-full mt-6">
       <div className="bg-black border-4 border-blue-400 rounded-md p-4 shadow-xl">
-        <h1 className="text-3xl font-bold text-blue-300 font-mono neon-text text-center mb-4">
-          HOSPITAL PRICE TRANSPARENCY
-        </h1>
-        
         {/* Single percentage display - only validated */}
         <div className="flex justify-center mb-4">
           <div className="text-center">

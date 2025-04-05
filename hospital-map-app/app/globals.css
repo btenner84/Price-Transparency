@@ -158,17 +158,35 @@ svg {
   box-shadow: 0 0 15px rgba(var(--primary-rgb), 0.4), inset 0 0 10px rgba(var(--primary-rgb), 0.2);
 }
 
+@keyframes shimmer {
+  0% {
+    transform: translateX(-200%);
+  }
+  100% {
+    transform: translateX(200%);
+  }
+}
+
 .tron-button-blue {
   background: rgba(var(--background-start-rgb), 0.8);
   color: rgb(var(--secondary-rgb));
-  border: 1px solid rgba(var(--secondary-rgb), 0.7);
-  box-shadow: 0 0 10px rgba(var(--secondary-rgb), 0.2), inset 0 0 5px rgba(var(--secondary-rgb), 0.1);
-  transition: all 0.2s ease;
+  border: 2px solid rgba(var(--secondary-rgb), 0.7);
+  box-shadow: 0 0 10px rgba(var(--secondary-rgb), 0.2),
+              inset 0 0 5px rgba(var(--secondary-rgb), 0.1),
+              0 0 20px rgba(var(--secondary-rgb), 0.1);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
 }
 
 .tron-button-blue:hover {
-  background: rgba(var(--secondary-rgb), 0.2);
-  box-shadow: 0 0 15px rgba(var(--secondary-rgb), 0.4), inset 0 0 10px rgba(var(--secondary-rgb), 0.2);
+  background: rgba(var(--secondary-rgb), 0.15);
+  border-color: rgb(var(--secondary-rgb));
+  box-shadow: 0 0 20px rgba(var(--secondary-rgb), 0.4),
+              inset 0 0 10px rgba(var(--secondary-rgb), 0.2),
+              0 0 30px rgba(var(--secondary-rgb), 0.2);
+  transform: translateY(-1px);
+  color: rgb(var(--highlight-rgb));
 }
 
 .map-state {
@@ -208,4 +226,26 @@ svg {
 
 .scrollbar-thin::-webkit-scrollbar-thumb:hover {
   background: rgb(var(--primary-rgb));
+}
+
+.cyberpunk-button {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.375rem 0.75rem;
+  font-family: ui-monospace, monospace;
+  font-size: 0.875rem;
+  font-weight: 500;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: rgb(var(--secondary-rgb));
+  border: 1px solid rgba(var(--secondary-rgb), 0.7);
+  border-radius: 0.25rem;
+  transition: all 0.2s ease;
+  backdrop-filter: blur(4px);
+}
+
+.cyberpunk-button:hover {
+  background-color: rgba(var(--secondary-rgb), 0.1);
+  color: rgb(var(--highlight-rgb));
+  border-color: rgb(var(--secondary-rgb));
+  box-shadow: 0 0 10px rgba(var(--secondary-rgb), 0.4);
 }
